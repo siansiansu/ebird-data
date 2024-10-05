@@ -1,29 +1,22 @@
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-  # Runs every day at 00:00 UTC
   schedule:
     - cron: "0 0 * * *"
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Update job
   update:
     runs-on: ubuntu-latest
     steps:
@@ -34,14 +27,34 @@ jobs:
           EBIRD_API_KEY: ${{ secrets.EBIRD_API_KEY }}
         run: |
           ./update.sh
-      - name: Commit and push if changed
+      - name: Validate JSON files
+        run: |
+          valid=true
+          for file in json/*.json; do
+            if ! jq empty "$file" 2>/dev/null; then
+              echo "Error: $file is not valid JSON"
+              valid=false
+            elif [ $(jq '. | length' "$file") -lt 100 ]; then
+              echo "Error: $file has fewer than 100 elements"
+              valid=false
+            fi
+          done
+          if [ "$valid" = false ]; then
+            echo "JSON validation failed. Aborting commit."
+            exit 1
+          fi
+      - name: Commit and push if changed and valid
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update data" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto update data"
+            git push
+          fi
 
-  # Build job
   build:
     runs-on: ubuntu-latest
     needs: update
@@ -58,7 +71,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
