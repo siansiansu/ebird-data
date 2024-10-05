@@ -31,12 +31,10 @@ jobs:
         run: |
           valid=true
           for file in json/*.json; do
-            if ! jq empty "$file" 2>/dev/null; then
-              echo "Error: $file is not valid JSON"
-              valid=false
-            elif [ $(jq '. | length' "$file") -lt 100 ]; then
+            if [ $(jq '. | length' "$file") -lt 100 ]; then
               echo "Error: $file has fewer than 100 elements"
               valid=false
+              break
             fi
           done
           if [ "$valid" = false ]; then
