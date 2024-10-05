@@ -1,4 +1,4 @@
-source ./EBIRD_API_KEY
+EBIRD_API_KEY="${EBIRD_API_KEY:-EBIRD_API_KEY}" 
 
 ## CSV
 
