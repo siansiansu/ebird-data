@@ -43,8 +43,8 @@ jobs:
           fi
       - name: Commit and push if changed and valid
         run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
+          git config --global user.email "minsiansu@github.com"
+          git config --global user.name "Min-Sian Su"
           git add -A
           if git diff --staged --quiet; then
             echo "No changes to commit"
