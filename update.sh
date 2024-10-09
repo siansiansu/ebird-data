@@ -1,4 +1,6 @@
-EBIRD_API_KEY="${EBIRD_API_KEY:-EBIRD_API_KEY}" 
+EBIRD_API_KEY="${EBIRD_API_KEY:-EBIRD_API_KEY}"
+
+set -e
 
 ## CSV
 
@@ -38,21 +40,4 @@ curl -s --location 'https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=
 curl -s --location 'https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=ja' -o ./json/species_ja.json
 curl -s --location 'https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale=zh' -o ./json/species_zh.json
 
-jq -s '
-  def ensure_array:
-    if type == "array" then . else [.] end;
-
-  def merge_by_sciName:
-    group_by(.sciName)
-    | map(reduce .[] as $item ({}; . * $item))
-    | map(if has("comNameZh") then . else . + {comNameZh: .comName} end)
-    | map(if has("comNameJp") then . else . + {comNameJp: .comName} end);
-
-  .[0] as $zh |
-  .[1] as $ja |
-  .[2] as $en |
-  ($en | ensure_array) +
-  ($zh | ensure_array | map({sciName, comNameZh: .comName})) +
-  ($ja | ensure_array | map({sciName, comNameJp: .comName})) |
-  merge_by_sciName
-' ./json/species_zh.json ./json/species_ja.json ./json/species_en.json >./json/species.json
+python ./merge.py

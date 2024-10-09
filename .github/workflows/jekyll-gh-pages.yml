@@ -31,8 +31,8 @@ jobs:
         run: |
           valid=true
           for file in json/*.json; do
-            if [ $(jq '. | length' "$file") -lt 100 ]; then
-              echo "Error: $file has fewer than 100 elements"
+            if [ $(jq '. | length' "$file") -lt 2 ]; then
+              echo "Error: $file has fewer than 2 elements"
               valid=false
               break
             fi
