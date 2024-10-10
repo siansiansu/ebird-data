@@ -128,6 +128,7 @@
   {
     "sciName": "Arborophila crudigularis",
     "comNameList": [
+      "深山竹雞",
       "報時鳥",
       "紅跤仔"
     ]
@@ -303,7 +304,8 @@
   {
     "sciName": "Psilopogon nuchalis",
     "comNameList": [
-      "花仔和尚"
+      "花仔和尚",
+      "臺灣擬啄木"
     ]
   },
   {
@@ -405,6 +407,103 @@
       "烏毛跤鷹",
       "林鷹",
       "鷹仔"
+    ]
+  },
+  {
+    "sciName": "Spilornis cheela",
+    "comNameList": [
+      "蛇鵰"
+    ]
+  },
+  {
+    "sciName": "Spilornis cheela [cheela Group]",
+    "comNameList": [
+      "蛇鵰"
+    ]
+  },
+  {
+    "sciName": "Butastur indicus",
+    "comNameList": [
+      "灰面鷲",
+      "國慶鳥"
+    ]
+  },
+  {
+    "sciName": "Buteo japonicus",
+    "comNameList": [
+      "普通鵟",
+      "鵟"
+    ]
+  },
+  {
+    "sciName": "Falco amurensis",
+    "comNameList": [
+      "阿穆爾隼"
+    ]
+  },
+  {
+    "sciName": "Terpsiphone incei",
+    "comNameList": [
+      "亞洲綬帶",
+      "亞洲壽帶"
+    ]
+  },
+  {
+    "sciName": "Terpsiphone atrocaudata",
+    "comNameList": [
+      "紫壽帶"
+    ]
+  },
+  {
+    "sciName": "Pterorhinus poecilorhynchus",
+    "comNameList": [
+      "竹鳥",
+      "棕噪鶥"
+    ]
+  },
+  {
+    "sciName": "Trochalopteron morrisonianum",
+    "comNameList": [
+      "臺灣噪鶥",
+      "金翼白眉",
+      "台灣噪鶥",
+      "台灣噪眉"
+    ]
+  },
+  {
+    "sciName": "Aythya marila",
+    "comNameList": [
+      "鈴鴨"
+    ]
+  },
+  {
+    "sciName": "Liocichla steerii",
+    "comNameList": [
+      "藪鳥"
+    ]
+  },
+  {
+    "sciName": "Calidris ferruginea",
+    "comNameList": [
+      "滸鷸"
+    ]
+  },
+  {
+    "sciName": "Calidris ruficollis",
+    "comNameList": [
+      "穉鷸"
+    ]
+  },
+  {
+    "sciName": "Calidris subminuta",
+    "comNameList": [
+      "雲雀鷸"
+    ]
+  },
+  {
+    "sciName": "Calidris temminckii",
+    "comNameList": [
+      "丹氏穉鷸"
     ]
   }
 ]
