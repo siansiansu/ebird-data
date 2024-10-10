@@ -1,132 +1,219 @@
 [
   {
+    "sciName": "Accipiter gularis",
+    "comName": "日本松雀鷹",
+    "comNameList": [
+      "日本鷹仔虎"
+    ]
+  },
+  {
+    "sciName": "Accipiter gularis/virgatus",
+    "comName": "日本松雀鷹/松雀鷹",
+    "comNameList": [
+      "鷹仔虎",
+      "日本鷹仔虎"
+    ]
+  },
+  {
+    "sciName": "Accipiter soloensis",
+    "comName": "赤腹鷹",
+    "comNameList": [
+      "鷹柱鳥"
+    ]
+  },
+  {
+    "sciName": "Accipiter trivirgatus",
+    "comName": "鳳頭蒼鷹",
+    "comNameList": [
+      "粉鳥鷹"
+    ]
+  },
+  {
+    "sciName": "Accipiter trivirgatus/virgatus",
+    "comName": "鳳頭蒼鷹/松雀鷹",
+    "comNameList": [
+      "粉鳥鷹",
+      "鷹仔虎"
+    ]
+  },
+  {
+    "sciName": "Accipiter virgatus",
+    "comName": "松雀鷹",
+    "comNameList": [
+      "鷹仔虎"
+    ]
+  },
+  {
     "sciName": "Acridotheres cristatellus",
+    "comName": "八哥(冠八哥)",
     "comNameList": [
       "鵁鴒"
     ]
   },
   {
     "sciName": "Acridotheres fuscus",
+    "comName": "林八哥",
     "comNameList": [
       "鵁鴒"
     ]
   },
   {
     "sciName": "Acridotheres ginginianus",
+    "comName": "岸八哥",
     "comNameList": [
       "鵁鴒"
     ]
   },
   {
     "sciName": "Acridotheres grandis",
+    "comName": "大八哥(叢八哥)",
     "comNameList": [
       "鵁鴒"
     ]
   },
   {
     "sciName": "Acridotheres javanicus",
+    "comName": "白尾八哥",
     "comNameList": [
       "鵁鴒"
     ]
   },
   {
     "sciName": "Acridotheres sp.",
+    "comName": "八哥屬",
     "comNameList": [
       "鵁鴒"
     ]
   },
   {
     "sciName": "Acridotheres sp. (black myna sp.)",
+    "comName": "八哥屬(黑八哥類)",
     "comNameList": [
       "鵁鴒"
     ]
   },
   {
     "sciName": "Acridotheres tristis",
+    "comName": "家八哥",
     "comNameList": [
       "鵁鴒"
     ]
   },
   {
+    "sciName": "Aegypius monachus",
+    "comName": "禿鷲",
+    "comNameList": [
+      "狗頭鷹",
+      "鷹仔",
+      "禿鷹"
+    ]
+  },
+  {
     "sciName": "Alcedinidae sp.",
+    "comName": "翠鳥科",
     "comNameList": [
       "釣魚翁"
     ]
   },
   {
     "sciName": "Alcedo atthis",
+    "comName": "翠鳥",
     "comNameList": [
       "釣魚翁"
     ]
   },
   {
     "sciName": "Alcedo atthis [atthis Group]",
+    "comName": "翠鳥(atthis群)",
     "comNameList": [
       "釣魚翁"
     ]
   },
   {
+    "sciName": "Amaurornis phoenicurus",
+    "comName": "白腹秧雞",
+    "comNameList": [
+      "姑惡鳥",
+      "苦雞母",
+      "姑婆鳥",
+      "白面雞",
+      "苦惡鳥",
+      "紅尻川仔"
+    ]
+  },
+  {
     "sciName": "Anser albifrons",
+    "comName": "白額雁",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Anser albifrons albifrons",
+    "comName": "白額雁(albifrons)",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Anser albifrons/erythropus",
+    "comName": "白額雁/小白額雁",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Anser anser x cygnoides",
+    "comName": "灰雁x鴻雁(雜交)",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Anser cygnoides",
+    "comName": "鴻雁",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Anser cygnoides (Domestic type)",
+    "comName": "鴻雁(馴化)",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Anser erythropus",
+    "comName": "小白額雁",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Anser fabalis",
+    "comName": "寒林豆雁",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Anser fabalis/serrirostris",
+    "comName": "寒林豆雁/凍原豆雁",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Anser serrirostris",
+    "comName": "凍原豆雁",
     "comNameList": [
       "野鵝"
     ]
   },
   {
     "sciName": "Arborophila crudigularis",
+    "comName": "臺灣山鷓鴣",
     "comNameList": [
       "深山竹雞",
       "報時鳥",
@@ -135,81 +222,262 @@
   },
   {
     "sciName": "Ardea alba",
+    "comName": "大白鷺",
     "comNameList": [
-      "大白翎鷥"
+      "大白翎鷥",
+      "大白鷺鷥"
     ]
   },
   {
     "sciName": "Ardea cinerea",
+    "comName": "蒼鷺",
     "comNameList": [
       "海徛仔"
     ]
   },
   {
     "sciName": "Ardea intermedia",
+    "comName": "中白鷺",
     "comNameList": [
-      "中白翎鷥"
+      "中白翎鷥",
+      "中白鷺鷥"
+    ]
+  },
+  {
+    "sciName": "Aviceda leuphotes",
+    "comName": "黑冠鵑隼",
+    "comNameList": [
+      "鷹仔"
     ]
   },
   {
     "sciName": "Aythya fuligula",
+    "comName": "鳳頭潛鴨",
     "comNameList": [
       "阿不倒仔",
       "澤鳧"
     ]
   },
   {
+    "sciName": "Aythya marila",
+    "comName": "斑背潛鴨",
+    "comNameList": [
+      "鈴鴨"
+    ]
+  },
+  {
+    "sciName": "Butastur indicus",
+    "comName": "灰面鵟鷹",
+    "comNameList": [
+      "灰面鷲",
+      "國慶鳥",
+      "南路鷹",
+      "灰面鷹"
+    ]
+  },
+  {
+    "sciName": "Buteo japonicus",
+    "comName": "東方鵟",
+    "comNameList": [
+      "普通鵟",
+      "鵟"
+    ]
+  },
+  {
+    "sciName": "Calidris ferruginea",
+    "comName": "彎嘴濱鷸",
+    "comNameList": [
+      "滸鷸"
+    ]
+  },
+  {
+    "sciName": "Calidris ruficollis",
+    "comName": "紅胸濱鷸",
+    "comNameList": [
+      "穉鷸"
+    ]
+  },
+  {
+    "sciName": "Calidris subminuta",
+    "comName": "長趾濱鷸",
+    "comNameList": [
+      "雲雀鷸"
+    ]
+  },
+  {
+    "sciName": "Calidris temminckii",
+    "comName": "丹氏濱鷸",
+    "comNameList": [
+      "丹氏穉鷸"
+    ]
+  },
+  {
     "sciName": "Calidris tenuirostris",
+    "comName": "大濱鷸",
     "comNameList": [
       "姥鷸"
     ]
   },
   {
+    "sciName": "Clanga clanga",
+    "comName": "花鵰",
+    "comNameList": [
+      "花鷹",
+      "鷹仔"
+    ]
+  },
+  {
     "sciName": "Dicrurus aeneus",
+    "comName": "小卷尾",
     "comNameList": [
       "山烏鶖"
     ]
   },
   {
     "sciName": "Dicrurus macrocercus",
+    "comName": "大卷尾",
     "comNameList": [
       "烏鶖"
     ]
   },
   {
-    "sciName": "Egretta garzetta",
+    "sciName": "Egretta eulophotes",
+    "comName": "唐白鷺",
     "comNameList": [
+      "中國白翎鷥",
+      "中國白鷺鷥"
+    ]
+  },
+  {
+    "sciName": "Egretta garzetta",
+    "comName": "小白鷺",
+    "comNameList": [
+      "小白翎鷥",
+      "小白鷺鷥",
       "小白翎鷥"
     ]
   },
   {
+    "sciName": "Elanus caeruleus",
+    "comName": "黑翅鳶",
+    "comNameList": [
+      "烏翼鷹",
+      "鷹仔"
+    ]
+  },
+  {
     "sciName": "Eurystomus orientalis",
+    "comName": "佛法僧",
     "comNameList": [
       "山鸚哥"
     ]
   },
   {
+    "sciName": "Falco amurensis",
+    "comName": "紅腳隼",
+    "comNameList": [
+      "阿穆爾隼"
+    ]
+  },
+  {
+    "sciName": "Fulica atra",
+    "comName": "白冠雞",
+    "comNameList": [
+      "烏雞仔",
+      "烏水雞"
+    ]
+  },
+  {
+    "sciName": "Gallicrex cinerea",
+    "comName": "董雞",
+    "comNameList": [
+      "田頓"
+    ]
+  },
+  {
+    "sciName": "Gallinula chloropus",
+    "comName": "紅冠水雞",
+    "comNameList": [
+      "水鵁鴒",
+      "烏水雞",
+      "烏雞仔",
+      "田雞仔",
+      "米雞仔",
+      "紅雞",
+      "青跤仔"
+    ]
+  },
+  {
     "sciName": "Gorsachius melanolophus",
+    "comName": "黑冠麻鷺",
     "comNameList": [
       "大笨鳥",
       "地瓜",
-      "山暗光鳥"
+      "山暗光鳥",
+      "蕃薯"
+    ]
+  },
+  {
+    "sciName": "Himantopus himantopus",
+    "comName": "高蹺鴴",
+    "comNameList": [
+      "躼跤仔"
+    ]
+  },
+  {
+    "sciName": "Himantopus himantopus/leucocephalus",
+    "comName": "高蹺鴴/黑領高蹺鴴",
+    "comNameList": [
+      "躼跤仔"
+    ]
+  },
+  {
+    "sciName": "Himantopus leucocephalus",
+    "comName": "黑領高蹺鴴",
+    "comNameList": [
+      "躼跤仔"
+    ]
+  },
+  {
+    "sciName": "Hydrophasianus chirurgus",
+    "comName": "水雉",
+    "comNameList": [
+      "菱角鳥"
+    ]
+  },
+  {
+    "sciName": "Ictinaetus malaiensis",
+    "comName": "林鵰",
+    "comNameList": [
+      "烏毛跤鷹",
+      "林鷹",
+      "鷹仔"
     ]
   },
   {
     "sciName": "Ixobrychus cinnamomeus",
+    "comName": "栗小鷺",
     "comNameList": [
       "田赤仔"
     ]
   },
   {
     "sciName": "Ixobrychus sinensis",
+    "comName": "黃小鷺",
     "comNameList": [
       "田隙仔"
     ]
   },
   {
+    "sciName": "Liocichla steerii",
+    "comName": "黃胸藪眉",
+    "comNameList": [
+      "藪鳥"
+    ]
+  },
+  {
     "sciName": "Lophura swinhoii",
+    "comName": "藍腹鷴",
     "comNameList": [
       "哇雞",
       "華雞",
@@ -220,7 +488,30 @@
     ]
   },
   {
+    "sciName": "Milvus migrans",
+    "comName": "黑鳶",
+    "comNameList": [
+      "鶆鴞"
+    ]
+  },
+  {
+    "sciName": "Milvus migrans lineatus/formosanus",
+    "comName": "黑鳶(黑耳)",
+    "comNameList": [
+      "鶆鴞"
+    ]
+  },
+  {
+    "sciName": "Nisaetus nipalensis",
+    "comName": "熊鷹",
+    "comNameList": [
+      "白毛跤鷹",
+      "鷹仔"
+    ]
+  },
+  {
     "sciName": "Nycticorax nycticorax",
+    "comName": "夜鷺",
     "comNameList": [
       "暗公鳥",
       "企鵝"
@@ -228,18 +519,21 @@
   },
   {
     "sciName": "Pelecanus crispus",
+    "comName": "卷羽鵜鶘",
     "comNameList": [
       "布袋鵝"
     ]
   },
   {
     "sciName": "Pelecanus onocrotalus",
+    "comName": "白鵜鶘",
     "comNameList": [
       "布袋鵝"
     ]
   },
   {
     "sciName": "Phasianus colchicus",
+    "comName": "環頸雉",
     "comNameList": [
       "啼雞",
       "野雞"
@@ -247,12 +541,14 @@
   },
   {
     "sciName": "Phoebastria albatrus",
+    "comName": "短尾信天翁",
     "comNameList": [
       "短尾海南戇"
     ]
   },
   {
     "sciName": "Phoebastria immutabilis",
+    "comName": "黑背信天翁",
     "comNameList": [
       "烏背海南戇",
       "烏背信天翁"
@@ -260,12 +556,14 @@
   },
   {
     "sciName": "Phoebastria immutabilis x nigripes",
+    "comName": "黑背信天翁x黑腳信天翁(雜交)",
     "comNameList": [
       "海南戇"
     ]
   },
   {
     "sciName": "Phoebastria nigripes",
+    "comName": "黑腳信天翁",
     "comNameList": [
       "烏跤信天翁",
       "烏跤海南戇"
@@ -273,73 +571,114 @@
   },
   {
     "sciName": "Pica serica",
+    "comName": "喜鵲",
     "comNameList": [
       "客鳥"
     ]
   },
   {
     "sciName": "Platalea leucorodia",
+    "comName": "白琵鷺",
     "comNameList": [
       "白面抐桮"
     ]
   },
   {
     "sciName": "Platalea minor",
+    "comName": "黑面琵鷺",
     "comNameList": [
       "烏面抐桮"
     ]
   },
   {
     "sciName": "Podiceps cristatus",
+    "comName": "冠鸊鷉",
     "comNameList": [
       "聳毛水避仔"
     ]
   },
   {
     "sciName": "Podiceps nigricollis",
+    "comName": "黑頸鸊鷉",
     "comNameList": [
       "烏頸水避仔"
     ]
   },
   {
     "sciName": "Psilopogon nuchalis",
+    "comName": "五色鳥",
     "comNameList": [
       "花仔和尚",
       "臺灣擬啄木"
     ]
   },
   {
+    "sciName": "Pterorhinus poecilorhynchus",
+    "comName": "棕噪眉",
+    "comNameList": [
+      "竹鳥",
+      "棕噪鶥"
+    ]
+  },
+  {
     "sciName": "Pycnonotus sinensis",
+    "comName": "白頭翁",
     "comNameList": [
       "白頭鵠仔"
     ]
   },
   {
+    "sciName": "Recurvirostra avosetta",
+    "comName": "反嘴鴴",
+    "comNameList": [
+      "翹喙仔"
+    ]
+  },
+  {
     "sciName": "Spilopelia chinensis",
+    "comName": "珠頸斑鳩",
     "comNameList": [
       "斑鴿"
     ]
   },
   {
+    "sciName": "Spilornis cheela",
+    "comName": "大冠鷲",
+    "comNameList": [
+      "蛇鵰"
+    ]
+  },
+  {
+    "sciName": "Spilornis cheela [cheela Group]",
+    "comName": "大冠鷲(cheela群)",
+    "comNameList": [
+      "蛇鵰"
+    ]
+  },
+  {
     "sciName": "Streptopelia orientalis",
+    "comName": "金背鳩",
     "comNameList": [
       "山斑鴿"
     ]
   },
   {
     "sciName": "Sula dactylatra",
+    "comName": "藍臉鰹鳥",
     "comNameList": [
       "海雞母"
     ]
   },
   {
     "sciName": "Sula leucogaster",
+    "comName": "白腹鰹鳥",
     "comNameList": [
       "海雞母"
     ]
   },
   {
     "sciName": "Syrmaticus mikado",
+    "comName": "黑長尾雉",
     "comNameList": [
       "帝雉",
       "烏山雞仔",
@@ -350,119 +689,29 @@
   },
   {
     "sciName": "Tachybaptus ruficollis",
+    "comName": "小鸊鷉",
     "comNameList": [
       "水避仔"
     ]
   },
   {
-    "sciName": "Tyto longimembris",
+    "sciName": "Terpsiphone atrocaudata",
+    "comName": "紫綬帶",
     "comNameList": [
-      "猴面鷹"
-    ]
-  },
-  {
-    "sciName": "Urocissa caerulea",
-    "comNameList": [
-      "長尾山娘"
-    ]
-  },
-  {
-    "sciName": "Aviceda leuphotes",
-    "comNameList": [
-      "鷹仔"
-    ]
-  },
-  {
-    "sciName": "Elanus caeruleus",
-    "comNameList": [
-      "烏翼鷹",
-      "鷹仔"
-    ]
-  },
-  {
-    "sciName": "Aegypius monachus",
-    "comNameList": [
-      "狗頭鷹",
-      "鷹仔",
-      "禿鷹"
-    ]
-  },
-  {
-    "sciName": "Nisaetus nipalensis",
-    "comNameList": [
-      "白毛跤鷹",
-      "鷹仔"
-    ]
-  },
-  {
-    "sciName": "Clanga clanga",
-    "comNameList": [
-      "花鷹",
-      "鷹仔"
-    ]
-  },
-  {
-    "sciName": "Ictinaetus malaiensis",
-    "comNameList": [
-      "烏毛跤鷹",
-      "林鷹",
-      "鷹仔"
-    ]
-  },
-  {
-    "sciName": "Spilornis cheela",
-    "comNameList": [
-      "蛇鵰"
-    ]
-  },
-  {
-    "sciName": "Spilornis cheela [cheela Group]",
-    "comNameList": [
-      "蛇鵰"
-    ]
-  },
-  {
-    "sciName": "Butastur indicus",
-    "comNameList": [
-      "灰面鷲",
-      "國慶鳥"
-    ]
-  },
-  {
-    "sciName": "Buteo japonicus",
-    "comNameList": [
-      "普通鵟",
-      "鵟"
-    ]
-  },
-  {
-    "sciName": "Falco amurensis",
-    "comNameList": [
-      "阿穆爾隼"
+      "紫壽帶"
     ]
   },
   {
     "sciName": "Terpsiphone incei",
+    "comName": "阿穆爾綬帶",
     "comNameList": [
       "亞洲綬帶",
       "亞洲壽帶"
     ]
   },
   {
-    "sciName": "Terpsiphone atrocaudata",
-    "comNameList": [
-      "紫壽帶"
-    ]
-  },
-  {
-    "sciName": "Pterorhinus poecilorhynchus",
-    "comNameList": [
-      "竹鳥",
-      "棕噪鶥"
-    ]
-  },
-  {
     "sciName": "Trochalopteron morrisonianum",
+    "comName": "臺灣噪眉",
     "comNameList": [
       "臺灣噪鶥",
       "金翼白眉",
@@ -471,39 +720,45 @@
     ]
   },
   {
-    "sciName": "Aythya marila",
+    "sciName": "Tyto longimembris",
+    "comName": "草鴞",
     "comNameList": [
-      "鈴鴨"
+      "猴面鷹"
     ]
   },
   {
-    "sciName": "Liocichla steerii",
+    "sciName": "Urocissa caerulea",
+    "comName": "臺灣藍鵲",
     "comNameList": [
-      "藪鳥"
+      "長尾山娘"
     ]
   },
   {
-    "sciName": "Calidris ferruginea",
+    "sciName": "Zapornia fusca",
+    "comName": "緋秧雞",
     "comNameList": [
-      "滸鷸"
+      "秧雞",
+      "水雞",
+      "米雞仔",
+      "紅跤鳥"
     ]
   },
   {
-    "sciName": "Calidris ruficollis",
+    "sciName": "Zapornia pusilla",
+    "comName": "小秧雞",
     "comNameList": [
-      "穉鷸"
+      "秧雞",
+      "水雞",
+      "米雞仔"
     ]
   },
   {
-    "sciName": "Calidris subminuta",
+    "sciName": "Zapornia pusilla pusilla",
+    "comName": "小秧雞(pusilla)",
     "comNameList": [
-      "雲雀鷸"
-    ]
-  },
-  {
-    "sciName": "Calidris temminckii",
-    "comNameList": [
-      "丹氏穉鷸"
+      "秧雞",
+      "水雞",
+      "米雞仔"
     ]
   }
 ]
