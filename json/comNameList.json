@@ -1,223 +1,56 @@
 [
   {
-    "sciName": "Podiceps cristatus",
+    "sciName": "Acridotheres cristatellus",
     "comNameList": [
-      "聳毛水避仔"
+      "鵁鴒"
     ]
   },
   {
-    "sciName": "Syrmaticus mikado",
+    "sciName": "Acridotheres fuscus",
     "comNameList": [
-      "帝雉",
-      "烏山雞仔"
+      "鵁鴒"
     ]
   },
   {
-    "sciName": "Gorsachius melanolophus",
+    "sciName": "Acridotheres ginginianus",
     "comNameList": [
-      "大笨鳥",
-      "地瓜",
-      "山暗光鳥"
+      "鵁鴒"
     ]
   },
   {
-    "sciName": "Pycnonotus sinensis",
+    "sciName": "Acridotheres grandis",
     "comNameList": [
-      "白頭鵠仔"
+      "鵁鴒"
     ]
   },
   {
-    "sciName": "Calidris tenuirostris",
+    "sciName": "Acridotheres javanicus",
     "comNameList": [
-      "姥鷸"
+      "鵁鴒"
     ]
   },
   {
-    "sciName": "Psilopogon nuchalis",
+    "sciName": "Acridotheres sp.",
     "comNameList": [
-      "花仔和尚"
+      "鵁鴒"
     ]
   },
   {
-    "sciName": "Dicrurus macrocercus",
+    "sciName": "Acridotheres sp. (black myna sp.)",
     "comNameList": [
-      "烏鶖"
+      "鵁鴒"
     ]
   },
   {
-    "sciName": "Dicrurus aeneus",
+    "sciName": "Acridotheres tristis",
     "comNameList": [
-      "山烏鶖"
+      "鵁鴒"
     ]
   },
   {
-    "sciName": "Spilopelia chinensis",
+    "sciName": "Alcedinidae sp.",
     "comNameList": [
-      "斑鴿"
-    ]
-  },
-  {
-    "sciName": "Streptopelia orientalis",
-    "comNameList": [
-      "山斑鴿"
-    ]
-  },
-  {
-    "sciName": "Tachybaptus ruficollis",
-    "comNameList": [
-      "水避仔"
-    ]
-  },
-  {
-    "sciName": "Sula leucogaster",
-    "comNameList": [
-      "海雞母"
-    ]
-  },
-  {
-    "sciName": "Sula dactylatra",
-    "comNameList": [
-      "海雞母"
-    ]
-  },
-  {
-    "sciName": "Pelecanus crispus",
-    "comNameList": [
-      "布袋鵝"
-    ]
-  },
-  {
-    "sciName": "Pelecanus onocrotalus",
-    "comNameList": [
-      "布袋鵝"
-    ]
-  },
-  {
-    "sciName": "Egretta garzetta",
-    "comNameList": [
-      "小白翎鷥"
-    ]
-  },
-  {
-    "sciName": "Ardea intermedia",
-    "comNameList": [
-      "中白翎鷥"
-    ]
-  },
-  {
-    "sciName": "Ardea alba",
-    "comNameList": [
-      "大白翎鷥"
-    ]
-  },
-  {
-    "sciName": "Ardea cinerea",
-    "comNameList": [
-      "海徛仔"
-    ]
-  },
-  {
-    "sciName": "Ixobrychus sinensis",
-    "comNameList": [
-      "田隙仔"
-    ]
-  },
-  {
-    "sciName": "Ixobrychus cinnamomeus",
-    "comNameList": [
-      "田赤仔"
-    ]
-  },
-  {
-    "sciName": "Nycticorax nycticorax",
-    "comNameList": [
-      "暗公鳥",
-      "企鵝"
-    ]
-  },
-  {
-    "sciName": "Platalea minor",
-    "comNameList": [
-      "烏面抐桮"
-    ]
-  },
-  {
-    "sciName": "Platalea leucorodia",
-    "comNameList": [
-      "白面抐桮"
-    ]
-  },
-  {
-    "sciName": "Anser cygnoides",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Anser cygnoides (Domestic type)",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Anser anser x cygnoides",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Anser serrirostris",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Anser fabalis/serrirostris",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Anser fabalis",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Anser albifrons",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Anser albifrons albifrons",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Anser erythropus",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Anser albifrons/erythropus",
-    "comNameList": [
-      "野鵝"
-    ]
-  },
-  {
-    "sciName": "Aythya fuligula",
-    "comNameList": [
-      "阿不倒仔",
-      "澤鳧"
-    ]
-  },
-  {
-    "sciName": "Eurystomus orientalis",
-    "comNameList": [
-      "山鸚哥"
+      "釣魚翁"
     ]
   },
   {
@@ -233,9 +66,290 @@
     ]
   },
   {
-    "sciName": "Alcedinidae sp.",
+    "sciName": "Anser albifrons",
     "comNameList": [
-      "釣魚翁"
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Anser albifrons albifrons",
+    "comNameList": [
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Anser albifrons/erythropus",
+    "comNameList": [
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Anser anser x cygnoides",
+    "comNameList": [
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Anser cygnoides",
+    "comNameList": [
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Anser cygnoides (Domestic type)",
+    "comNameList": [
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Anser erythropus",
+    "comNameList": [
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Anser fabalis",
+    "comNameList": [
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Anser fabalis/serrirostris",
+    "comNameList": [
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Anser serrirostris",
+    "comNameList": [
+      "野鵝"
+    ]
+  },
+  {
+    "sciName": "Arborophila crudigularis",
+    "comNameList": [
+      "報時鳥",
+      "紅跤仔"
+    ]
+  },
+  {
+    "sciName": "Ardea alba",
+    "comNameList": [
+      "大白翎鷥"
+    ]
+  },
+  {
+    "sciName": "Ardea cinerea",
+    "comNameList": [
+      "海徛仔"
+    ]
+  },
+  {
+    "sciName": "Ardea intermedia",
+    "comNameList": [
+      "中白翎鷥"
+    ]
+  },
+  {
+    "sciName": "Aythya fuligula",
+    "comNameList": [
+      "阿不倒仔",
+      "澤鳧"
+    ]
+  },
+  {
+    "sciName": "Calidris tenuirostris",
+    "comNameList": [
+      "姥鷸"
+    ]
+  },
+  {
+    "sciName": "Dicrurus aeneus",
+    "comNameList": [
+      "山烏鶖"
+    ]
+  },
+  {
+    "sciName": "Dicrurus macrocercus",
+    "comNameList": [
+      "烏鶖"
+    ]
+  },
+  {
+    "sciName": "Egretta garzetta",
+    "comNameList": [
+      "小白翎鷥"
+    ]
+  },
+  {
+    "sciName": "Eurystomus orientalis",
+    "comNameList": [
+      "山鸚哥"
+    ]
+  },
+  {
+    "sciName": "Gorsachius melanolophus",
+    "comNameList": [
+      "大笨鳥",
+      "地瓜",
+      "山暗光鳥"
+    ]
+  },
+  {
+    "sciName": "Ixobrychus cinnamomeus",
+    "comNameList": [
+      "田赤仔"
+    ]
+  },
+  {
+    "sciName": "Ixobrychus sinensis",
+    "comNameList": [
+      "田隙仔"
+    ]
+  },
+  {
+    "sciName": "Lophura swinhoii",
+    "comNameList": [
+      "哇雞",
+      "華雞",
+      "烏尾雞",
+      "山雞",
+      "紅跤仔",
+      "雉雞"
+    ]
+  },
+  {
+    "sciName": "Nycticorax nycticorax",
+    "comNameList": [
+      "暗公鳥",
+      "企鵝"
+    ]
+  },
+  {
+    "sciName": "Pelecanus crispus",
+    "comNameList": [
+      "布袋鵝"
+    ]
+  },
+  {
+    "sciName": "Pelecanus onocrotalus",
+    "comNameList": [
+      "布袋鵝"
+    ]
+  },
+  {
+    "sciName": "Phasianus colchicus",
+    "comNameList": [
+      "啼雞",
+      "野雞"
+    ]
+  },
+  {
+    "sciName": "Phoebastria albatrus",
+    "comNameList": [
+      "短尾海南戇"
+    ]
+  },
+  {
+    "sciName": "Phoebastria immutabilis",
+    "comNameList": [
+      "烏背海南戇",
+      "烏背信天翁"
+    ]
+  },
+  {
+    "sciName": "Phoebastria immutabilis x nigripes",
+    "comNameList": [
+      "海南戇"
+    ]
+  },
+  {
+    "sciName": "Phoebastria nigripes",
+    "comNameList": [
+      "烏跤信天翁",
+      "烏跤海南戇"
+    ]
+  },
+  {
+    "sciName": "Pica serica",
+    "comNameList": [
+      "客鳥"
+    ]
+  },
+  {
+    "sciName": "Platalea leucorodia",
+    "comNameList": [
+      "白面抐桮"
+    ]
+  },
+  {
+    "sciName": "Platalea minor",
+    "comNameList": [
+      "烏面抐桮"
+    ]
+  },
+  {
+    "sciName": "Podiceps cristatus",
+    "comNameList": [
+      "聳毛水避仔"
+    ]
+  },
+  {
+    "sciName": "Podiceps nigricollis",
+    "comNameList": [
+      "烏頸水避仔"
+    ]
+  },
+  {
+    "sciName": "Psilopogon nuchalis",
+    "comNameList": [
+      "花仔和尚"
+    ]
+  },
+  {
+    "sciName": "Pycnonotus sinensis",
+    "comNameList": [
+      "白頭鵠仔"
+    ]
+  },
+  {
+    "sciName": "Spilopelia chinensis",
+    "comNameList": [
+      "斑鴿"
+    ]
+  },
+  {
+    "sciName": "Streptopelia orientalis",
+    "comNameList": [
+      "山斑鴿"
+    ]
+  },
+  {
+    "sciName": "Sula dactylatra",
+    "comNameList": [
+      "海雞母"
+    ]
+  },
+  {
+    "sciName": "Sula leucogaster",
+    "comNameList": [
+      "海雞母"
+    ]
+  },
+  {
+    "sciName": "Syrmaticus mikado",
+    "comNameList": [
+      "帝雉",
+      "烏山雞仔",
+      "烏雉雞",
+      "烏雉",
+      "烏長尾雉"
+    ]
+  },
+  {
+    "sciName": "Tachybaptus ruficollis",
+    "comNameList": [
+      "水避仔"
     ]
   },
   {
@@ -248,60 +362,6 @@
     "sciName": "Urocissa caerulea",
     "comNameList": [
       "長尾山娘"
-    ]
-  },
-  {
-    "sciName": "Acridotheres tristis",
-    "comNameList": [
-      "鵁鴒"
-    ]
-  },
-  {
-    "sciName": "Acridotheres ginginianus",
-    "comNameList": [
-      "鵁鴒"
-    ]
-  },
-  {
-    "sciName": "Acridotheres fuscus",
-    "comNameList": [
-      "鵁鴒"
-    ]
-  },
-  {
-    "sciName": "Acridotheres javanicus",
-    "comNameList": [
-      "鵁鴒"
-    ]
-  },
-  {
-    "sciName": "Acridotheres grandis",
-    "comNameList": [
-      "鵁鴒"
-    ]
-  },
-  {
-    "sciName": "Acridotheres cristatellus",
-    "comNameList": [
-      "鵁鴒"
-    ]
-  },
-  {
-    "sciName": "Acridotheres sp. (black myna sp.)",
-    "comNameList": [
-      "鵁鴒"
-    ]
-  },
-  {
-    "sciName": "Acridotheres sp.",
-    "comNameList": [
-      "鵁鴒"
-    ]
-  },
-  {
-    "sciName": "Pica serica",
-    "comNameList": [
-      "客鳥"
     ]
   }
 ]
