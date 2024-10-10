@@ -1,5 +1,11 @@
 [
   {
+    "sciName": "Podiceps cristatus",
+    "comNameList": [
+      "聳毛水避仔"
+    ]
+  },
+  {
     "sciName": "Syrmaticus mikado",
     "comNameList": [
       "帝雉",
@@ -71,6 +77,18 @@
     "sciName": "Sula dactylatra",
     "comNameList": [
       "海雞母"
+    ]
+  },
+  {
+    "sciName": "Pelecanus crispus",
+    "comNameList": [
+      "布袋鵝"
+    ]
+  },
+  {
+    "sciName": "Pelecanus onocrotalus",
+    "comNameList": [
+      "布袋鵝"
     ]
   }
 ]
