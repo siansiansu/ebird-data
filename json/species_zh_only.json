@@ -19,7 +19,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "樹鴨",
         "comNameJp": "リュウキュウガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anser indicus",
@@ -378,7 +380,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "家鵝(馴化)",
         "comNameJp": "マガン属（家畜）",
-        "comNameList": []
+        "comNameList": [
+            "gô",
+            "giâ"
+        ]
     },
     {
         "sciName": "Anser sp.",
@@ -495,7 +500,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "疣鼻天鵝",
         "comNameJp": "コブハクチョウ",
-        "comNameList": []
+        "comNameList": [
+            "gô",
+            "giâ"
+        ]
     },
     {
         "sciName": "Cygnus atratus",
@@ -516,7 +524,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "黑天鵝",
         "comNameJp": "コクチョウ",
-        "comNameList": []
+        "comNameList": [
+            "gô",
+            "giâ"
+        ]
     },
     {
         "sciName": "Cygnus columbianus",
@@ -539,7 +550,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "小天鵝",
         "comNameJp": "コハクチョウ",
-        "comNameList": []
+        "comNameList": [
+            "gô",
+            "giâ"
+        ]
     },
     {
         "sciName": "Cygnus columbianus bewickii",
@@ -564,7 +578,10 @@
         "reportAs": "tunswa",
         "comNameZh": "小天鵝(bewickii)",
         "comNameJp": "コハクチョウ（亜種 コハクチョウ）",
-        "comNameList": []
+        "comNameList": [
+            "gô",
+            "giâ"
+        ]
     },
     {
         "sciName": "Cygnus cygnus",
@@ -587,7 +604,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "黃嘴天鵝",
         "comNameJp": "オオハクチョウ",
-        "comNameList": []
+        "comNameList": [
+            "gô",
+            "giâ"
+        ]
     },
     {
         "sciName": "Cygnus columbianus/cygnus",
@@ -599,8 +619,8 @@
         "comNameCodes": [
             "BESW",
             "TUSW",
-            "WHSW",
-            "WHOS"
+            "WHOS",
+            "WHSW"
         ],
         "sciNameCodes": [
             "CYCO",
@@ -612,7 +632,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "小天鵝/黃嘴天鵝",
         "comNameJp": "コハクチョウ／オオハクチョウ",
-        "comNameList": []
+        "comNameList": [
+            "gô",
+            "giâ"
+        ]
     },
     {
         "sciName": "Cygnus sp.",
@@ -629,7 +652,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "天鵝屬",
         "comNameJp": "ハクチョウ属",
-        "comNameList": []
+        "comNameList": [
+            "gô",
+            "giâ"
+        ]
     },
     {
         "sciName": "Anatidae (goose sp.)",
@@ -738,7 +764,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "疣鼻棲鴨(薑母鴨)",
         "comNameJp": "ノバリケン",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Cairina moschata (Domestic type)",
@@ -760,7 +788,9 @@
         "reportAs": "musduc",
         "comNameZh": "番鴨(馴化)",
         "comNameJp": "ノバリケン（家畜）",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Nettapus coromandelianus",
@@ -782,7 +812,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "棉鴨",
         "comNameJp": "ナンキンオシ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Aix sponsa",
@@ -805,7 +837,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "美洲鴛鴦",
         "comNameJp": "アメリカオシ",
-        "comNameList": []
+        "comNameList": [
+            "uan-iunn"
+        ]
     },
     {
         "sciName": "Aix galericulata",
@@ -826,7 +860,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "鴛鴦",
         "comNameJp": "オシドリ",
-        "comNameList": []
+        "comNameList": [
+            "uan-iunn"
+        ]
     },
     {
         "sciName": "Sibirionetta formosa",
@@ -847,7 +883,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "巴鴨",
         "comNameJp": "トモエガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Spatula querquedula",
@@ -868,7 +906,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "白眉鴨",
         "comNameJp": "シマアジ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Spatula clypeata",
@@ -891,7 +931,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "琵嘴鴨",
         "comNameJp": "ハシビロガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca strepera",
@@ -912,7 +954,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "赤膀鴨",
         "comNameJp": "オカヨシガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca strepera strepera",
@@ -934,7 +978,9 @@
         "reportAs": "gadwal",
         "comNameZh": "赤膀鴨(strepera)",
         "comNameJp": "オカヨシガモ（strepera）",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Spatula clypeata x Mareca strepera",
@@ -944,8 +990,8 @@
         "taxonOrder": 481.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "GADW",
             "NSHO",
+            "GADW",
             "NOSH"
         ],
         "sciNameCodes": [
@@ -958,7 +1004,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "琵嘴鴨x赤膀鴨(雜交)",
         "comNameJp": "雑種 ハシビロガモ ｘ オカヨシガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca falcata",
@@ -979,7 +1027,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "羅文鴨",
         "comNameJp": "ヨシガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca penelope",
@@ -1000,7 +1050,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "赤頸鴨",
         "comNameJp": "ヒドリガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca strepera x penelope",
@@ -1023,7 +1075,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "赤膀鴨x赤頸鴨(雜交)",
         "comNameJp": "雑種 オカヨシガモ ｘ ヒドリガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca americana",
@@ -1044,7 +1098,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "葡萄胸鴨",
         "comNameJp": "アメリカヒドリ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca penelope x americana",
@@ -1067,7 +1123,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "赤頸鴨x葡萄胸鴨(雜交)",
         "comNameJp": "雑種 ヒドリガモ ｘ アメリカヒドリ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca penelope/americana",
@@ -1090,7 +1148,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "赤頸鴨/葡萄胸鴨",
         "comNameJp": "ヒドリガモ／アメリカヒドリ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anas luzonica",
@@ -1111,7 +1171,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "呂宋鴨",
         "comNameJp": "アカノドカルガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anas zonorhyncha",
@@ -1134,7 +1196,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "花嘴鴨",
         "comNameJp": "カルガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anas platyrhynchos",
@@ -1155,7 +1219,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "綠頭鴨",
         "comNameJp": "マガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anas platyrhynchos (Domestic type)",
@@ -1177,7 +1243,9 @@
         "reportAs": "mallar3",
         "comNameZh": "綠頭鴨(馴化)",
         "comNameJp": "マガモ（家畜）",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Cairina moschata x Anas platyrhynchos",
@@ -1200,7 +1268,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "疣鼻棲鴨x綠頭鴨(雜交)",
         "comNameJp": "雑種 ノバリケン ｘ マガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Spatula clypeata x Anas platyrhynchos",
@@ -1224,7 +1294,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "琵嘴鴨x綠頭鴨(雜交)",
         "comNameJp": "雑種 ハシビロガモ ｘ マガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca strepera x Anas platyrhynchos",
@@ -1247,7 +1319,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "赤膀鴨x綠頭鴨(雜交)",
         "comNameJp": "雑種 オカヨシガモ ｘ マガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca penelope x Anas platyrhynchos",
@@ -1270,7 +1344,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "赤頸鴨x綠頭鴨(雜交)",
         "comNameJp": "雑種 ヒドリガモ ｘ マガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anas platyrhynchos x zonorhyncha",
@@ -1294,7 +1370,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "綠頭鴨x花嘴鴨(雜交)",
         "comNameJp": "雑種 マガモ ｘ カルガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anas platyrhynchos/zonorhyncha",
@@ -1318,7 +1396,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "綠頭鴨/花嘴鴨",
         "comNameJp": "マガモ／カルガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anas acuta",
@@ -1339,7 +1419,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "尖尾鴨",
         "comNameJp": "オナガガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Sibirionetta formosa x Anas acuta",
@@ -1349,12 +1431,12 @@
         "taxonOrder": 559.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "NOPI",
-            "BATE"
+            "BATE",
+            "NOPI"
         ],
         "sciNameCodes": [
-            "SIFO",
-            "ANAC"
+            "ANAC",
+            "SIFO"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -1362,7 +1444,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "巴鴨x尖尾鴨(雜交)",
         "comNameJp": "雑種 トモエガモ ｘ オナガガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anas platyrhynchos x acuta",
@@ -1385,7 +1469,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "綠頭鴨x尖尾鴨(雜交)",
         "comNameJp": "雑種 マガモ ｘ オナガガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anas crecca",
@@ -1410,7 +1496,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "小水鴨",
         "comNameJp": "コガモ",
-        "comNameList": []
+        "comNameList": [
+            "tsuí-ah",
+            "ah"
+        ]
     },
     {
         "sciName": "Anas crecca crecca",
@@ -1437,7 +1526,10 @@
         "reportAs": "gnwtea",
         "comNameZh": "小水鴨(crecca)",
         "comNameJp": "コガモ（亜種 コガモ）",
-        "comNameList": []
+        "comNameList": [
+            "tsuí-ah",
+            "ah"
+        ]
     },
     {
         "sciName": "Anas crecca carolinensis",
@@ -1464,7 +1556,10 @@
         "reportAs": "gnwtea",
         "comNameZh": "小水鴨(carolinensis)",
         "comNameJp": "コガモ（亜種 アメリカコガモ）",
-        "comNameList": []
+        "comNameList": [
+            "tsuí-ah",
+            "ah"
+        ]
     },
     {
         "sciName": "Anas crecca crecca x carolinensis",
@@ -1489,7 +1584,10 @@
         "reportAs": "gnwtea",
         "comNameZh": "小水鴨(crecca x carolinensis)",
         "comNameJp": "雑種 コガモ（亜種 コガモ x 亜種 アメリカコガモ）",
-        "comNameList": []
+        "comNameList": [
+            "tsuí-ah",
+            "ah"
+        ]
     },
     {
         "sciName": "Mareca strepera x Anas crecca",
@@ -1515,7 +1613,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "赤膀鴨x小水鴨(雜交)",
         "comNameJp": "雑種 オカヨシガモ ｘ コガモ",
-        "comNameList": []
+        "comNameList": [
+            "tsuí-ah",
+            "ah"
+        ]
     },
     {
         "sciName": "Anas platyrhynchos x crecca",
@@ -1541,7 +1642,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "綠頭鴨x小水鴨(雜交)",
         "comNameJp": "雑種 マガモ ｘ コガモ",
-        "comNameList": []
+        "comNameList": [
+            "tsuí-ah",
+            "ah"
+        ]
     },
     {
         "sciName": "Anas acuta x crecca",
@@ -1567,7 +1671,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "尖尾鴨x小水鴨(雜交)",
         "comNameJp": "雑種 オナガガモ ｘ コガモ",
-        "comNameList": []
+        "comNameList": [
+            "tsuí-ah",
+            "ah"
+        ]
     },
     {
         "sciName": "Spatula querquedula/Anas crecca",
@@ -1593,7 +1700,10 @@
         "familySciName": "Anatidae",
         "comNameZh": "白眉鴨/小水鴨",
         "comNameJp": "シマアジ／コガモ",
-        "comNameList": []
+        "comNameList": [
+            "tsuí-ah",
+            "ah"
+        ]
     },
     {
         "sciName": "Anas sp.",
@@ -1610,7 +1720,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "鴨屬",
         "comNameJp": "マガモ属",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anatidae sp. (teal sp.)",
@@ -1628,7 +1740,9 @@
         "comNameZh": "雁鴨科(小型水鴨類)",
         "comNameJp": "コガモ亜属",
         "comNameList": [
-            "野鵝"
+            "tsuí-ah",
+            "野鵝",
+            "ah"
         ]
     },
     {
@@ -1647,7 +1761,9 @@
         "comNameZh": "雁鴨科(浮水鴨類)",
         "comNameJp": "マガモ亜属",
         "comNameList": [
-            "野鵝"
+            "tsuí-ah",
+            "野鵝",
+            "ah"
         ]
     },
     {
@@ -1669,7 +1785,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "赤嘴潛鴨",
         "comNameJp": "アカハシハジロ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Aythya valisineria",
@@ -1690,7 +1808,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "帆背潛鴨",
         "comNameJp": "オオホシハジロ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Aythya ferina",
@@ -1713,7 +1833,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "紅頭潛鴨",
         "comNameJp": "ホシハジロ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Aythya collaris",
@@ -1734,7 +1856,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "環頸潛鴨",
         "comNameJp": "クビワキンクロ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Aythya nyroca",
@@ -1755,7 +1879,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "白眼潛鴨",
         "comNameJp": "メジロガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Aythya baeri",
@@ -1776,7 +1902,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "青頭潛鴨",
         "comNameJp": "アカハジロ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Aythya nyroca x baeri",
@@ -1786,8 +1914,8 @@
         "taxonOrder": 644.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "FEDU",
-            "BAPO"
+            "BAPO",
+            "FEDU"
         ],
         "sciNameCodes": [
             "AYNY",
@@ -1799,7 +1927,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "白眼潛鴨x青頭潛鴨(雜交)",
         "comNameJp": "雑種 メジロガモ ｘ アカハジロ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Aythya nyroca/baeri",
@@ -1822,7 +1952,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "白眼潛鴨/青頭潛鴨",
         "comNameJp": "メジロガモ／アカハジロ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Aythya fuligula",
@@ -1844,8 +1976,10 @@
         "comNameZh": "鳳頭潛鴨",
         "comNameJp": "キンクロハジロ",
         "comNameList": [
-            "粉鳥鷹",
-            "澤鳧"
+            "阿不倒仔",
+            "澤鳧",
+            "a-put-tó-á",
+            "ah"
         ]
     },
     {
@@ -1861,8 +1995,8 @@
             "TUDU"
         ],
         "sciNameCodes": [
-            "AYFU",
-            "AYFE"
+            "AYFE",
+            "AYFU"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -1871,8 +2005,10 @@
         "comNameZh": "紅頭潛鴨x鳳頭潛鴨(雜交)",
         "comNameJp": "雑種 ホシハジロ ｘ キンクロハジロ",
         "comNameList": [
-            "粉鳥鷹",
-            "澤鳧"
+            "阿不倒仔",
+            "澤鳧",
+            "a-put-tó-á",
+            "ah"
         ]
     },
     {
@@ -1887,8 +2023,8 @@
             "TUDU"
         ],
         "sciNameCodes": [
-            "AYFU",
-            "AYNY"
+            "AYNY",
+            "AYFU"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -1897,8 +2033,10 @@
         "comNameZh": "白眼潛鴨x鳳頭潛鴨(雜交)",
         "comNameJp": "雑種 メジロガモ ｘ キンクロハジロ",
         "comNameList": [
-            "粉鳥鷹",
-            "澤鳧"
+            "阿不倒仔",
+            "澤鳧",
+            "a-put-tó-á",
+            "ah"
         ]
     },
     {
@@ -1921,6 +2059,7 @@
         "comNameZh": "斑背潛鴨",
         "comNameJp": "スズガモ",
         "comNameList": [
+            "ah",
             "鈴鴨"
         ]
     },
@@ -1946,8 +2085,10 @@
         "comNameZh": "鳳頭潛鴨x斑背潛鴨(雜交)",
         "comNameJp": "雑種 キンクロハジロ ｘ スズガモ",
         "comNameList": [
-            "粉鳥鷹",
+            "阿不倒仔",
             "澤鳧",
+            "a-put-tó-á",
+            "ah",
             "鈴鴨"
         ]
     },
@@ -1971,6 +2112,7 @@
         "comNameZh": "小斑背潛鴨",
         "comNameJp": "コスズガモ",
         "comNameList": [
+            "ah",
             "鈴鴨"
         ]
     },
@@ -1982,8 +2124,8 @@
         "taxonOrder": 669.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "GRSC",
-            "LESC"
+            "LESC",
+            "GRSC"
         ],
         "sciNameCodes": [
             "AYMA",
@@ -1996,6 +2138,7 @@
         "comNameZh": "斑背潛鴨/小斑背潛鴨",
         "comNameJp": "スズガモ／コスズガモ",
         "comNameList": [
+            "ah",
             "鈴鴨"
         ]
     },
@@ -2014,7 +2157,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "潛鴨屬",
         "comNameJp": "ハジロ属",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Clangula hyemalis",
@@ -2035,7 +2180,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "長尾鴨",
         "comNameJp": "コオリガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Bucephala clangula",
@@ -2056,7 +2203,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "鵲鴨",
         "comNameJp": "ホオジロガモ",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Mergellus albellus",
@@ -2249,7 +2398,9 @@
         "familySciName": "Anatidae",
         "comNameZh": "鴨類(鴨亞科)",
         "comNameJp": "カモ亜科",
-        "comNameList": []
+        "comNameList": [
+            "ah"
+        ]
     },
     {
         "sciName": "Anatidae sp.",
@@ -2267,7 +2418,8 @@
         "comNameZh": "雁鴨類(雁鴨科)",
         "comNameJp": "カモ科",
         "comNameList": [
-            "野鵝"
+            "野鵝",
+            "ah"
         ]
     },
     {
@@ -2313,9 +2465,13 @@
         "comNameZh": "臺灣山鷓鴣",
         "comNameJp": "ミヤマテッケイ",
         "comNameList": [
+            "台灣山鷓鴣",
             "深山竹雞",
             "報時鳥",
-            "紅跤仔"
+            "紅跤仔",
+            "tik-ke-á",
+            "tik-kue-á",
+            "竹雞"
         ]
     },
     {
@@ -2597,8 +2753,8 @@
         "taxonOrder": 1559.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TABP",
-            "TBPA"
+            "TBPA",
+            "TABP"
         ],
         "sciNameCodes": [
             "BASO"
@@ -2609,7 +2765,9 @@
         "familySciName": "Phasianidae",
         "comNameZh": "臺灣竹雞",
         "comNameJp": "テッケイ",
-        "comNameList": []
+        "comNameList": [
+            "台灣竹雞"
+        ]
     },
     {
         "sciName": "Bambusicola thoracicus/sonorivox",
@@ -2620,13 +2778,13 @@
         "bandingCodes": [],
         "comNameCodes": [
             "TBPA",
-            "CHBP",
             "TABP",
+            "CHBP",
             "CBPA"
         ],
         "sciNameCodes": [
-            "BATH",
-            "BASO"
+            "BASO",
+            "BATH"
         ],
         "order": "Galliformes",
         "familyCode": "phasia1",
@@ -2634,7 +2792,9 @@
         "familySciName": "Phasianidae",
         "comNameZh": "灰胸竹雞/臺灣竹雞",
         "comNameJp": "Chinese/Taiwan Bamboo-Partridge",
-        "comNameList": []
+        "comNameList": [
+            "灰胸竹雞/台灣竹雞"
+        ]
     },
     {
         "sciName": "Gallus gallus (Domestic type)",
@@ -2667,8 +2827,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "KIQU",
-            "ABQU",
-            "BBQU"
+            "BBQU",
+            "ABQU"
         ],
         "sciNameCodes": [
             "SYCH"
@@ -2968,8 +3128,8 @@
             "ROPI"
         ],
         "comNameCodes": [
-            "ROPI",
             "FEPI",
+            "ROPI",
             "RODO"
         ],
         "sciNameCodes": [
@@ -3222,6 +3382,7 @@
         "comNameJp": "カノコバト",
         "comNameList": [
             "斑鴿",
+            "pan-kah",
             "鴿"
         ]
     },
@@ -3248,6 +3409,7 @@
         "comNameJp": "カノコバト（chinensis／tigrina）",
         "comNameList": [
             "斑鴿",
+            "pan-kah",
             "鴿"
         ]
     },
@@ -3815,7 +3977,8 @@
         "comNameZh": "鷹鵑",
         "comNameJp": "オオジュウイチ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -3827,8 +3990,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "NOHC",
-            "RUHC",
             "NHCU",
+            "RUHC",
             "RHCU"
         ],
         "sciNameCodes": [
@@ -3841,7 +4004,8 @@
         "comNameZh": "北方鷹鵑",
         "comNameJp": "ジュウイチ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -3852,8 +4016,8 @@
         "taxonOrder": 3404.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "HOHC",
             "WHCU",
+            "HOHC",
             "HHCU",
             "WHHC"
         ],
@@ -3867,7 +4031,8 @@
         "comNameZh": "棕腹鷹鵑",
         "comNameJp": "インドシナジュウイチ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -3886,7 +4051,8 @@
         "comNameZh": "鷹鵑屬",
         "comNameJp": "ジュウイチ属",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -4025,8 +4191,8 @@
         "taxonOrder": 3428.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ORCU",
-            "LECU"
+            "LECU",
+            "ORCU"
         ],
         "sciNameCodes": [
             "CUOP",
@@ -4140,7 +4306,8 @@
         "comNameZh": "普通夜鷹",
         "comNameJp": "ヨタカ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -4163,7 +4330,8 @@
         "comNameZh": "南亞夜鷹",
         "comNameJp": "シロアゴヨタカ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -4182,7 +4350,8 @@
         "comNameZh": "夜鷹屬",
         "comNameJp": "ヨタカ属",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -4201,7 +4370,8 @@
         "comNameZh": "夜鷹科",
         "comNameJp": "ヨタカ科",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -4223,7 +4393,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "白喉針尾雨燕",
         "comNameJp": "ハリオアマツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundapus cochinchinensis",
@@ -4244,7 +4417,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "灰喉針尾雨燕",
         "comNameJp": "クロビタイハリオアマツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundapus celebensis",
@@ -4265,7 +4441,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "紫針尾雨燕",
         "comNameJp": "セレベスハリオアマツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundapus sp.",
@@ -4282,7 +4461,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "針尾雨燕屬",
         "comNameJp": "ハリオアマツバメ属",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Collocalia marginata",
@@ -4304,7 +4486,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "灰腰金絲燕",
         "comNameJp": "ハイゴツアナツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Aerodramus brevirostris",
@@ -4325,7 +4510,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "短嘴金絲燕",
         "comNameJp": "ヒマラヤアナツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Aerodramus brevirostris brevirostris/innominatus",
@@ -4347,7 +4535,10 @@
         "reportAs": "himswi2",
         "comNameZh": "短嘴金絲燕(brevirostris/innominatus)",
         "comNameJp": "ヒマラヤアナツバメ（brevirostris／innominatus）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Aerodramus brevirostris rogersi",
@@ -4369,7 +4560,10 @@
         "reportAs": "himswi2",
         "comNameZh": "短嘴金絲燕(rogersi)",
         "comNameJp": "ヒマラヤアナツバメ（rogersi）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Aerodramus germani",
@@ -4391,7 +4585,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "傑曼氏金絲燕",
         "comNameJp": "マレーアナツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Aerodramus fuciphagus/germani",
@@ -4402,8 +4599,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "ENSW",
-            "GESW",
-            "WNSW"
+            "WNSW",
+            "GESW"
         ],
         "sciNameCodes": [
             "AEGE",
@@ -4415,7 +4612,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "食用燕窩金絲燕複合群",
         "comNameJp": "ジャワアナツバメ／マレーアナツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Aerodramus sp.",
@@ -4432,7 +4632,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "暗色金絲燕類",
         "comNameJp": "ムジアナツバメ属",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Collocalia/Aerodramus sp.",
@@ -4449,7 +4652,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "金絲燕類",
         "comNameJp": "シロハラアナツバメ属／ムジアナツバメ属",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Apus pacificus",
@@ -4472,7 +4678,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "叉尾雨燕",
         "comNameJp": "アマツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Apus pacificus/salimalii/leuconyx/cooki",
@@ -4489,7 +4698,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "叉尾雨燕複合群",
         "comNameJp": "アマツバメ上種",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Apus nipalensis",
@@ -4510,7 +4722,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "小雨燕",
         "comNameJp": "ヒメアマツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Apodidae sp. (large swift sp.)",
@@ -4527,7 +4742,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "雨燕科(大型)",
         "comNameJp": "アマツバメ科（大きい）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Apodidae sp. (small swift sp.)",
@@ -4544,7 +4762,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "雨燕科(小型)",
         "comNameJp": "アマツバメ科（小さい）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Apodidae sp.",
@@ -4561,7 +4782,10 @@
         "familySciName": "Apodidae",
         "comNameZh": "雨燕科",
         "comNameJp": "アマツバメ科",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Rallus aquaticus",
@@ -4627,9 +4851,9 @@
         "taxonOrder": 5285.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "WEWR",
-            "EWRA",
             "WARA",
+            "EWRA",
+            "WEWR",
             "BCRA",
             "WWRA"
         ],
@@ -5042,7 +5266,9 @@
         "familySciName": "Rallidae",
         "comNameZh": "紅腳苦惡鳥",
         "comNameJp": "チャバネクイナ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Zapornia pusilla",
@@ -5157,7 +5383,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "簑羽鶴",
         "comNameJp": "アネハヅル",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Leucogeranus leucogeranus",
@@ -5178,7 +5406,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "白鶴",
         "comNameJp": "ソデグロヅル",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Antigone canadensis",
@@ -5199,7 +5429,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "沙丘鶴",
         "comNameJp": "カナダヅル",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Antigone vipio",
@@ -5220,7 +5452,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "白枕鶴",
         "comNameJp": "マナヅル",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Grus grus",
@@ -5243,7 +5477,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "灰鶴",
         "comNameJp": "クロヅル",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Antigone canadensis x Grus grus",
@@ -5267,7 +5503,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "沙丘鶴x灰鶴(雜交)",
         "comNameJp": "雑種 カナダヅル ｘ クロヅル",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Grus monacha",
@@ -5288,7 +5526,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "白頭鶴",
         "comNameJp": "ナベヅル",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Grus grus x monacha",
@@ -5312,7 +5552,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "灰鶴x白頭鶴(雜交)",
         "comNameJp": "雑種 クロヅル ｘ ナベヅル",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Grus japonensis",
@@ -5333,7 +5575,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "丹頂鶴",
         "comNameJp": "タンチョウ",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Gruidae sp.",
@@ -5350,7 +5594,9 @@
         "familySciName": "Gruidae",
         "comNameZh": "鶴科",
         "comNameJp": "ツル科",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Himantopus himantopus",
@@ -5374,7 +5620,8 @@
         "comNameZh": "高蹺鴴",
         "comNameJp": "セイタカシギ",
         "comNameList": [
-            "躼跤仔"
+            "躼跤仔",
+            "lò-kha-á"
         ]
     },
     {
@@ -5398,7 +5645,8 @@
         "comNameZh": "黑領高蹺鴴",
         "comNameJp": "オーストラリアセイタカシギ",
         "comNameList": [
-            "躼跤仔"
+            "躼跤仔",
+            "lò-kha-á"
         ]
     },
     {
@@ -5424,7 +5672,8 @@
         "comNameZh": "高蹺鴴/黑領高蹺鴴",
         "comNameJp": "セイタカシギ／オーストラリアセイタカシギ",
         "comNameList": [
-            "躼跤仔"
+            "躼跤仔",
+            "lò-kha-á"
         ]
     },
     {
@@ -5687,12 +5936,12 @@
         "bandingCodes": [],
         "comNameCodes": [
             "CRPL",
-            "RIPL",
-            "LRPL"
+            "LRPL",
+            "RIPL"
         ],
         "sciNameCodes": [
-            "CHDU",
-            "CHHI"
+            "CHHI",
+            "CHDU"
         ],
         "order": "Charadriiformes",
         "familyCode": "charad1",
@@ -5814,8 +6063,8 @@
         ],
         "comNameCodes": [
             "LSPL",
-            "SISD",
             "LSDO",
+            "SISD",
             "LESA",
             "SISP",
             "SSPL",
@@ -5872,16 +6121,16 @@
         ],
         "comNameCodes": [
             "LSPL",
-            "SISD",
             "TISD",
             "LSDO",
+            "SISD",
             "LESA",
-            "SISP",
             "TISP",
+            "SISP",
             "SSPL",
             "TSPL",
-            "TSDO",
-            "SSDO"
+            "SSDO",
+            "TSDO"
         ],
         "sciNameCodes": [
             "ANMO",
@@ -6137,8 +6386,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "HUWH",
-            "EUWH",
-            "WHIM"
+            "WHIM",
+            "EUWH"
         ],
         "sciNameCodes": [
             "NUPH"
@@ -6992,7 +7241,8 @@
         "comNameZh": "鷹斑鷸",
         "comNameJp": "タカブシギ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -7080,7 +7330,9 @@
         "familySciName": "Scolopacidae",
         "comNameZh": "鶴鷸",
         "comNameJp": "ツルシギ",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Tringa totanus/erythropus",
@@ -7104,7 +7356,9 @@
         "familySciName": "Scolopacidae",
         "comNameZh": "赤足鷸/鶴鷸",
         "comNameJp": "アカアシシギ／ツルシギ",
-        "comNameList": []
+        "comNameList": [
+            "ho̍h"
+        ]
     },
     {
         "sciName": "Tringa nebularia",
@@ -7137,8 +7391,8 @@
         "taxonOrder": 6117.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "NOGR",
             "COGR",
+            "NOGR",
             "COMG",
             "SPGR"
         ],
@@ -7560,8 +7814,8 @@
         "taxonOrder": 6170.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "CUSA",
-            "DUNL"
+            "DUNL",
+            "CUSA"
         ],
         "sciNameCodes": [
             "CAFE",
@@ -7790,8 +8044,8 @@
         "comNameCodes": [
             "COBU",
             "KURR",
-            "SMBU",
-            "COMM"
+            "COMM",
+            "SMBU"
         ],
         "sciNameCodes": [
             "TUSY"
@@ -7840,7 +8094,10 @@
         "familySciName": "Glareolidae",
         "comNameZh": "燕鴴",
         "comNameJp": "ツバメチドリ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Charadriiformes sp.",
@@ -8416,8 +8673,8 @@
         "taxonOrder": 6436.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "SBGU",
-            "BHGU"
+            "BHGU",
+            "SBGU"
         ],
         "sciNameCodes": [
             "CHGE",
@@ -8807,8 +9064,8 @@
             "HERG"
         ],
         "sciNameCodes": [
-            "LAAR",
-            "LAHY"
+            "LAHY",
+            "LAAR"
         ],
         "order": "Charadriiformes",
         "familyCode": "larida1",
@@ -9061,7 +9318,10 @@
         "familySciName": "Laridae",
         "comNameZh": "玄燕鷗",
         "comNameJp": "クロアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Anous minutus",
@@ -9082,7 +9342,10 @@
         "familySciName": "Laridae",
         "comNameZh": "黑玄燕鷗",
         "comNameJp": "ヒメクロアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Anous minutus americanus",
@@ -9104,7 +9367,10 @@
         "reportAs": "blknod",
         "comNameZh": "黑玄燕鷗(americanus)",
         "comNameJp": "ヒメクロアジサシ（americanus）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Anous minutus melanogenys",
@@ -9126,7 +9392,10 @@
         "reportAs": "blknod",
         "comNameZh": "黑玄燕鷗(melanogenys)",
         "comNameJp": "ヒメクロアジサシ（melanogenys）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Anous minutus [minutus Group]",
@@ -9148,7 +9417,10 @@
         "reportAs": "blknod",
         "comNameZh": "黑玄燕鷗(minutus群)",
         "comNameJp": "ヒメクロアジサシ（minutus グループ）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Anous stolidus/minutus",
@@ -9172,7 +9444,10 @@
         "familySciName": "Laridae",
         "comNameZh": "玄燕鷗/黑玄燕鷗",
         "comNameJp": "クロアジサシ／ヒメクロアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Onychoprion aleuticus",
@@ -9193,7 +9468,10 @@
         "familySciName": "Laridae",
         "comNameZh": "白腰燕鷗",
         "comNameJp": "コシジロアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Onychoprion fuscatus",
@@ -9214,7 +9492,10 @@
         "familySciName": "Laridae",
         "comNameZh": "烏領燕鷗",
         "comNameJp": "セグロアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Onychoprion anaethetus",
@@ -9235,7 +9516,10 @@
         "familySciName": "Laridae",
         "comNameZh": "白眉燕鷗",
         "comNameJp": "マミジロアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Onychoprion fuscatus/anaethetus",
@@ -9258,7 +9542,10 @@
         "familySciName": "Laridae",
         "comNameZh": "烏領燕鷗/白眉燕鷗",
         "comNameJp": "セグロアジサシ／マミジロアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Sternula albifrons",
@@ -9279,7 +9566,10 @@
         "familySciName": "Laridae",
         "comNameZh": "小燕鷗",
         "comNameJp": "コアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Gelochelidon nilotica",
@@ -9302,7 +9592,10 @@
         "familySciName": "Laridae",
         "comNameZh": "鷗嘴燕鷗",
         "comNameJp": "ハシブトアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hydroprogne caspia",
@@ -9323,7 +9616,10 @@
         "familySciName": "Laridae",
         "comNameZh": "裏海燕鷗",
         "comNameJp": "オニアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Chlidonias hybrida",
@@ -9346,7 +9642,10 @@
         "familySciName": "Laridae",
         "comNameZh": "黑腹燕鷗",
         "comNameJp": "クロハラアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Chlidonias niger",
@@ -9412,7 +9711,10 @@
         "familySciName": "Laridae",
         "comNameZh": "白翅黑燕鷗",
         "comNameJp": "ハジロクロハラアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Chlidonias sp.",
@@ -9450,7 +9752,10 @@
         "familySciName": "Laridae",
         "comNameZh": "燕鷗",
         "comNameJp": "アジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Sterna hirundo hirundo/tibetana",
@@ -9472,7 +9777,10 @@
         "reportAs": "comter",
         "comNameZh": "燕鷗(hirundo/tibetana)",
         "comNameJp": "アジサシ（hirundo/tibetana）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Sterna hirundo longipennis",
@@ -9494,7 +9802,10 @@
         "reportAs": "comter",
         "comNameZh": "燕鷗(longipennis)",
         "comNameJp": "アジサシ（longipennis）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Sterna hirundo hirundo/tibetana x longipennis",
@@ -9516,7 +9827,10 @@
         "reportAs": "comter",
         "comNameZh": "燕鷗(hirundo/tibetana x longipennis)",
         "comNameJp": "アジサシ（hirundo/tibetana x longipennis）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Sterna sumatrana",
@@ -9537,7 +9851,10 @@
         "familySciName": "Laridae",
         "comNameZh": "蒼燕鷗",
         "comNameJp": "エリグロアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Sterna dougallii",
@@ -9560,7 +9877,10 @@
         "familySciName": "Laridae",
         "comNameZh": "紅燕鷗",
         "comNameJp": "ベニアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Sterna hirundo x dougallii",
@@ -9584,7 +9904,10 @@
         "familySciName": "Laridae",
         "comNameZh": "紅燕鷗x燕鷗(雜交)",
         "comNameJp": "雑種 ベニアジサシ ｘ アジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Sterna sp.",
@@ -9601,7 +9924,10 @@
         "familySciName": "Laridae",
         "comNameZh": "燕鷗屬",
         "comNameJp": "アジサシ属",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Thalasseus sandvicensis",
@@ -9622,7 +9948,10 @@
         "familySciName": "Laridae",
         "comNameZh": "白嘴端燕鷗",
         "comNameJp": "サンドイッチアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Thalasseus sandvicensis sandvicensis",
@@ -9644,7 +9973,10 @@
         "reportAs": "santer1",
         "comNameZh": "白嘴端燕鷗(sandvicensis)",
         "comNameJp": "サンドイッチアジサシ（sandvicensis）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Thalasseus bengalensis",
@@ -9665,7 +9997,10 @@
         "familySciName": "Laridae",
         "comNameZh": "小鳳頭燕鷗",
         "comNameJp": "ベンガルアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Thalasseus bergii",
@@ -9689,7 +10024,10 @@
         "familySciName": "Laridae",
         "comNameZh": "鳳頭燕鷗",
         "comNameJp": "オオアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Thalasseus bernsteini",
@@ -9710,7 +10048,10 @@
         "familySciName": "Laridae",
         "comNameZh": "黑嘴端鳳頭燕鷗",
         "comNameJp": "ヒガシシナアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Thalasseus bergii x bernsteini",
@@ -9734,7 +10075,10 @@
         "familySciName": "Laridae",
         "comNameZh": "鳳頭燕鷗x黑嘴端鳳頭燕鷗(雜交)",
         "comNameJp": "雑種 オオアジサシ ｘ ヒガシシナアジサシ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Thalasseus sp.",
@@ -9751,7 +10095,10 @@
         "familySciName": "Laridae",
         "comNameZh": "鳳頭燕鷗屬",
         "comNameJp": "オオアジサシ属",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hydroprogne/Thalasseus sp.",
@@ -9768,7 +10115,10 @@
         "familySciName": "Laridae",
         "comNameZh": "大型燕鷗類",
         "comNameJp": "オニアジサシ属／オオアジサシ属",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Sterninae sp.",
@@ -9785,7 +10135,10 @@
         "familySciName": "Laridae",
         "comNameZh": "燕鷗亞科",
         "comNameJp": "アジサシ亜科",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Laridae sp.",
@@ -9802,7 +10155,10 @@
         "familySciName": "Laridae",
         "comNameZh": "鷗或燕鷗類(鷗科)",
         "comNameJp": "カモメ科",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Phaethon lepturus",
@@ -9823,7 +10179,9 @@
         "familySciName": "Phaethontidae",
         "comNameZh": "白尾熱帶鳥",
         "comNameJp": "シラオネッタイチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Phaethon lepturus dorotheae",
@@ -9845,7 +10203,9 @@
         "reportAs": "whttro",
         "comNameZh": "白尾熱帶鳥(dorotheae)",
         "comNameJp": "シラオネッタイチョウ（dorotheae）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Phaethon aethereus",
@@ -9866,7 +10226,9 @@
         "familySciName": "Phaethontidae",
         "comNameZh": "紅嘴熱帶鳥",
         "comNameJp": "アカハシネッタイチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Phaethon rubricauda",
@@ -9887,7 +10249,9 @@
         "familySciName": "Phaethontidae",
         "comNameZh": "紅尾熱帶鳥",
         "comNameJp": "アカオネッタイチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Phaethon aethereus/rubricauda",
@@ -9910,7 +10274,9 @@
         "familySciName": "Phaethontidae",
         "comNameZh": "紅嘴熱帶鳥/紅尾熱帶鳥",
         "comNameJp": "アカハシネッタイチョウ／アカオネッタイチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Phaethon sp.",
@@ -9927,7 +10293,9 @@
         "familySciName": "Phaethontidae",
         "comNameZh": "熱帶鳥屬",
         "comNameJp": "ネッタイチョウ属",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Gavia stellata",
@@ -9950,7 +10318,9 @@
         "familySciName": "Gaviidae",
         "comNameZh": "紅喉潛鳥",
         "comNameJp": "アビ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Gavia arctica",
@@ -9974,7 +10344,9 @@
         "familySciName": "Gaviidae",
         "comNameZh": "黑喉潛鳥",
         "comNameJp": "オオハム",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Gavia pacifica",
@@ -9997,7 +10369,9 @@
         "familySciName": "Gaviidae",
         "comNameZh": "太平洋潛鳥",
         "comNameJp": "シロエリオオハム",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Gavia arctica/pacifica",
@@ -10014,8 +10388,8 @@
             "PADI"
         ],
         "sciNameCodes": [
-            "GAAR",
-            "GAPA"
+            "GAPA",
+            "GAAR"
         ],
         "order": "Gaviiformes",
         "familyCode": "gaviid1",
@@ -10023,7 +10397,9 @@
         "familySciName": "Gaviidae",
         "comNameZh": "黑喉潛鳥/太平洋潛鳥",
         "comNameJp": "オオハム／シロエリオオハム",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Gavia adamsii",
@@ -10046,7 +10422,9 @@
         "familySciName": "Gaviidae",
         "comNameZh": "白嘴潛鳥",
         "comNameJp": "ハシジロアビ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Gavia sp.",
@@ -10063,7 +10441,9 @@
         "familySciName": "Gaviidae",
         "comNameZh": "潛鳥屬",
         "comNameJp": "アビ科",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Phoebastria immutabilis",
@@ -10201,7 +10581,10 @@
         "familySciName": "Oceanitidae",
         "comNameZh": "黃蹼洋海燕",
         "comNameJp": "アシナガウミツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Oceanites oceanicus oceanicus/exasperatus",
@@ -10224,7 +10607,10 @@
         "reportAs": "wispet",
         "comNameZh": "黃蹼洋海燕(oceanicus/exasperatus)",
         "comNameJp": "アシナガウミツバメ（oceanicus／exasperatus）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Oceanites oceanicus chilensis",
@@ -10247,7 +10633,10 @@
         "reportAs": "wispet",
         "comNameZh": "黃蹼洋海燕(chilensis)",
         "comNameJp": "アシナガウミツバメ（chilensis）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Oceanites sp.",
@@ -10264,7 +10653,10 @@
         "familySciName": "Oceanitidae",
         "comNameZh": "洋海燕屬",
         "comNameJp": "アシナガウミツバメ属",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hydrobates leucorhous",
@@ -10287,7 +10679,10 @@
         "familySciName": "Hydrobatidae",
         "comNameZh": "白腰叉尾海燕",
         "comNameJp": "コシジロウミツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hydrobates leucorhous leucorhous",
@@ -10310,7 +10705,10 @@
         "reportAs": "lcspet",
         "comNameZh": "白腰叉尾海燕(leucorhoa)",
         "comNameJp": "コシジロウミツバメ（leucorhoa）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hydrobates monorhis",
@@ -10334,7 +10732,10 @@
         "familySciName": "Hydrobatidae",
         "comNameZh": "黑叉尾海燕",
         "comNameJp": "ヒメクロウミツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hydrobates matsudairae",
@@ -10356,7 +10757,10 @@
         "familySciName": "Hydrobatidae",
         "comNameZh": "日本叉尾海燕",
         "comNameJp": "クロウミツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hydrobates tristrami",
@@ -10379,7 +10783,10 @@
         "familySciName": "Hydrobatidae",
         "comNameZh": "褐翅叉尾海燕",
         "comNameJp": "オーストンウミツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hydrobates sp.",
@@ -10396,7 +10803,10 @@
         "familySciName": "Hydrobatidae",
         "comNameZh": "叉尾海燕屬",
         "comNameJp": "ウミツバメ属",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Oceanitidae/Hydrobatidae sp. (dark-rumped)",
@@ -10410,7 +10820,10 @@
         "order": "Procellariiformes",
         "comNameZh": "海燕類(暗腰)",
         "comNameJp": "ウミツバメ科（黒背）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Oceanitidae/Hydrobatidae sp. (white-rumped)",
@@ -10424,7 +10837,10 @@
         "order": "Procellariiformes",
         "comNameZh": "海燕類(白腰)",
         "comNameJp": "ウミツバメ科（白背）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Oceanitidae/Hydrobatidae sp.",
@@ -10438,7 +10854,10 @@
         "order": "Procellariiformes",
         "comNameZh": "海燕類",
         "comNameJp": "ウミツバメ科",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Fulmarus glacialis",
@@ -10502,7 +10921,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "克島圓尾穴鳥",
         "comNameJp": "カワリシロハラミズナギドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pterodroma solandri",
@@ -10544,7 +10965,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "白腹穴鳥",
         "comNameJp": "シロハラミズナギドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Bulweria bulwerii",
@@ -10565,7 +10988,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "穴鳥",
         "comNameJp": "アナドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pseudobulweria rostrata",
@@ -10586,7 +11011,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "黑背白腹穴鳥",
         "comNameJp": "セグロシロハラミズナギドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Calonectris leucomelas",
@@ -10609,7 +11036,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "大水薙鳥",
         "comNameJp": "オオミズナギドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Ardenna carneipes",
@@ -10630,7 +11059,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "肉足水薙鳥",
         "comNameJp": "アカアシミズナギドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Ardenna pacifica",
@@ -10651,7 +11082,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "長尾水薙鳥",
         "comNameJp": "オナガミズナギドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Ardenna grisea",
@@ -10672,7 +11105,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "灰水薙鳥",
         "comNameJp": "ハイイロミズナギドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Ardenna tenuirostris",
@@ -10695,7 +11130,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "短尾水薙鳥",
         "comNameJp": "ハシボソミズナギドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Ardenna grisea/tenuirostris",
@@ -10719,7 +11156,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "灰水薙鳥/短尾水薙鳥",
         "comNameJp": "ハイイロミズナギドリ／ハシボソミズナギドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Puffinus nativitatis",
@@ -10778,7 +11217,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "黑白水薙鳥類",
         "comNameJp": "ミズナギドリ属",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Procellariidae sp. (shearwater sp.)",
@@ -10795,7 +11236,9 @@
         "familySciName": "Procellariidae",
         "comNameZh": "水薙鳥類",
         "comNameJp": "ミズナギドリ科（クロミズナギドリ属／ミズナギドリ属）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Procellariidae sp.",
@@ -10892,7 +11335,9 @@
         "familySciName": "Fregatidae",
         "comNameZh": "白斑軍艦鳥",
         "comNameJp": "コグンカンドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Fregata ariel ariel/iredalei",
@@ -10914,7 +11359,9 @@
         "reportAs": "lesfri",
         "comNameZh": "白斑軍艦鳥(ariel/iredalei)",
         "comNameJp": "コグンカンドリ（ariel／iredaeli）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Fregata minor",
@@ -10937,7 +11384,9 @@
         "familySciName": "Fregatidae",
         "comNameZh": "軍艦鳥",
         "comNameJp": "オオグンカンドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Fregata andrewsi",
@@ -10959,7 +11408,9 @@
         "familySciName": "Fregatidae",
         "comNameZh": "聖誕島軍艦鳥",
         "comNameJp": "シロハラグンカンドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Fregata sp.",
@@ -10976,7 +11427,9 @@
         "familySciName": "Fregatidae",
         "comNameZh": "軍艦鳥屬",
         "comNameJp": "グンカンドリ属",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Sula sula",
@@ -10998,6 +11451,7 @@
         "comNameZh": "紅腳鰹鳥",
         "comNameJp": "アカアシカツオドリ",
         "comNameList": [
+            "tsiáu-á",
             "海雞母"
         ]
     },
@@ -11022,6 +11476,7 @@
         "comNameZh": "紅腳鰹鳥(rubripes)",
         "comNameJp": "アカアシカツオドリ（rubripes）",
         "comNameList": [
+            "tsiáu-á",
             "海雞母"
         ]
     },
@@ -11045,6 +11500,7 @@
         "comNameZh": "白腹鰹鳥",
         "comNameJp": "カツオドリ",
         "comNameList": [
+            "tsiáu-á",
             "海雞母"
         ]
     },
@@ -11069,6 +11525,7 @@
         "comNameZh": "白腹鰹鳥(brewsteri)",
         "comNameJp": "カツオドリ（亜種 シロガシラカツオドリ）",
         "comNameList": [
+            "tsiáu-á",
             "海雞母"
         ]
     },
@@ -11093,6 +11550,7 @@
         "comNameZh": "白腹鰹鳥(plotus)",
         "comNameJp": "カツオドリ（亜種 カツオドリ）",
         "comNameList": [
+            "tsiáu-á",
             "海雞母"
         ]
     },
@@ -11116,6 +11574,7 @@
         "comNameZh": "藍臉鰹鳥",
         "comNameJp": "アオツラカツオドリ",
         "comNameList": [
+            "tsiáu-á",
             "海雞母"
         ]
     },
@@ -11127,8 +11586,8 @@
         "taxonOrder": 7182.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "MABO",
-            "BRBO"
+            "BRBO",
+            "MABO"
         ],
         "sciNameCodes": [
             "SULE",
@@ -11141,6 +11600,7 @@
         "comNameZh": "藍臉鰹鳥x白腹鰹鳥(雜交)",
         "comNameJp": "雑種 アオツラカツオドリ ｘ カツオドリ",
         "comNameList": [
+            "tsiáu-á",
             "海雞母"
         ]
     },
@@ -11160,6 +11620,7 @@
         "comNameZh": "鰹鳥屬",
         "comNameJp": "カツオドリ属",
         "comNameList": [
+            "tsiáu-á",
             "海雞母"
         ]
     },
@@ -11284,8 +11745,8 @@
         "comNameCodes": [
             "BLSH",
             "JACO",
-            "GRCO",
-            "GBCO"
+            "GBCO",
+            "GRCO"
         ],
         "sciNameCodes": [
             "PHCA"
@@ -11369,8 +11830,8 @@
         "taxonOrder": 7331.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "GRBI",
-            "EUBI"
+            "EUBI",
+            "GRBI"
         ],
         "sciNameCodes": [
             "BOST"
@@ -11512,12 +11973,12 @@
         "taxonOrder": 7360.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "CIBI",
-            "YEBI"
+            "YEBI",
+            "CIBI"
         ],
         "sciNameCodes": [
-            "IXCI",
-            "IXSI"
+            "IXSI",
+            "IXCI"
         ],
         "order": "Pelecaniformes",
         "familyCode": "ardeid1",
@@ -11570,7 +12031,8 @@
         "comNameJp": "ゴイサギ",
         "comNameList": [
             "暗公鳥",
-            "企鵝"
+            "企鵝",
+            "àm-kong-tsiáu"
         ]
     },
     {
@@ -11595,7 +12057,8 @@
         "comNameJp": "ゴイサギ（nycticorax）",
         "comNameList": [
             "暗公鳥",
-            "企鵝"
+            "企鵝",
+            "àm-kong-tsiáu"
         ]
     },
     {
@@ -11622,7 +12085,8 @@
         "comNameJp": "ハシブトゴイ",
         "comNameList": [
             "暗公鳥",
-            "企鵝"
+            "企鵝",
+            "àm-kong-tsiáu"
         ]
     },
     {
@@ -11651,7 +12115,8 @@
         "comNameJp": "ゴイサギ／ハシブトゴイ",
         "comNameList": [
             "暗公鳥",
-            "企鵝"
+            "企鵝",
+            "àm-kong-tsiáu"
         ]
     },
     {
@@ -11678,7 +12143,8 @@
             "大笨鳥",
             "地瓜",
             "山暗光鳥",
-            "蕃薯"
+            "蕃薯",
+            "àm-kong-tsiáu"
         ]
     },
     {
@@ -11712,8 +12178,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "MNHE",
-            "JANH",
             "JNHE",
+            "JANH",
             "MANH"
         ],
         "sciNameCodes": [
@@ -11730,7 +12196,8 @@
             "大笨鳥",
             "地瓜",
             "山暗光鳥",
-            "蕃薯"
+            "蕃薯",
+            "àm-kong-tsiáu"
         ]
     },
     {
@@ -11741,10 +12208,10 @@
         "taxonOrder": 7412.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "PARE",
             "PREG",
-            "PARH",
+            "PARE",
             "PRHE",
+            "PARH",
             "REHE",
             "EREG"
         ],
@@ -11912,8 +12379,8 @@
         "taxonOrder": 7442.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "STRH",
             "STHE",
+            "STRH",
             "GBHE"
         ],
         "sciNameCodes": [
@@ -11981,8 +12448,8 @@
         "taxonOrder": 7483.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "JPHE",
-            "JAPH"
+            "JAPH",
+            "JPHE"
         ],
         "sciNameCodes": [
             "ARSP"
@@ -12162,8 +12629,8 @@
             "CAEG"
         ],
         "sciNameCodes": [
-            "BUCO",
-            "ARIN"
+            "ARIN",
+            "BUCO"
         ],
         "order": "Pelecaniformes",
         "familyCode": "ardeid1",
@@ -12395,8 +12862,8 @@
         "taxonOrder": 7575.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "SAIB",
-            "ASIB"
+            "ASIB",
+            "SAIB"
         ],
         "sciNameCodes": [
             "THAE"
@@ -12491,7 +12958,8 @@
         "comNameZh": "白琵鷺",
         "comNameJp": "ヘラサギ",
         "comNameList": [
-            "白面抐桮"
+            "白面抐桮",
+            "pe̍h-bīn-lā-pue"
         ]
     },
     {
@@ -12514,7 +12982,8 @@
         "comNameZh": "黑面琵鷺",
         "comNameJp": "クロツラヘラサギ",
         "comNameList": [
-            "烏面抐桮"
+            "烏面抐桮",
+            "oo-bīn-lā-pue"
         ]
     },
     {
@@ -12541,7 +13010,9 @@
         "comNameJp": "雑種 ヘラサギ ｘ クロツラヘラサギ",
         "comNameList": [
             "白面抐桮",
-            "烏面抐桮"
+            "pe̍h-bīn-lā-pue",
+            "烏面抐桮",
+            "oo-bīn-lā-pue"
         ]
     },
     {
@@ -12581,7 +13052,8 @@
         "comNameZh": "魚鷹",
         "comNameJp": "ミサゴ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -12605,7 +13077,8 @@
         "comNameZh": "魚鷹(haliaetus)",
         "comNameJp": "ミサゴ（haliaetus）",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -12616,8 +13089,8 @@
         "taxonOrder": 7650.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BWKI",
             "BSKI",
+            "BWKI",
             "ABSK"
         ],
         "sciNameCodes": [
@@ -12641,8 +13114,8 @@
         "taxonOrder": 7652.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BSKI",
             "BWKI",
+            "BSKI",
             "ABSK"
         ],
         "sciNameCodes": [
@@ -12667,8 +13140,8 @@
         "taxonOrder": 7688.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ORHB",
             "OHBU",
+            "ORHB",
             "CRHB",
             "CHBU"
         ],
@@ -12682,7 +13155,8 @@
         "comNameZh": "東方蜂鷹",
         "comNameJp": "ハチクマ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -12709,7 +13183,8 @@
         "comNameZh": "東方蜂鷹(orientalis)",
         "comNameJp": "ハチクマ（orientalis）",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -12741,8 +13216,8 @@
         "taxonOrder": 7738.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BLVU",
-            "CIVU"
+            "CIVU",
+            "BLVU"
         ],
         "sciNameCodes": [
             "AEMO"
@@ -12829,6 +13304,7 @@
         "comNameJp": "クマタカ",
         "comNameList": [
             "鴟鴞",
+            "ing",
             "白毛跤鷹"
         ]
     },
@@ -12855,6 +13331,7 @@
         "comNameJp": "クマタカ（亜種クマタカ）",
         "comNameList": [
             "鴟鴞",
+            "ing",
             "白毛跤鷹"
         ]
     },
@@ -12880,6 +13357,8 @@
         "comNameList": [
             "鴟鴞",
             "鷹",
+            "bā-hio̍h",
+            "ing",
             "烏毛跤鷹"
         ]
     },
@@ -12904,7 +13383,9 @@
         "comNameJp": "カラフトワシ",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -12928,7 +13409,9 @@
         "comNameJp": "ヒメクマタカ",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -12953,7 +13436,9 @@
         "comNameJp": "カタシロワシ",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -12977,7 +13462,9 @@
         "comNameJp": "イヌワシ",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -13001,7 +13488,9 @@
         "comNameJp": "ボネリークマタカ",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -13021,7 +13510,9 @@
         "comNameJp": "イヌワシ属",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -13041,7 +13532,9 @@
         "comNameJp": "カラフトワシ属／イヌワシ属",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -13065,10 +13558,14 @@
         "comNameJp": "サシバ",
         "comNameList": [
             "鴟鴞",
+            "ing",
             "灰面鷲",
             "國慶鳥",
             "南路鷹",
-            "灰面鷹"
+            "灰面鷹",
+            "lâm-lōo-ing",
+            "山後鳥",
+            "suann-āu-tsiáu"
         ]
     },
     {
@@ -13129,8 +13626,8 @@
             "EMHA",
             "WEMH",
             "EUMH",
-            "WMHA",
-            "EAMH"
+            "EAMH",
+            "WMHA"
         ],
         "sciNameCodes": [
             "CISP",
@@ -13224,6 +13721,7 @@
         "comNameJp": "カンムリオオタカ",
         "comNameList": [
             "鴟鴞",
+            "ing",
             "粉鳥鷹"
         ]
     },
@@ -13235,8 +13733,8 @@
         "taxonOrder": 7987.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "LBGO",
-            "SHIK"
+            "SHIK",
+            "LBGO"
         ],
         "sciNameCodes": [
             "ACBA"
@@ -13248,7 +13746,8 @@
         "comNameZh": "褐耳鷹",
         "comNameJp": "タカサゴダカ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -13259,8 +13758,8 @@
         "taxonOrder": 7991.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "LBGO",
-            "SHIK"
+            "SHIK",
+            "LBGO"
         ],
         "sciNameCodes": [
             "ACBA"
@@ -13273,7 +13772,8 @@
         "comNameZh": "褐耳鷹(badius群)",
         "comNameJp": "タカサゴダカ（badius グループ）",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -13299,6 +13799,7 @@
         "comNameJp": "アカハラダカ",
         "comNameList": [
             "鴟鴞",
+            "ing",
             "鷹柱鳥"
         ]
     },
@@ -13323,6 +13824,7 @@
         "comNameJp": "ツミ",
         "comNameList": [
             "鴟鴞",
+            "ing",
             "鷹仔虎"
         ]
     },
@@ -13347,6 +13849,7 @@
         "comNameJp": "ミナミツミ",
         "comNameList": [
             "鴟鴞",
+            "ing",
             "鷹仔虎"
         ]
     },
@@ -13373,6 +13876,7 @@
         "comNameJp": "ツミ／ミナミツミ",
         "comNameList": [
             "鴟鴞",
+            "ing",
             "鷹仔虎"
         ]
     },
@@ -13399,6 +13903,7 @@
         "comNameJp": "カンムリオオタカ／ミナミツミ",
         "comNameList": [
             "鴟鴞",
+            "ing",
             "鷹仔虎",
             "粉鳥鷹"
         ]
@@ -13423,7 +13928,8 @@
         "comNameZh": "北雀鷹",
         "comNameJp": "ハイタカ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -13448,7 +13954,8 @@
         "comNameZh": "蒼鷹",
         "comNameJp": "オオタカ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -13469,7 +13976,8 @@
         "comNameZh": "雀鷹屬",
         "comNameJp": "ハイタカ属",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -13507,8 +14015,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BBKI",
-            "BLKI",
-            "BLAK"
+            "BLAK",
+            "BLKI"
         ],
         "sciNameCodes": [
             "MIMI"
@@ -13595,7 +14103,9 @@
         "comNameJp": "オジロワシ",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -13619,7 +14129,9 @@
         "comNameJp": "シロハラウミワシ",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -13639,7 +14151,9 @@
         "comNameJp": "ウミワシ属",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -13662,7 +14176,8 @@
         "comNameZh": "栗翅鷹",
         "comNameJp": "モモアカノスリ",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -13774,8 +14289,8 @@
             "EABU"
         ],
         "sciNameCodes": [
-            "BUJA",
-            "BUBU"
+            "BUBU",
+            "BUJA"
         ],
         "order": "Accipitriformes",
         "familyCode": "accipi1",
@@ -13842,7 +14357,9 @@
         "comNameJp": "ノスリ属／ウミワシ属／イヌワシ属",
         "comNameList": [
             "鴟鴞",
-            "鷹"
+            "鷹",
+            "bā-hio̍h",
+            "ing"
         ]
     },
     {
@@ -13863,7 +14380,8 @@
         "comNameZh": "鷹科(中、小型)",
         "comNameJp": "タカ科",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -13882,7 +14400,8 @@
         "comNameZh": "鷹科(中、大型)",
         "comNameJp": "ウミワシ属／イヌワシ属",
         "comNameList": [
-            "鴟鴞"
+            "鴟鴞",
+            "ing"
         ]
     },
     {
@@ -13894,8 +14413,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "AGOW",
-            "EGOW",
             "AUGO",
+            "EGOW",
             "EAGO"
         ],
         "sciNameCodes": [
@@ -13909,6 +14428,7 @@
         "comNameJp": "ヒガシメンフクロウ",
         "comNameList": [
             "貓頭鳥",
+            "niau-thâu-tsiáu",
             "猴面鷹"
         ]
     },
@@ -13920,8 +14440,8 @@
         "taxonOrder": 8471.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "MOSO",
-            "MSOW"
+            "MSOW",
+            "MOSO"
         ],
         "sciNameCodes": [
             "OTSP"
@@ -13933,7 +14453,8 @@
         "comNameZh": "黃嘴角鴞",
         "comNameJp": "タイワンコノハズク",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -13957,7 +14478,8 @@
         "comNameZh": "領角鴞",
         "comNameJp": "ヒガシオオコノハズク",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -13981,7 +14503,8 @@
         "comNameZh": "蘭嶼角鴞",
         "comNameJp": "リュウキュウコノハズク",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14006,7 +14529,8 @@
         "comNameZh": "東方角鴞",
         "comNameJp": "コノハズク",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14031,7 +14555,8 @@
         "comNameZh": "東方角鴞(sunia群)",
         "comNameJp": "コノハズク（sunia グループ）",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14050,7 +14575,8 @@
         "comNameZh": "角鴞屬",
         "comNameJp": "コノハズク属",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14061,8 +14587,8 @@
         "taxonOrder": 8776.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TAFO",
-            "TFOW"
+            "TFOW",
+            "TAFO"
         ],
         "sciNameCodes": [
             "KEFL"
@@ -14074,7 +14600,8 @@
         "comNameZh": "黃魚鴞",
         "comNameJp": "ウオミミズク",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14118,7 +14645,8 @@
         "comNameZh": "縱紋腹小鴞",
         "comNameJp": "コキンメフクロウ",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14142,7 +14670,8 @@
         "comNameZh": "褐林鴞",
         "comNameJp": "オオフクロウ",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14167,7 +14696,8 @@
         "comNameZh": "褐林鴞(indranee群)",
         "comNameJp": "オオフクロウ（indranee グループ）",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14190,7 +14720,8 @@
         "comNameZh": "東方灰林鴞",
         "comNameJp": "ヒマラヤフクロウ",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14209,7 +14740,8 @@
         "comNameZh": "林鴞屬",
         "comNameJp": "Strix sp. 属",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14234,7 +14766,8 @@
         "comNameZh": "長耳鴞",
         "comNameJp": "トラフズク",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14259,7 +14792,8 @@
         "comNameZh": "長耳鴞(otus/canariensis)",
         "comNameJp": "トラフズク（otus／canariensis）",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14282,7 +14816,8 @@
         "comNameZh": "短耳鴞",
         "comNameJp": "コミミズク",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14306,7 +14841,8 @@
         "comNameZh": "短耳鴞(flammeus)",
         "comNameJp": "コミミズク（flammeus）",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14332,7 +14868,8 @@
         "comNameZh": "長耳鴞/短耳鴞",
         "comNameJp": "トラフズク／コミミズク",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14351,7 +14888,8 @@
         "comNameZh": "耳鴞屬",
         "comNameJp": "トラフズク属",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14377,7 +14915,9 @@
         "comNameJp": "アオバズク",
         "comNameList": [
             "鴟鴞",
-            "貓頭鳥"
+            "ing",
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14398,7 +14938,8 @@
         "comNameZh": "鴞形目",
         "comNameJp": "フクロウ科",
         "comNameList": [
-            "貓頭鳥"
+            "貓頭鳥",
+            "niau-thâu-tsiáu"
         ]
     },
     {
@@ -14471,7 +15012,10 @@
         "comNameZh": "翠鳥",
         "comNameJp": "カワセミ",
         "comNameList": [
-            "釣魚翁"
+            "釣魚翁",
+            "tiò-hî-ang",
+            "tiò-hû-ang",
+            "tsiáu-á"
         ]
     },
     {
@@ -14495,7 +15039,10 @@
         "comNameZh": "翠鳥(atthis群)",
         "comNameJp": "カワセミ（atthis グループ）",
         "comNameList": [
-            "釣魚翁"
+            "釣魚翁",
+            "tiò-hî-ang",
+            "tiò-hû-ang",
+            "tsiáu-á"
         ]
     },
     {
@@ -14519,7 +15066,10 @@
         "comNameZh": "黑背三趾翠鳥",
         "comNameJp": "ミツユビカワセミ",
         "comNameList": [
-            "釣魚翁"
+            "釣魚翁",
+            "tiò-hî-ang",
+            "tiò-hû-ang",
+            "tsiáu-á"
         ]
     },
     {
@@ -14666,7 +15216,10 @@
         "comNameZh": "翠鳥科",
         "comNameJp": "カワセミ科",
         "comNameList": [
-            "釣魚翁"
+            "釣魚翁",
+            "tiò-hî-ang",
+            "tiò-hû-ang",
+            "tsiáu-á"
         ]
     },
     {
@@ -14803,8 +15356,8 @@
         "taxonOrder": 10146.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "DOLL",
-            "ORDO"
+            "ORDO",
+            "DOLL"
         ],
         "sciNameCodes": [
             "EUOR"
@@ -14839,8 +15392,10 @@
         "comNameZh": "五色鳥",
         "comNameJp": "タイワンゴシキドリ",
         "comNameList": [
+            "tsiáu-á",
             "花仔和尚",
-            "臺灣擬啄木"
+            "臺灣擬啄木",
+            "hue-á-huê-siūnn"
         ]
     },
     {
@@ -15008,7 +15563,9 @@
         "familySciName": "Picidae",
         "comNameZh": "啄木鳥科",
         "comNameJp": "キツツキ科",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Falco naumanni",
@@ -15188,7 +15745,10 @@
         "familySciName": "Falconidae",
         "comNameZh": "燕隼",
         "comNameJp": "チゴハヤブサ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Falco amurensis/subbuteo",
@@ -15213,6 +15773,8 @@
         "comNameZh": "紅腳隼/燕隼",
         "comNameJp": "アカアシチョウゲンボウ／チゴハヤブサ",
         "comNameList": [
+            "燕仔",
+            "ìnn-á",
             "阿穆爾隼"
         ]
     },
@@ -15387,7 +15949,10 @@
         "reportAs": "cockat",
         "comNameZh": "雞尾鸚鵡(馴化)",
         "comNameJp": "オカメインコ（家畜）",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Cacatua goffiniana",
@@ -15408,7 +15973,10 @@
         "familySciName": "Cacatuidae",
         "comNameZh": "戈芬氏鳳頭鸚鵡",
         "comNameJp": "シロビタイムジオウム",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Cacatua alba",
@@ -15429,7 +15997,10 @@
         "familySciName": "Cacatuidae",
         "comNameZh": "白鳳頭鸚鵡",
         "comNameJp": "タイハクオウム",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Cacatua galerita",
@@ -15450,7 +16021,10 @@
         "familySciName": "Cacatuidae",
         "comNameZh": "葵花鳳頭鸚鵡",
         "comNameJp": "キバタン",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Cacatua sp.",
@@ -15467,7 +16041,10 @@
         "familySciName": "Cacatuidae",
         "comNameZh": "鳳頭鸚鵡屬",
         "comNameJp": "バタン属",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Eclectus sp.",
@@ -15484,7 +16061,10 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "折衷鸚鵡屬",
         "comNameJp": "eclectus sp.",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Psittacula eupatria",
@@ -15505,7 +16085,10 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "亞歷山大鸚鵡",
         "comNameJp": "オオホンセイインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Psittacula krameri",
@@ -15528,7 +16111,10 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "紅領綠鸚鵡",
         "comNameJp": "ホンセイインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Melopsittacus undulatus (Domestic type)",
@@ -15550,7 +16136,10 @@
         "reportAs": "budger",
         "comNameZh": "虎皮鸚鵡(馴化)",
         "comNameJp": "セキセイインコ（家畜）",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Eos bornea",
@@ -15571,7 +16160,10 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "紅色吸蜜鸚鵡",
         "comNameJp": "ヒインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Trichoglossus haematodus",
@@ -15592,7 +16184,10 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "新幾內亞彩虹吸蜜鸚鵡",
         "comNameJp": "ニューギニアゴシキセイガイインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Trichoglossus moluccanus",
@@ -15613,7 +16208,10 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "彩虹吸蜜鸚鵡",
         "comNameJp": "オーストラリアゴシキセイガイインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Trichoglossus rubritorquis",
@@ -15634,7 +16232,10 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "紅領吸蜜鸚鵡",
         "comNameJp": "Red-collared Lorikeet",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Trichoglossus sp. (rainbow lorikeet complex)",
@@ -15651,7 +16252,10 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "彩虹吸蜜鸚鵡複合群",
         "comNameJp": "ニューギニアゴシキセイガイインコ上種",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Psittaculidae sp. (lorikeet sp.)",
@@ -15668,7 +16272,10 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "吸蜜鸚鵡屬",
         "comNameJp": "ホンセイインコ科",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Agapornis roseicollis",
@@ -15689,7 +16296,9 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "桃臉愛情鳥",
         "comNameJp": "コザクラインコ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Agapornis fischeri",
@@ -15710,7 +16319,9 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "費氏愛情鳥",
         "comNameJp": "ルリゴシボタンインコ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Agapornis personatus",
@@ -15731,7 +16342,9 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "黃領愛情鳥",
         "comNameJp": "キエリボタンインコ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Agapornis fischeri x personatus",
@@ -15754,7 +16367,9 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "費氏愛情鳥x黃領愛情鳥(雜交)",
         "comNameJp": "雑種 ルリゴシボタンインコ ｘ キエリボタンインコ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Agapornis fischeri/personatus",
@@ -15777,7 +16392,9 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "費氏愛情鳥/黃臉愛情鳥",
         "comNameJp": "ルリゴシボタンインコ／キエリボタンインコ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Agapornis sp. (Domestic type)",
@@ -15796,7 +16413,9 @@
         "familySciName": "Psittaculidae",
         "comNameZh": "愛情鳥屬(馴化)",
         "comNameJp": "Domestic lovebird sp. (Domestic type)",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Psittacus erithacus",
@@ -15817,7 +16436,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "灰鸚鵡",
         "comNameJp": "ヨウム",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Poicephalus senegalus",
@@ -15838,7 +16460,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "塞內加爾鸚鵡",
         "comNameJp": "ネズミガシラハネナガインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Myiopsitta monachus",
@@ -15859,7 +16484,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "和尚鸚鵡",
         "comNameJp": "オキナインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Aratinga solstitialis",
@@ -15880,7 +16508,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "太陽鸚鵡",
         "comNameJp": "コガネメキシコインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Primolius auricollis",
@@ -15902,7 +16533,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "黃領金剛鸚鵡",
         "comNameJp": "キエリヒメコンゴウインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Ara ararauna",
@@ -15923,7 +16557,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "藍黃金剛鸚鵡",
         "comNameJp": "ルリコンゴウインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Ara macao",
@@ -15944,7 +16581,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "緋紅金剛鸚鵡",
         "comNameJp": "コンゴウインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Ara ararauna x macao",
@@ -15967,7 +16607,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "藍黃金剛鸚鵡x緋紅金剛鸚鵡(雜交)",
         "comNameJp": "雑種 ルリコンゴウインコ ｘ コンゴウインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Ara chloropterus",
@@ -15988,7 +16631,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "紅綠金剛鸚鵡",
         "comNameJp": "ベニコンゴウインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Ara ararauna x chloropterus",
@@ -16002,8 +16648,8 @@
             "RAGM"
         ],
         "sciNameCodes": [
-            "ARCH",
-            "ARAR"
+            "ARAR",
+            "ARCH"
         ],
         "order": "Psittaciformes",
         "familyCode": "psitta3",
@@ -16011,7 +16657,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "藍黃金剛鸚鵡x紅綠金剛鸚鵡(雜交)",
         "comNameJp": "雑種 ルリコンゴウインコ ｘ ベニコンゴウインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Ara macao/chloropterus",
@@ -16034,7 +16683,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "緋紅/紅綠金剛鸚鵡",
         "comNameJp": "コンゴウインコ／ベニコンゴウインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Ara sp.",
@@ -16051,7 +16703,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "大型金剛鸚鵡類",
         "comNameJp": "コンゴウインコ属",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Diopsittaca nobilis",
@@ -16073,7 +16728,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "紅肩金剛鸚鵡",
         "comNameJp": "コミドリコンゴウインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Orthopsittaca/Primolius/Diopsittaca sp.",
@@ -16090,7 +16748,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "小型金剛鸚鵡類",
         "comNameJp": "ヒメコンゴウインコの種",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Psittacara erythrogenys",
@@ -16111,7 +16772,10 @@
         "familySciName": "Psittacidae",
         "comNameZh": "紅臉鸚鵡",
         "comNameJp": "オナガアカボウシインコ",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Psittaciformes sp. (parakeet sp.)",
@@ -16125,7 +16789,10 @@
         "order": "Psittaciformes",
         "comNameZh": "鸚鵡目(parakeet sp.)",
         "comNameJp": "オウム目（インコ科 小さな種）",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Psittaciformes sp. (parrot sp.)",
@@ -16139,7 +16806,10 @@
         "order": "Psittaciformes",
         "comNameZh": "鸚鵡目(parrot sp.)",
         "comNameJp": "オウム目（インコ科 大きな種）",
-        "comNameList": []
+        "comNameList": [
+            "鸚哥",
+            "ing-ko"
+        ]
     },
     {
         "sciName": "Pitta moluccensis",
@@ -16160,7 +16830,9 @@
         "familySciName": "Pittidae",
         "comNameZh": "藍翅八色鳥",
         "comNameJp": "ミナミヤイロチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pitta nympha",
@@ -16181,7 +16853,9 @@
         "familySciName": "Pittidae",
         "comNameZh": "八色鳥",
         "comNameJp": "ヤイロチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pitta sordida",
@@ -16202,7 +16876,9 @@
         "familySciName": "Pittidae",
         "comNameZh": "綠胸八色鳥",
         "comNameJp": "Western Hooded Pitta",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pitta sordida sordida/palawanensis",
@@ -16225,7 +16901,9 @@
         "reportAs": "wehpit1",
         "comNameZh": "綠胸八色鳥(sordida/palawanensis)",
         "comNameJp": "Western Hooded Pitta (Philippine)",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pitta sp.",
@@ -16242,7 +16920,9 @@
         "familySciName": "Pittidae",
         "comNameZh": "八色鳥屬",
         "comNameJp": "ヤイロチョウ属",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus solaris",
@@ -16264,7 +16944,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "灰喉山椒鳥",
         "comNameJp": "ベニサンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus solaris [solaris Group]",
@@ -16287,7 +16969,9 @@
         "reportAs": "gycmin1",
         "comNameZh": "灰喉山椒鳥(solaris群)",
         "comNameJp": "ベニサンショウクイ（solaris グループ）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus ethologus",
@@ -16308,7 +16992,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "長尾山椒鳥",
         "comNameJp": "オナガベニサンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus speciosus",
@@ -16329,7 +17015,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "赤紅山椒鳥",
         "comNameJp": "シュイロサンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus speciosus [speciosus Group]",
@@ -16351,7 +17039,9 @@
         "reportAs": "scamin1",
         "comNameZh": "赤紅山椒鳥(speciosus群)",
         "comNameJp": "シュイロサンショウクイ（speciosus グループ）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus tegimae",
@@ -16372,7 +17062,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "琉球山椒鳥",
         "comNameJp": "リュウキュウサンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus divaricatus",
@@ -16393,7 +17085,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "灰山椒鳥",
         "comNameJp": "サンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus tegimae/divaricatus",
@@ -16416,7 +17110,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "琉球山椒鳥/灰山椒鳥",
         "comNameJp": "リュウキュウサンショウクイ／サンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus cantonensis",
@@ -16426,8 +17122,8 @@
         "taxonOrder": 18297.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "SWMI",
-            "BRMI"
+            "BRMI",
+            "SWMI"
         ],
         "sciNameCodes": [
             "PECA"
@@ -16438,7 +17134,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "小灰山椒鳥",
         "comNameJp": "チャイロサンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus divaricatus/cantonensis",
@@ -16449,8 +17147,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "ASMI",
-            "BRMI",
-            "SWMI"
+            "SWMI",
+            "BRMI"
         ],
         "sciNameCodes": [
             "PECA",
@@ -16462,7 +17160,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "灰山椒鳥/小灰山椒鳥",
         "comNameJp": "サンショウクイ／チャイロサンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus roseus",
@@ -16483,7 +17183,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "粉紅山椒鳥",
         "comNameJp": "モモイロサンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus sp. (red minivet sp.)",
@@ -16500,7 +17202,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "紅黃色系山椒鳥類",
         "comNameJp": "サンショウクイ属（赤い）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus sp. (grey minivet sp.)",
@@ -16517,7 +17221,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "灰色系山椒鳥類",
         "comNameJp": "サンショウクイ属（灰色）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pericrocotus sp.",
@@ -16534,7 +17240,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "山椒鳥屬",
         "comNameJp": "サンショウクイ属",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Coracina macei",
@@ -16557,7 +17265,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "花翅山椒鳥",
         "comNameJp": "オオオニサンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Coracina macei [nipalensis Group]",
@@ -16581,7 +17291,9 @@
         "reportAs": "larcus1",
         "comNameZh": "花翅山椒鳥(nipalensis群)",
         "comNameJp": "オオオニサンショウクイ（nipalensis グループ）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Lalage nigra",
@@ -16624,7 +17336,9 @@
         "familySciName": "Campephagidae",
         "comNameZh": "黑翅山椒鳥",
         "comNameJp": "アサクラサンショウクイ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Erpornis zantholeuca",
@@ -16730,7 +17444,10 @@
         "familySciName": "Artamidae",
         "comNameZh": "白胸燕鵙",
         "comNameJp": "モリツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Rhipidura nigritorquis",
@@ -16897,8 +17614,8 @@
         "taxonOrder": 20095.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "HCDR",
             "BCDR",
+            "HCDR",
             "HCTD"
         ],
         "sciNameCodes": [
@@ -16920,8 +17637,8 @@
         "taxonOrder": 20096.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BCDR",
             "HCDR",
+            "BCDR",
             "HCTD"
         ],
         "sciNameCodes": [
@@ -16984,8 +17701,8 @@
         "comNameCodes": [
             "BPFL",
             "JPFL",
-            "JAPF",
-            "BLPF"
+            "BLPF",
+            "JAPF"
         ],
         "sciNameCodes": [
             "TEAT"
@@ -17010,8 +17727,8 @@
         "comNameCodes": [
             "APFL",
             "CPFL",
-            "CHPF",
-            "AMPF"
+            "AMPF",
+            "CHPF"
         ],
         "sciNameCodes": [
             "TEIN"
@@ -17039,11 +17756,11 @@
             "CHPF",
             "APFL",
             "BPFL",
-            "AMPF",
             "CPFL",
+            "AMPF",
             "JPFL",
-            "JAPF",
-            "BLPF"
+            "BLPF",
+            "JAPF"
         ],
         "sciNameCodes": [
             "TEIN",
@@ -17099,7 +17816,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "虎紋伯勞",
         "comNameJp": "チゴモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius bucephalus",
@@ -17120,7 +17840,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "紅頭伯勞",
         "comNameJp": "モズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius collurio",
@@ -17141,7 +17864,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "紅背伯勞",
         "comNameJp": "セアカモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius isabellinus",
@@ -17162,7 +17888,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "荒漠伯勞",
         "comNameJp": "モウコアカモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius isabellinus isabellinus",
@@ -17184,7 +17913,10 @@
         "reportAs": "isashr1",
         "comNameZh": "荒漠伯勞(isabellinus)",
         "comNameJp": "モウコアカモズ（isabellinus）",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius cristatus",
@@ -17207,7 +17939,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "紅尾伯勞",
         "comNameJp": "アカモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius cristatus cristatus/confusus",
@@ -17230,7 +17965,10 @@
         "reportAs": "brnshr",
         "comNameZh": "紅尾伯勞(褐頭)",
         "comNameJp": "アカモズ（亜種カラアカモズ／ウスアカモズ）",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius cristatus superciliosus",
@@ -17253,7 +17991,10 @@
         "reportAs": "brnshr",
         "comNameZh": "紅尾伯勞(日本)",
         "comNameJp": "アカモズ（亜種アカモズ）",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius cristatus lucionensis",
@@ -17276,7 +18017,10 @@
         "reportAs": "brnshr",
         "comNameZh": "紅尾伯勞(灰頭)",
         "comNameJp": "アカモズ（亜種シマアカモズ）",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius tigrinus x cristatus",
@@ -17300,7 +18044,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "虎紋伯勞x紅尾伯勞(雜交)",
         "comNameJp": "雑種 チゴモズ ｘ アカモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius collurioides",
@@ -17321,7 +18068,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "栗背伯勞",
         "comNameJp": "ハイガシラモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius schach",
@@ -17342,7 +18092,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "棕背伯勞",
         "comNameJp": "タカサゴモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius schach schach",
@@ -17364,7 +18117,10 @@
         "reportAs": "lotshr1",
         "comNameZh": "棕背伯勞(schach)",
         "comNameJp": "タカサゴモズ（schach）",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius tephronotus",
@@ -17385,7 +18141,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "灰背伯勞",
         "comNameJp": "チベットモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius excubitor",
@@ -17406,7 +18165,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "西方灰伯勞",
         "comNameJp": "ヨーロッパオオモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius excubitor pallidirostris",
@@ -17429,7 +18191,10 @@
         "reportAs": "norshr1",
         "comNameZh": "西方灰伯勞(Steppe)",
         "comNameJp": "ヨーロッパオオモズ（pallidirostris）",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius sphenocercus",
@@ -17450,7 +18215,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "楔尾伯勞",
         "comNameJp": "オオカラモズ",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Lanius sp.",
@@ -17467,7 +18235,10 @@
         "familySciName": "Laniidae",
         "comNameZh": "伯勞屬",
         "comNameJp": "モズ属",
-        "comNameList": []
+        "comNameList": [
+            "伯勞仔",
+            "pit-lô-á"
+        ]
     },
     {
         "sciName": "Garrulus glandarius",
@@ -17522,8 +18293,8 @@
         "taxonOrder": 21000.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "AWMA",
-            "AAWM"
+            "AAWM",
+            "AWMA"
         ],
         "sciNameCodes": [
             "CYCY"
@@ -17535,7 +18306,8 @@
         "comNameZh": "灰喜鵲",
         "comNameJp": "オナガ",
         "comNameList": [
-            "客鳥"
+            "客鳥",
+            "kheh-tsiáu"
         ]
     },
     {
@@ -17559,6 +18331,7 @@
         "comNameZh": "臺灣藍鵲",
         "comNameJp": "ヤマムスメ",
         "comNameList": [
+            "台灣藍鵲",
             "長尾山娘"
         ]
     },
@@ -17625,7 +18398,8 @@
         "comNameZh": "喜鵲",
         "comNameJp": "カササギ",
         "comNameList": [
-            "客鳥"
+            "客鳥",
+            "kheh-tsiáu"
         ]
     },
     {
@@ -17856,8 +18630,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "LBJJ",
-            "CACR",
-            "LBCR"
+            "LBCR",
+            "CACR"
         ],
         "sciNameCodes": [
             "COCO",
@@ -18251,8 +19025,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "GSTL",
-            "MSTL",
-            "ESTL"
+            "ESTL",
+            "MSTL"
         ],
         "sciNameCodes": [
             "CADU",
@@ -18866,8 +19640,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BLRW",
-            "BRWA",
             "BREW",
+            "BRWA",
             "PAWA"
         ],
         "sciNameCodes": [
@@ -18968,8 +19742,8 @@
         "taxonOrder": 23365.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "SAGW",
-            "SGWA"
+            "SGWA",
+            "SAGW"
         ],
         "sciNameCodes": [
             "HEAM"
@@ -18990,8 +19764,8 @@
         "taxonOrder": 23366.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "SGWA",
             "SAGW",
+            "SGWA",
             "GRGW",
             "GGWA"
         ],
@@ -19040,8 +19814,8 @@
             "MGRW"
         ],
         "comNameCodes": [
-            "MIGW",
-            "MGWA"
+            "MGWA",
+            "MIGW"
         ],
         "sciNameCodes": [
             "HEOC"
@@ -19062,8 +19836,8 @@
         "taxonOrder": 23378.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "PGWA",
             "SGWA",
+            "PGWA",
             "PLGW"
         ],
         "sciNameCodes": [
@@ -19135,8 +19909,8 @@
         "taxonOrder": 23420.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TGWA",
             "TAGW",
+            "TGWA",
             "TBWA"
         ],
         "sciNameCodes": [
@@ -19148,7 +19922,9 @@
         "familySciName": "Locustellidae",
         "comNameZh": "臺灣叢樹鶯",
         "comNameJp": "タイワンオウギセッカ",
-        "comNameList": []
+        "comNameList": [
+            "台灣叢樹鶯"
+        ]
     },
     {
         "sciName": "Locustella mandelli",
@@ -19208,7 +19984,9 @@
         "familySciName": "Pnoepygidae",
         "comNameZh": "臺灣鷦眉",
         "comNameJp": "タイワンサザイチメドリ",
-        "comNameList": []
+        "comNameList": [
+            "台灣鷦眉"
+        ]
     },
     {
         "sciName": "Riparia chinensis",
@@ -19231,7 +20009,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "棕沙燕",
         "comNameJp": "タイワンショウドウツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Riparia riparia",
@@ -19256,7 +20037,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "灰沙燕",
         "comNameJp": "ショウドウツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Riparia chinensis/riparia",
@@ -19284,7 +20068,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "棕沙燕/灰沙燕",
         "comNameJp": "タイワンショウドウツバメ／ショウドウツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Riparia diluta",
@@ -19306,7 +20093,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "淺灰沙燕",
         "comNameJp": "ウスショウドウツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Riparia riparia/diluta",
@@ -19333,7 +20123,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "灰沙燕/淺灰沙燕",
         "comNameJp": "ショウドウツバメ／ウスショウドウツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Riparia sp.",
@@ -19350,7 +20143,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "沙燕屬",
         "comNameJp": "ショウドウツバメ属",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundo tahitica",
@@ -19372,7 +20168,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "洋燕",
         "comNameJp": "リュウキュウツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundo rustica/tahitica",
@@ -19397,7 +20196,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "家燕/洋燕",
         "comNameJp": "ツバメ／リュウキュウツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundo rustica",
@@ -19420,7 +20222,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "家燕",
         "comNameJp": "ツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundo rustica tytleri",
@@ -19443,7 +20248,10 @@
         "reportAs": "barswa",
         "comNameZh": "家燕(tytleri)",
         "comNameJp": "ツバメ（tytleri）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundo rustica gutturalis/mandschurica",
@@ -19466,7 +20274,10 @@
         "reportAs": "barswa",
         "comNameZh": "家燕(gutturalis/mandschurica)",
         "comNameJp": "ツバメ（gutturalis／mandschurica）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Riparia riparia x Hirundo rustica",
@@ -19492,7 +20303,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "灰沙燕x家燕(雜交)",
         "comNameJp": "雑種 ショウドウツバメ ｘ ツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Delichon lagopodum",
@@ -19517,7 +20331,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "白腹毛腳燕",
         "comNameJp": "ニシイワツバメ（lagopodum）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Delichon dasypus",
@@ -19539,7 +20356,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "東方毛腳燕",
         "comNameJp": "イワツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Delichon lagopodum/dasypus",
@@ -19553,8 +20373,8 @@
             "AHMA",
             "SIHM",
             "CHMA",
-            "SHMA",
-            "EHMA"
+            "EHMA",
+            "SHMA"
         ],
         "sciNameCodes": [
             "DELA",
@@ -19566,7 +20386,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "白腹毛腳燕/東方毛腳燕",
         "comNameJp": "ニシイワツバメ／イワツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Cecropis daurica",
@@ -19588,7 +20411,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "金腰燕",
         "comNameJp": "コシアカツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Cecropis daurica [daurica Group]",
@@ -19611,7 +20437,10 @@
         "reportAs": "rerswa1",
         "comNameZh": "金腰燕(daurica群)",
         "comNameJp": "コシアカツバメ（daurica グループ）",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundo rustica x Cecropis daurica",
@@ -19636,7 +20465,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "家燕x金腰燕(雜交)",
         "comNameJp": "雑種 ツバメ ｘ コシアカツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Cecropis striolata",
@@ -19646,8 +20478,8 @@
         "taxonOrder": 23827.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "RRSW",
-            "STSW"
+            "STSW",
+            "RRSW"
         ],
         "sciNameCodes": [
             "CEST"
@@ -19658,7 +20490,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "赤腰燕",
         "comNameJp": "オオコシアカツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Cecropis daurica/striolata",
@@ -19673,8 +20508,8 @@
             "STSW"
         ],
         "sciNameCodes": [
-            "CEDA",
-            "CEST"
+            "CEST",
+            "CEDA"
         ],
         "order": "Passeriformes",
         "familyCode": "hirund2",
@@ -19682,7 +20517,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "金腰燕/赤腰燕",
         "comNameJp": "コシアカツバメ／オオコシアカツバメ",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hirundinidae sp.",
@@ -19701,7 +20539,10 @@
         "familySciName": "Hirundinidae",
         "comNameZh": "燕科",
         "comNameJp": "ツバメ科",
-        "comNameList": []
+        "comNameList": [
+            "燕仔",
+            "ìnn-á"
+        ]
     },
     {
         "sciName": "Hemixos castanonotus",
@@ -19811,7 +20652,9 @@
         "reportAs": "blabul1",
         "comNameZh": "紅嘴黑鵯(臺灣)",
         "comNameJp": "シロガシラクロヒヨドリ（nigerrimus）",
-        "comNameList": []
+        "comNameList": [
+            "紅嘴黑鵯(台灣)"
+        ]
     },
     {
         "sciName": "Spizixos semitorques",
@@ -19854,7 +20697,8 @@
         "comNameZh": "白頭翁",
         "comNameJp": "シロガシラ",
         "comNameList": [
-            "白頭鵠仔"
+            "白頭鵠仔",
+            "pe̍h-thâu-khok-á"
         ]
     },
     {
@@ -19878,7 +20722,8 @@
         "comNameZh": "白頭翁(中國)",
         "comNameJp": "シロガシラ（sinensis）",
         "comNameList": [
-            "白頭鵠仔"
+            "白頭鵠仔",
+            "pe̍h-thâu-khok-á"
         ]
     },
     {
@@ -19902,7 +20747,8 @@
         "comNameZh": "白頭翁(海南)",
         "comNameJp": "シロガシラ（hainanus）",
         "comNameList": [
-            "白頭鵠仔"
+            "白頭鵠仔",
+            "pe̍h-thâu-khok-á"
         ]
     },
     {
@@ -19926,7 +20772,8 @@
         "comNameZh": "白頭翁(formosae/orii)",
         "comNameJp": "シロガシラ（formosae／orii）",
         "comNameList": [
-            "白頭鵠仔"
+            "白頭鵠仔",
+            "pe̍h-thâu-khok-á"
         ]
     },
     {
@@ -19972,7 +20819,8 @@
         "comNameZh": "烏頭翁x白頭翁(雜交)",
         "comNameJp": "Light-vented x Styan's Bulbul (hybrid)",
         "comNameList": [
-            "白頭鵠仔"
+            "白頭鵠仔",
+            "pe̍h-thâu-khok-á"
         ]
     },
     {
@@ -19997,7 +20845,8 @@
         "comNameZh": "烏頭翁/白頭翁",
         "comNameJp": "Light-vented/Styan's Bulbul",
         "comNameList": [
-            "白頭鵠仔"
+            "白頭鵠仔",
+            "pe̍h-thâu-khok-á"
         ]
     },
     {
@@ -20132,8 +20981,8 @@
         "taxonOrder": 24387.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "HULW",
             "YBWA",
+            "HULW",
             "HUWA",
             "HLWA"
         ],
@@ -20335,8 +21184,8 @@
         "taxonOrder": 24413.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "RAWA",
-            "DUWA"
+            "DUWA",
+            "RAWA"
         ],
         "sciNameCodes": [
             "PHSC",
@@ -20726,8 +21575,8 @@
             "SALW"
         ],
         "sciNameCodes": [
-            "PHTE",
-            "PHBO"
+            "PHBO",
+            "PHTE"
         ],
         "order": "Passeriformes",
         "familyCode": "phyllo4",
@@ -20793,8 +21642,8 @@
             "JLWA"
         ],
         "sciNameCodes": [
-            "PHXA",
-            "PHBO"
+            "PHBO",
+            "PHXA"
         ],
         "order": "Passeriformes",
         "familyCode": "phyllo4",
@@ -21167,7 +22016,9 @@
         "reportAs": "bfbwar1",
         "comNameZh": "小鶯(臺灣)",
         "comNameJp": "タイワンコウグイス（robustipes）",
-        "comNameList": []
+        "comNameList": [
+            "小鶯(台灣)"
+        ]
     },
     {
         "sciName": "Horornis acanthizoides",
@@ -21239,8 +22090,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BTTI",
-            "BTBU",
-            "BTHC"
+            "BTHC",
+            "BTBU"
         ],
         "sciNameCodes": [
             "AECO"
@@ -21262,8 +22113,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BTTI",
-            "BTHC",
-            "BTBU"
+            "BTBU",
+            "BTHC"
         ],
         "sciNameCodes": [
             "AECO"
@@ -21460,7 +22311,11 @@
         "familySciName": "Zosteropidae",
         "comNameZh": "紅脇繡眼",
         "comNameJp": "チョウセンメジロ",
-        "comNameList": []
+        "comNameList": [
+            "青苔仔",
+            "tshenn-tî-á",
+            "tshinn-tî-á"
+        ]
     },
     {
         "sciName": "Zosterops simplex",
@@ -21482,7 +22337,11 @@
         "familySciName": "Zosteropidae",
         "comNameZh": "斯氏繡眼",
         "comNameJp": "ミナミメジロ",
-        "comNameList": []
+        "comNameList": [
+            "青苔仔",
+            "tshenn-tî-á",
+            "tshinn-tî-á"
+        ]
     },
     {
         "sciName": "Zosterops japonicus",
@@ -21505,7 +22364,11 @@
         "familySciName": "Zosteropidae",
         "comNameZh": "日菲繡眼",
         "comNameJp": "メジロ",
-        "comNameList": []
+        "comNameList": [
+            "青苔仔",
+            "tshenn-tî-á",
+            "tshinn-tî-á"
+        ]
     },
     {
         "sciName": "Zosterops simplex/japonicus",
@@ -21530,7 +22393,11 @@
         "familySciName": "Zosteropidae",
         "comNameZh": "斯氏繡眼/日菲繡眼",
         "comNameJp": "ミナミメジロ／メジロ",
-        "comNameList": []
+        "comNameList": [
+            "青苔仔",
+            "tshenn-tî-á",
+            "tshinn-tî-á"
+        ]
     },
     {
         "sciName": "Zosterops meyeni",
@@ -21552,7 +22419,11 @@
         "familySciName": "Zosteropidae",
         "comNameZh": "低地繡眼",
         "comNameJp": "フィリピンメジロ",
-        "comNameList": []
+        "comNameList": [
+            "青苔仔",
+            "tshenn-tî-á",
+            "tshinn-tî-á"
+        ]
     },
     {
         "sciName": "Zosterops sp.",
@@ -21569,7 +22440,11 @@
         "familySciName": "Zosteropidae",
         "comNameZh": "繡眼屬",
         "comNameJp": "メジロ属",
-        "comNameList": []
+        "comNameList": [
+            "青苔仔",
+            "tshenn-tî-á",
+            "tshinn-tî-á"
+        ]
     },
     {
         "sciName": "Zosteropidae sp.",
@@ -21586,7 +22461,11 @@
         "familySciName": "Zosteropidae",
         "comNameZh": "繡眼科",
         "comNameJp": "メジロ科",
-        "comNameList": []
+        "comNameList": [
+            "青苔仔",
+            "tshenn-tî-á",
+            "tshinn-tî-á"
+        ]
     },
     {
         "sciName": "Cyanoderma ruficeps",
@@ -21715,10 +22594,10 @@
         "comNameZh": "臺灣噪眉",
         "comNameJp": "タイワンキンバネガビチョウ",
         "comNameList": [
+            "台灣噪眉",
             "臺灣噪鶥",
             "金翼白眉",
-            "台灣噪鶥",
-            "台灣噪眉"
+            "台灣噪鶥"
         ]
     },
     {
@@ -21782,7 +22661,9 @@
         "familySciName": "Leiothrichidae",
         "comNameZh": "紅嘴相思鳥",
         "comNameJp": "ソウシチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Liocichla steerii",
@@ -21850,7 +22731,9 @@
         "familySciName": "Leiothrichidae",
         "comNameZh": "臺灣畫眉",
         "comNameJp": "タイワンガビチョウ",
-        "comNameList": []
+        "comNameList": [
+            "台灣畫眉"
+        ]
     },
     {
         "sciName": "Garrulax canorus x taewanus",
@@ -21858,30 +22741,6 @@
         "speciesCode": "x00816",
         "category": "hybrid",
         "taxonOrder": 26263.0,
-        "bandingCodes": [],
-        "comNameCodes": [
-            "HWAM",
-            "CHHW",
-            "TAHW"
-        ],
-        "sciNameCodes": [
-            "GACA",
-            "GATA"
-        ],
-        "order": "Passeriformes",
-        "familyCode": "leioth1",
-        "familyComName": "Laughingthrushes and Allies",
-        "familySciName": "Leiothrichidae",
-        "comNameZh": "臺灣畫眉x大陸畫眉(雜交)",
-        "comNameJp": "雑種 ガビチョウ ｘ タイワンガビチョウ",
-        "comNameList": []
-    },
-    {
-        "sciName": "Garrulax canorus/taewanus",
-        "comName": "Chinese/Taiwan Hwamei",
-        "speciesCode": "y00910",
-        "category": "slash",
-        "taxonOrder": 26264.0,
         "bandingCodes": [],
         "comNameCodes": [
             "HWAM",
@@ -21896,9 +22755,37 @@
         "familyCode": "leioth1",
         "familyComName": "Laughingthrushes and Allies",
         "familySciName": "Leiothrichidae",
+        "comNameZh": "臺灣畫眉x大陸畫眉(雜交)",
+        "comNameJp": "雑種 ガビチョウ ｘ タイワンガビチョウ",
+        "comNameList": [
+            "台灣畫眉x大陸畫眉(雜交)"
+        ]
+    },
+    {
+        "sciName": "Garrulax canorus/taewanus",
+        "comName": "Chinese/Taiwan Hwamei",
+        "speciesCode": "y00910",
+        "category": "slash",
+        "taxonOrder": 26264.0,
+        "bandingCodes": [],
+        "comNameCodes": [
+            "HWAM",
+            "CHHW",
+            "TAHW"
+        ],
+        "sciNameCodes": [
+            "GACA",
+            "GATA"
+        ],
+        "order": "Passeriformes",
+        "familyCode": "leioth1",
+        "familyComName": "Laughingthrushes and Allies",
+        "familySciName": "Leiothrichidae",
         "comNameZh": "臺灣畫眉/大陸畫眉",
         "comNameJp": "ガビチョウ／タイワンガビチョウ",
-        "comNameList": []
+        "comNameList": [
+            "台灣畫眉/大陸畫眉"
+        ]
     },
     {
         "sciName": "Pterorhinus chinensis",
@@ -21982,7 +22869,9 @@
         "familySciName": "Leiothrichidae",
         "comNameZh": "臺灣白喉噪眉",
         "comNameJp": "ズアカノドジロガビチョウ",
-        "comNameList": []
+        "comNameList": [
+            "台灣白喉噪眉"
+        ]
     },
     {
         "sciName": "Pterorhinus poecilorhynchus",
@@ -22061,7 +22950,9 @@
         "familySciName": "Regulidae",
         "comNameZh": "戴菊鳥",
         "comNameJp": "キクイタダキ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Regulus regulus [himalayensis Group]",
@@ -22083,7 +22974,9 @@
         "reportAs": "goldcr1",
         "comNameZh": "戴菊鳥(himalayensis群)",
         "comNameJp": "キクイタダキ（himalayensis グループ）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Regulus goodfellowi",
@@ -22104,7 +22997,9 @@
         "familySciName": "Regulidae",
         "comNameZh": "火冠戴菊鳥",
         "comNameJp": "ニイタカキクイタダキ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Sitta europaea",
@@ -22234,7 +23129,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "亞洲輝椋鳥",
         "comNameJp": "ミドリカラスモドキ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Gracula religiosa",
@@ -22255,7 +23152,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "九官鳥",
         "comNameJp": "キュウカンチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Sturnus vulgaris",
@@ -22278,7 +23177,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "歐洲椋鳥",
         "comNameJp": "ホシムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Pastor roseus",
@@ -22300,7 +23201,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "粉紅椋鳥",
         "comNameJp": "バライロムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Agropsar sturninus",
@@ -22322,7 +23225,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "北椋鳥",
         "comNameJp": "シベリアムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Agropsar philippensis",
@@ -22343,7 +23248,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "小椋鳥",
         "comNameJp": "コムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Agropsar sturninus/philippensis",
@@ -22354,8 +23261,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "DAST",
-            "CCST",
-            "PBST"
+            "PBST",
+            "CCST"
         ],
         "sciNameCodes": [
             "AGPH",
@@ -22367,7 +23274,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "北椋鳥/小椋鳥",
         "comNameJp": "シベリアムクドリ／コムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Gracupica nigricollis",
@@ -22388,7 +23297,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "黑領椋鳥",
         "comNameJp": "クビワムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Gracupica contra",
@@ -22411,7 +23322,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "印度鵲椋鳥",
         "comNameJp": "Indian Pied Starling",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Sturnia sinensis",
@@ -22432,7 +23345,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "灰背椋鳥",
         "comNameJp": "カラムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Sturnia pagodarum",
@@ -22453,7 +23368,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "黑冠椋鳥",
         "comNameJp": "ズグロムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Sturnia malabarica",
@@ -22474,7 +23391,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "灰頭椋鳥",
         "comNameJp": "インドコムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Spodiopsar sericeus",
@@ -22495,7 +23414,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "絲光椋鳥",
         "comNameJp": "ギンムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Spodiopsar cineraceus",
@@ -22516,7 +23437,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "灰椋鳥",
         "comNameJp": "ムクドリ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Acridotheres tristis",
@@ -22538,7 +23461,8 @@
         "comNameZh": "家八哥",
         "comNameJp": "インドハッカ",
         "comNameList": [
-            "鵁鴒"
+            "鵁鴒",
+            "ka-līng"
         ]
     },
     {
@@ -22561,7 +23485,8 @@
         "comNameZh": "岸八哥",
         "comNameJp": "ハイイロハッカ",
         "comNameList": [
-            "鵁鴒"
+            "鵁鴒",
+            "ka-līng"
         ]
     },
     {
@@ -22583,7 +23508,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "葡萄胸椋鳥",
         "comNameJp": "Vinous-breasted Myna",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Acridotheres fuscus",
@@ -22605,7 +23532,8 @@
         "comNameZh": "林八哥",
         "comNameJp": "モリハッカ",
         "comNameList": [
-            "鵁鴒"
+            "鵁鴒",
+            "ka-līng"
         ]
     },
     {
@@ -22628,7 +23556,8 @@
         "comNameZh": "白尾八哥",
         "comNameJp": "ジャワハッカ",
         "comNameList": [
-            "鵁鴒"
+            "鵁鴒",
+            "ka-līng"
         ]
     },
     {
@@ -22651,7 +23580,8 @@
         "comNameZh": "大八哥(叢八哥)",
         "comNameJp": "オオハッカ",
         "comNameList": [
-            "鵁鴒"
+            "鵁鴒",
+            "ka-līng"
         ]
     },
     {
@@ -22674,7 +23604,8 @@
         "comNameZh": "八哥(冠八哥)",
         "comNameJp": "ハッカチョウ",
         "comNameList": [
-            "鵁鴒"
+            "鵁鴒",
+            "ka-līng"
         ]
     },
     {
@@ -22693,7 +23624,8 @@
         "comNameZh": "八哥屬(黑八哥類)",
         "comNameJp": "ハッカチョウ属（黒い種）",
         "comNameList": [
-            "鵁鴒"
+            "鵁鴒",
+            "ka-līng"
         ]
     },
     {
@@ -22712,7 +23644,8 @@
         "comNameZh": "八哥屬",
         "comNameJp": "ハッカチョウ属",
         "comNameList": [
-            "鵁鴒"
+            "鵁鴒",
+            "ka-līng"
         ]
     },
     {
@@ -22735,7 +23668,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "長尾麗椋鳥",
         "comNameJp": "オナガテリムク",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Lamprotornis superbus",
@@ -22756,7 +23691,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "栗頭麗椋鳥",
         "comNameJp": "ツキノワテリムク",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Sturnidae sp.",
@@ -22773,7 +23710,9 @@
         "familySciName": "Sturnidae",
         "comNameZh": "椋鳥科",
         "comNameJp": "ムクドリ科",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Zoothera aurea",
@@ -23172,8 +24111,8 @@
             "BTTH"
         ],
         "sciNameCodes": [
-            "TUAT",
-            "TURU"
+            "TURU",
+            "TUAT"
         ],
         "order": "Passeriformes",
         "familyCode": "turdid1",
@@ -23825,8 +24764,8 @@
         "taxonOrder": 28633.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "CBFL",
-            "CHBF"
+            "CHBF",
+            "CBFL"
         ],
         "sciNameCodes": [
             "CYGL"
@@ -24088,7 +25027,9 @@
         "familySciName": "Muscicapidae",
         "comNameZh": "臺灣紫嘯鶇",
         "comNameJp": "ルリチョウ",
-        "comNameList": []
+        "comNameList": [
+            "台灣紫嘯鶇"
+        ]
     },
     {
         "sciName": "Myophonus caeruleus",
@@ -24349,7 +25290,9 @@
         "reportAs": "wbbrob1",
         "comNameZh": "臺灣白眉林鴝",
         "comNameJp": "White-browed Bush-Robin (Taiwan)",
-        "comNameList": []
+        "comNameList": [
+            "台灣白眉林鴝"
+        ]
     },
     {
         "sciName": "Tarsiger johnstoniae",
@@ -24359,8 +25302,8 @@
         "taxonOrder": 28998.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "CBRO",
-            "COBR"
+            "COBR",
+            "CBRO"
         ],
         "sciNameCodes": [
             "TAJO"
@@ -24381,9 +25324,9 @@
         "taxonOrder": 28999.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "COBR",
             "WBBR",
-            "CBRO"
+            "CBRO",
+            "COBR"
         ],
         "sciNameCodes": [
             "TAJO",
@@ -24395,7 +25338,9 @@
         "familySciName": "Muscicapidae",
         "comNameZh": "臺灣白眉林鴝/栗背林鴝",
         "comNameJp": "キクチヒタキ／アリサンヒタキ",
-        "comNameList": []
+        "comNameList": [
+            "台灣白眉林鴝/栗背林鴝"
+        ]
     },
     {
         "sciName": "Tarsiger sp.",
@@ -24675,8 +25620,8 @@
         "taxonOrder": 29056.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TAFL",
             "RBFL",
+            "TAFL",
             "RTFL"
         ],
         "sciNameCodes": [
@@ -25353,7 +26298,9 @@
         "familySciName": "Nectariniidae",
         "comNameZh": "黃腹花蜜鳥",
         "comNameJp": "Ornate Sunbird",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Cinnyris ornatus rhizophorae",
@@ -25376,7 +26323,9 @@
         "reportAs": "olbsun4",
         "comNameZh": "黃腹花蜜鳥(rhizophorae)",
         "comNameJp": "Ornate Sunbird (Cream-bellied)",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Aethopyga gouldiae",
@@ -25398,7 +26347,9 @@
         "familySciName": "Nectariniidae",
         "comNameZh": "藍喉太陽鳥",
         "comNameJp": "ルリオタイヨウチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Aethopyga christinae",
@@ -25419,7 +26370,9 @@
         "familySciName": "Nectariniidae",
         "comNameZh": "叉尾太陽鳥",
         "comNameJp": "エンビタイヨウチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Aethopyga christinae latouchii/sokolovi",
@@ -25441,7 +26394,9 @@
         "reportAs": "fotsun1",
         "comNameZh": "叉尾太陽鳥(latouchii/sokolovi)",
         "comNameJp": "エンビタイヨウチョウ（latouchii／sokolovi）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     },
     {
         "sciName": "Chloropsis hardwickii",
@@ -25505,7 +26460,11 @@
         "familySciName": "Estrildidae",
         "comNameZh": "白喉文鳥",
         "comNameJp": "ギンバシ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á",
+            "筆仔",
+            "pit-á"
+        ]
     },
     {
         "sciName": "Padda oryzivora",
@@ -25547,7 +26506,13 @@
         "familySciName": "Estrildidae",
         "comNameZh": "斑文鳥",
         "comNameJp": "シマキンパラ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á",
+            "烏喙筆仔",
+            "oo-tshuì-pit-á",
+            "筆仔",
+            "pit-á"
+        ]
     },
     {
         "sciName": "Lonchura punctulata [nisoria Group]",
@@ -25569,7 +26534,13 @@
         "reportAs": "nutman",
         "comNameZh": "斑文鳥(nisoria群)",
         "comNameJp": "シマキンパラ（nisoria グループ）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á",
+            "烏喙筆仔",
+            "oo-tshuì-pit-á",
+            "筆仔",
+            "pit-á"
+        ]
     },
     {
         "sciName": "Lonchura striata",
@@ -25590,7 +26561,11 @@
         "familySciName": "Estrildidae",
         "comNameZh": "白腰文鳥",
         "comNameJp": "コシジロキンパラ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á",
+            "筆仔",
+            "pit-á"
+        ]
     },
     {
         "sciName": "Lonchura striata (Domestic type)",
@@ -25612,7 +26587,11 @@
         "reportAs": "whrmun",
         "comNameZh": "白腰文鳥(馴化)(十姊妹)",
         "comNameJp": "コシジロキンパラ（飼育型）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á",
+            "筆仔",
+            "pit-á"
+        ]
     },
     {
         "sciName": "Lonchura atricapilla",
@@ -25633,7 +26612,11 @@
         "familySciName": "Estrildidae",
         "comNameZh": "黑頭文鳥",
         "comNameJp": "キンパラ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á",
+            "筆仔",
+            "pit-á"
+        ]
     },
     {
         "sciName": "Lonchura atricapilla formosana",
@@ -25655,7 +26638,11 @@
         "reportAs": "chemun",
         "comNameZh": "黑頭文鳥(formosana)",
         "comNameJp": "キンパラ（formosana）",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á",
+            "筆仔",
+            "pit-á"
+        ]
     },
     {
         "sciName": "Lonchura maja",
@@ -25676,7 +26663,11 @@
         "familySciName": "Estrildidae",
         "comNameZh": "白頭文鳥",
         "comNameJp": "ヘキチョウ",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á",
+            "筆仔",
+            "pit-á"
+        ]
     },
     {
         "sciName": "Lonchura sp.",
@@ -25693,7 +26684,11 @@
         "familySciName": "Estrildidae",
         "comNameZh": "文鳥屬",
         "comNameJp": "キンパラ属",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á",
+            "筆仔",
+            "pit-á"
+        ]
     },
     {
         "sciName": "Estrilda melpoda",
@@ -25878,7 +26873,12 @@
         "familySciName": "Passeridae",
         "comNameZh": "家麻雀",
         "comNameJp": "イエスズメ",
-        "comNameList": []
+        "comNameList": [
+            "粟鳥仔",
+            "厝角鳥仔",
+            "tshik-tsiáu-á",
+            "tshù-kak-tsiáu-á"
+        ]
     },
     {
         "sciName": "Passer cinnamomeus",
@@ -25899,7 +26899,12 @@
         "familySciName": "Passeridae",
         "comNameZh": "山麻雀",
         "comNameJp": "ニュウナイスズメ",
-        "comNameList": []
+        "comNameList": [
+            "粟鳥仔",
+            "厝角鳥仔",
+            "tshik-tsiáu-á",
+            "tshù-kak-tsiáu-á"
+        ]
     },
     {
         "sciName": "Passer montanus",
@@ -25920,7 +26925,12 @@
         "familySciName": "Passeridae",
         "comNameZh": "麻雀",
         "comNameJp": "スズメ",
-        "comNameList": []
+        "comNameList": [
+            "粟鳥仔",
+            "厝角鳥仔",
+            "tshik-tsiáu-á",
+            "tshù-kak-tsiáu-á"
+        ]
     },
     {
         "sciName": "Passer domesticus/montanus",
@@ -25943,7 +26953,12 @@
         "familySciName": "Passeridae",
         "comNameZh": "家麻雀/麻雀",
         "comNameJp": "イエスズメ／スズメ",
-        "comNameList": []
+        "comNameList": [
+            "粟鳥仔",
+            "厝角鳥仔",
+            "tshik-tsiáu-á",
+            "tshù-kak-tsiáu-á"
+        ]
     },
     {
         "sciName": "Passer sp.",
@@ -25960,7 +26975,12 @@
         "familySciName": "Passeridae",
         "comNameZh": "麻雀屬",
         "comNameJp": "スズメ属",
-        "comNameList": []
+        "comNameList": [
+            "粟鳥仔",
+            "厝角鳥仔",
+            "tshik-tsiáu-á",
+            "tshù-kak-tsiáu-á"
+        ]
     },
     {
         "sciName": "Dendronanthus indicus",
@@ -25981,7 +27001,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "山鶺鴒",
         "comNameJp": "イワミセキレイ",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla cinerea",
@@ -26004,7 +27027,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "灰鶺鴒",
         "comNameJp": "キセキレイ",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla flava",
@@ -26025,7 +27051,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "西方黃鶺鴒",
         "comNameJp": "ニシツメナガセキレイ",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla flava lutea",
@@ -26047,7 +27076,10 @@
         "reportAs": "eaywag1",
         "comNameZh": "西方黃鶺鴒(lutea)",
         "comNameJp": "ニシツメナガセキレイ（lutea）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla flava flavissima/lutea",
@@ -26069,7 +27101,10 @@
         "reportAs": "eaywag1",
         "comNameZh": "西方黃鶺鴒(flavissima/lutea)",
         "comNameJp": "ニシツメナガセキレイ（flavissima/lutea）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla flava thunbergi",
@@ -26091,7 +27126,10 @@
         "reportAs": "eaywag1",
         "comNameZh": "西方黃鶺鴒(thunbergi)",
         "comNameJp": "ニシツメナガセキレイ（thunbergi）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla flava flava/beema",
@@ -26113,7 +27151,10 @@
         "reportAs": "eaywag1",
         "comNameZh": "西方黃鶺鴒(flava/beema)",
         "comNameJp": "ニシツメナガセキレイ（flava／beema）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla tschutschensis",
@@ -26134,7 +27175,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "東方黃鶺鴒",
         "comNameJp": "ツメナガセキレイ",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla tschutschensis tschutschensis/plexa",
@@ -26156,7 +27200,10 @@
         "reportAs": "eaywag",
         "comNameZh": "東方黃鶺鴒(白眉)",
         "comNameJp": "ツメナガセキレイ（亜種 シベリアツメナガセキレイ／マミジロツメナガセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla tschutschensis taivana",
@@ -26178,7 +27225,10 @@
         "reportAs": "eaywag",
         "comNameZh": "東方黃鶺鴒(黃眉)",
         "comNameJp": "ツメナガセキレイ（亜種 ツメナガセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla tschutschensis macronyx",
@@ -26200,7 +27250,10 @@
         "reportAs": "eaywag",
         "comNameZh": "東方黃鶺鴒(藍頭)",
         "comNameJp": "ツメナガセキレイ（亜種 キタツメナガセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla flava/tschutschensis",
@@ -26223,7 +27276,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "西方黃鶺鴒/東方黃鶺鴒",
         "comNameJp": "ニシツメナガセキレイ／ツメナガセキレイ",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla citreola",
@@ -26244,7 +27300,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "黃頭鶺鴒",
         "comNameJp": "キガシラセキレイ",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla citreola citreola/werae",
@@ -26266,7 +27325,10 @@
         "reportAs": "citwag",
         "comNameZh": "黃頭鶺鴒(灰背)",
         "comNameJp": "キガシラセキレイ（亜種 キガシラセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla flava x citreola",
@@ -26289,7 +27351,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "西方黃鶺鴒x黃頭鶺鴒(雜交)",
         "comNameJp": "雑種 ニシツメナガセキレイ ｘ キガシラセキレイ",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla tschutschensis/citreola",
@@ -26312,7 +27377,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "東方黃鶺鴒/黃頭鶺鴒",
         "comNameJp": "Eastern Yellow/Citrine Wagtail",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla grandis",
@@ -26333,7 +27401,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "日本鶺鴒",
         "comNameJp": "セグロセキレイ",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla alba",
@@ -26356,7 +27427,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "白鶺鴒",
         "comNameJp": "ハクセキレイ",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla alba alba/dukhunensis",
@@ -26379,7 +27453,10 @@
         "reportAs": "whiwag",
         "comNameZh": "白鶺鴒(指名亞種群)",
         "comNameJp": "ハクセキレイ（亜種ヨーロッパクセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla alba ocularis",
@@ -26402,7 +27479,10 @@
         "reportAs": "whiwag",
         "comNameZh": "白鶺鴒(灰背眼紋)",
         "comNameJp": "ハクセキレイ（亜種タイワンハクセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla alba personata",
@@ -26425,7 +27505,10 @@
         "reportAs": "whiwag",
         "comNameZh": "白鶺鴒(黑臉)",
         "comNameJp": "ハクセキレイ（亜種メンガタハクセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla alba baicalensis",
@@ -26448,7 +27531,10 @@
         "reportAs": "whiwag",
         "comNameZh": "白鶺鴒(貝加爾)",
         "comNameJp": "ハクセキレイ（亜種シベリアハクセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla alba lugens",
@@ -26471,7 +27557,10 @@
         "reportAs": "whiwag",
         "comNameZh": "白鶺鴒(黑背眼紋)",
         "comNameJp": "ハクセキレイ（亜種ハクセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla alba leucopsis",
@@ -26494,7 +27583,10 @@
         "reportAs": "whiwag",
         "comNameZh": "白鶺鴒(白面)",
         "comNameJp": "ハクセキレイ（亜種ホオジロハクセキレイ）",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Motacilla sp.",
@@ -26511,7 +27603,10 @@
         "familySciName": "Motacillidae",
         "comNameZh": "鶺鴒屬",
         "comNameJp": "セキレイ属",
-        "comNameList": []
+        "comNameList": [
+            "牛屎鳥仔",
+            "gû-sái-tsiáu-á"
+        ]
     },
     {
         "sciName": "Anthus richardi",
@@ -26697,8 +27792,8 @@
             "MEPI"
         ],
         "sciNameCodes": [
-            "ANTR",
-            "ANPR"
+            "ANPR",
+            "ANTR"
         ],
         "order": "Passeriformes",
         "familyCode": "motaci1",
@@ -26737,8 +27832,8 @@
         "taxonOrder": 31343.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TRPI",
-            "OBPI"
+            "OBPI",
+            "TRPI"
         ],
         "sciNameCodes": [
             "ANTR",
@@ -26959,8 +28054,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BBPI",
-            "AMPI",
-            "WAPI"
+            "WAPI",
+            "AMPI"
         ],
         "sciNameCodes": [
             "ANSP",
@@ -27137,7 +28232,9 @@
         "familySciName": "Fringillidae",
         "comNameZh": "臺灣朱雀",
         "comNameJp": "タイワンマシコ",
-        "comNameList": []
+        "comNameList": [
+            "台灣朱雀"
+        ]
     },
     {
         "sciName": "Carpodacus roseus",
@@ -27606,8 +28703,8 @@
             "RHBU"
         ],
         "sciNameCodes": [
-            "EMBR",
-            "EMME"
+            "EMME",
+            "EMBR"
         ],
         "order": "Passeriformes",
         "familyCode": "emberi2",
@@ -27843,8 +28940,8 @@
         "taxonOrder": 32297.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "REBU",
             "PRBU",
+            "REBU",
             "PABU",
             "PALB",
             "CRBU"
@@ -27997,12 +29094,12 @@
         "taxonOrder": 32310.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BFBU",
-            "MABU"
+            "MABU",
+            "BFBU"
         ],
         "sciNameCodes": [
-            "EMSP",
-            "EMPE"
+            "EMPE",
+            "EMSP"
         ],
         "order": "Passeriformes",
         "familyCode": "emberi2",
@@ -28306,6 +29403,8 @@
         "sciNameCodes": [],
         "comNameZh": "鳥類",
         "comNameJp": "鳥類",
-        "comNameList": []
+        "comNameList": [
+            "tsiáu-á"
+        ]
     }
 ]

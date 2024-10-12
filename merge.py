@@ -1,29 +1,29 @@
 import json
 import re
 
-# with open('./json/species_zh.json', 'r', encoding='utf-8') as zh_file:
-#     species_zh = json.load(zh_file)
+with open('./json/species_zh.json', 'r', encoding='utf-8') as zh_file:
+    species_zh = json.load(zh_file)
 
-# with open('./json/species_en.json', 'r', encoding='utf-8') as en_file:
-#     species_en = json.load(en_file)
+with open('./json/species_en.json', 'r', encoding='utf-8') as en_file:
+    species_en = json.load(en_file)
 
-# with open('./json/species_ja.json', 'r', encoding='utf-8') as ja_file:
-#     species_ja = json.load(ja_file)
+with open('./json/species_ja.json', 'r', encoding='utf-8') as ja_file:
+    species_ja = json.load(ja_file)
 
-# zh_dict = {item['sciName']: item for item in species_zh}
-# ja_dict = {item['sciName']: item for item in species_ja}
+zh_dict = {item['sciName']: item for item in species_zh}
+ja_dict = {item['sciName']: item for item in species_ja}
 
-# for en_item in species_en:
-#     sci_name = en_item.get('sciName')
+for en_item in species_en:
+    sci_name = en_item.get('sciName')
 
-#     if sci_name in zh_dict:
-#         en_item['comNameZh'] = zh_dict[sci_name].get('comName')
+    if sci_name in zh_dict:
+        en_item['comNameZh'] = zh_dict[sci_name].get('comName')
 
-#     if sci_name in ja_dict:
-#         en_item['comNameJp'] = ja_dict[sci_name].get('comName')
+    if sci_name in ja_dict:
+        en_item['comNameJp'] = ja_dict[sci_name].get('comName')
 
-# with open('./json/species_joined.json', 'w', encoding='utf-8') as output_file:
-#     json.dump(species_en, output_file, ensure_ascii=False, indent=4)
+with open('./json/species_joined.json', 'w', encoding='utf-8') as output_file:
+    json.dump(species_en, output_file, ensure_ascii=False, indent=4)
 
 ##########################
 def contains_traditional_chinese(text):
@@ -35,24 +35,25 @@ def contains_traditional_chinese(text):
 with open('./json/species_joined.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-# filtered_data = [entry for entry in data if 'comNameZh' in entry and contains_traditional_chinese(entry['comNameZh'])]
-
 filtered_data = []
 for entry in data:
     if 'comNameZh' in entry and contains_traditional_chinese(entry['comNameZh']):
         comNameList = []
 
+        if '臺灣' in entry['comNameZh']:
+            comNameList.extend([entry['comNameZh'].replace('臺', '台')])
+
         if '八哥' in entry['comNameZh']:
-            comNameList.extend(['鵁鴒'])
+            comNameList.extend(['鵁鴒', 'ka-līng'])
 
         if '鵰' in entry['comNameZh']:
-            comNameList.extend(['鴟鴞', '鷹'])
+            comNameList.extend(['鴟鴞', '鷹', 'bā-hio̍h', 'ing'])
 
         if '鷹' in entry['comNameZh']:
-            comNameList.extend(['鴟鴞'])
+            comNameList.extend(['鴟鴞', 'ing'])
 
         if '鴞' in entry['comNameZh']:
-            comNameList.extend(['貓頭鳥'])
+            comNameList.extend(['貓頭鳥', 'niau-thâu-tsiáu'])
 
         if '松雀鷹' in entry['comNameZh']:
             comNameList.extend(['鷹仔虎'])
@@ -63,14 +64,35 @@ for entry in data:
         if '鳳頭蒼鷹' in entry['comNameZh']:
             comNameList.extend(['粉鳥鷹'])
 
+        if '鸚鵡' in entry['comNameZh']:
+            comNameList.extend(['鸚哥', 'ing-ko'])
+
+        if '燕' in entry['comNameZh']:
+            comNameList.extend(['燕仔', 'ìnn-á'])
+
         if '禿鷲' in entry['comNameZh']:
             comNameList.extend(['狗頭鷹', '禿鷹'])
 
         if '翠鳥' in entry['comNameZh']:
-            comNameList.extend(['釣魚翁'])
+            comNameList.extend(['釣魚翁', 'tiò-hî-ang', 'tiò-hû-ang'])
+
+        if '水鴨' in entry['comNameZh']:
+            comNameList.extend(['tsuí-ah'])
+
+        if '鴛鴦' in entry['comNameZh']:
+            comNameList.extend(['uan-iunn'])
+
+        if '鳥' in entry['comNameZh']:
+            comNameList.extend(['tsiáu-á'])
+
+        if '繡眼' in entry['comNameZh'] and ('畫眉' not in entry['comNameZh']):
+            comNameList.extend(['青苔仔', '青笛仔', 'tshenn-tî-á', 'tshinn-tî-á'])
+
+        if '麻雀' in entry['comNameZh']:
+            comNameList.extend(['粟鳥仔', '厝角鳥仔', 'tshik-tsiáu-á', 'tshù-kak-tsiáu-á'])
 
         if '灰面鵟鷹' in entry['comNameZh']:
-            comNameList.extend(['灰面鷲', '國慶鳥', '南路鷹', '灰面鷹'])
+            comNameList.extend(['灰面鷲', '國慶鳥', '南路鷹', '灰面鷹', 'lâm-lōo-ing', '山後鳥', 'suann-āu-tsiáu'])
 
         if '東方鵟' in entry['comNameZh']:
             comNameList.extend(['普通鵟'])
@@ -100,7 +122,7 @@ for entry in data:
             comNameList.extend(['海徛仔', 'hái-khiā-á'])
 
         if '黑冠麻鷺' in entry['comNameZh']:
-            comNameList.extend(['大笨鳥', '地瓜', '山暗光鳥', '蕃薯'])
+            comNameList.extend(['大笨鳥', '地瓜', '山暗光鳥', '蕃薯', 'àm-kong-tsiáu'])
 
         if '栗小鷺' in entry['comNameZh']:
             comNameList.extend('田赤仔')
@@ -111,8 +133,20 @@ for entry in data:
         if '雁' in entry['comNameZh']:
             comNameList.extend(['野鵝'])
 
+        if '鵝' in entry['comNameZh']:
+            comNameList.extend(['gô', 'giâ'])
+
+        if '鶺鴒' in entry['comNameZh']:
+            comNameList.extend(['牛屎鳥仔', 'gû-sái-tsiáu-á'])
+
+        if '鶴' in entry['comNameZh']:
+            comNameList.extend(['ho̍h'])
+
         if '鳳頭潛鴨' in entry['comNameZh']:
-            comNameList.extend(['粉鳥鷹', '澤鳧'])
+            comNameList.extend(['阿不倒仔', '澤鳧', 'a-put-tó-á'])
+
+        if '鴨' in entry['comNameZh']:
+            comNameList.extend(['ah'])
 
         if '斑背潛鴨' in entry['comNameZh']:
             comNameList.extend(['鈴鴨'])
@@ -127,7 +161,10 @@ for entry in data:
             comNameList.extend(['滸鷸'])
 
         if '高蹺鴴' in entry['comNameZh']:
-            comNameList.extend(['躼跤仔'])
+            comNameList.extend(['躼跤仔', 'lò-kha-á'])
+
+        if '鸕鶿' in entry['comNameZh']:
+            comNameList.extend(['lôo-tsî'])
 
         if '水雉' in entry['comNameZh']:
             comNameList.extend(['菱角鳥'])
@@ -151,7 +188,7 @@ for entry in data:
             comNameList.extend(['姑惡鳥', '苦雞母', '姑婆鳥', '白面雞', '苦惡鳥', '紅尻川仔'])
 
         if '臺灣山鷓鴣' in entry['comNameZh']:
-            comNameList.extend(['深山竹雞', '報時鳥', '紅跤仔'])
+            comNameList.extend(['深山竹雞', '報時鳥', '紅跤仔', 'tik-ke-á', 'tik-kue-á', '竹雞'])
 
         if '臺灣噪眉' in entry['comNameZh']:
             comNameList.extend(['臺灣噪鶥', "金翼白眉", "台灣噪鶥", "台灣噪眉"])
@@ -187,7 +224,7 @@ for entry in data:
             comNameList.extend(['白毛跤鷹'])
 
         if '夜鷺' in entry['comNameZh']:
-            comNameList.extend(['暗公鳥', '企鵝'])
+            comNameList.extend(['暗公鳥', '企鵝', 'àm-kong-tsiáu'])
 
         if '鵜鶘' in entry['comNameZh']:
             comNameList.extend(['布袋鵝'])
@@ -199,13 +236,19 @@ for entry in data:
             comNameList.extend(['海南戇'])
 
         if '喜鵲' in entry['comNameZh']:
-            comNameList.extend(['客鳥'])
+            comNameList.extend(['客鳥', 'kheh-tsiáu'])
 
         if '白琵鷺' in entry['comNameZh']:
-            comNameList.extend(['白面抐桮'])
+            comNameList.extend(['白面抐桮', 'pe̍h-bīn-lā-pue'])
 
         if '黑面琵鷺' in entry['comNameZh']:
-            comNameList.extend(['烏面抐桮'])
+            comNameList.extend(['烏面抐桮', 'oo-bīn-lā-pue'])
+
+        if '斑文鳥' in entry['comNameZh']:
+            comNameList.extend(['烏喙筆仔', 'oo-tshuì-pit-á'])
+
+        if '文鳥' in entry['comNameZh']:
+            comNameList.extend(['筆仔', 'pit-á'])
 
         if '冠鸊鷉' in entry['comNameZh']:
             comNameList.extend(['聳毛水避仔'])
@@ -217,19 +260,25 @@ for entry in data:
             comNameList.extend(['烏頸水避仔'])
 
         if '五色鳥' in entry['comNameZh']:
-            comNameList.extend(['花仔和尚', '臺灣擬啄木'])
+            comNameList.extend(['花仔和尚', '臺灣擬啄木', 'hue-á-huê-siūnn'])
 
         if '棕噪眉' in entry['comNameZh']:
             comNameList.extend(['竹鳥', '棕噪鶥'])
 
         if '白頭翁' in entry['comNameZh']:
-            comNameList.extend(['白頭鵠仔'])
+            comNameList.extend(['白頭鵠仔', 'pe̍h-thâu-khok-á'])
+
+        if '伯勞' in entry['comNameZh']:
+            comNameList.extend(['伯勞仔', 'pit-lô-á'])
+
+        if '雉雞' in entry['comNameZh']:
+            comNameList.extend(['thī-ke', 'thī-kue'])
 
         if '反嘴鴴' in entry['comNameZh']:
             comNameList.extend(['翹喙仔'])
 
         if '珠頸斑鳩' in entry['comNameZh']:
-            comNameList.extend(['斑鴿'])
+            comNameList.extend(['斑鴿', 'pan-kah'])
 
         if '鳩' in entry['comNameZh']:
             comNameList.extend(['鴿'])
@@ -271,10 +320,7 @@ with open('./json/species_zh_only.json', 'w', encoding='utf-8') as f:
 with open('./json/species_joined.json', 'r', encoding='utf-8') as species_file:
     species_data = json.load(species_file)
 
-with open('./json/species_zh_only.json', 'r', encoding='utf-8') as com_name_file:
-    com_name_data = json.load(com_name_file)
-
-com_name_dict = {item['sciName']: item['comNameList'] for item in com_name_data}
+com_name_dict = {item['sciName']: item['comNameList'] for item in filtered_data}
 
 for species in species_data:
     sci_name = species.get('sciName')
