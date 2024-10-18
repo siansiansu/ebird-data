@@ -1359,8 +1359,8 @@
             "MALL"
         ],
         "sciNameCodes": [
-            "CAMO",
-            "ANPL"
+            "ANPL",
+            "CAMO"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -1535,8 +1535,8 @@
             "NOPI"
         ],
         "sciNameCodes": [
-            "SIFO",
-            "ANAC"
+            "ANAC",
+            "SIFO"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -1704,8 +1704,8 @@
             "GADW"
         ],
         "sciNameCodes": [
-            "ANCR",
-            "MAST"
+            "MAST",
+            "ANCR"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -2053,8 +2053,8 @@
             "BAPO"
         ],
         "sciNameCodes": [
-            "AYBA",
-            "AYNY"
+            "AYNY",
+            "AYBA"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -2100,8 +2100,8 @@
         "taxonOrder": 651.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "COPO",
             "COMP",
+            "COPO",
             "TUDU"
         ],
         "sciNameCodes": [
@@ -2133,8 +2133,8 @@
             "TUDU"
         ],
         "sciNameCodes": [
-            "AYFU",
-            "AYNY"
+            "AYNY",
+            "AYFU"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -2868,8 +2868,8 @@
         "taxonOrder": 1559.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TBPA",
-            "TABP"
+            "TABP",
+            "TBPA"
         ],
         "sciNameCodes": [
             "BASO"
@@ -3252,8 +3252,8 @@
             "ROPI"
         ],
         "comNameCodes": [
-            "FEPI",
             "ROPI",
+            "FEPI",
             "RODO"
         ],
         "sciNameCodes": [
@@ -3417,8 +3417,8 @@
         "taxonOrder": 2079.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "RCDO",
             "RECD",
+            "RCDO",
             "RTDO",
             "RETD"
         ],
@@ -3432,7 +3432,11 @@
         "comNameZh": "紅鳩",
         "comNameJp": "ベニバト",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "火鵻仔",
+            "hué-tsui-á",
+            "火斑鴿",
+            "hué-pan-kah"
         ]
     },
     {
@@ -3452,8 +3456,8 @@
             "RTDO"
         ],
         "sciNameCodes": [
-            "STDE",
-            "STTR"
+            "STTR",
+            "STDE"
         ],
         "order": "Columbiformes",
         "familyCode": "columb2",
@@ -3462,7 +3466,11 @@
         "comNameZh": "灰斑鳩/紅鳩",
         "comNameJp": "シラコバト／ベニバト",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "火鵻仔",
+            "hué-tsui-á",
+            "火斑鴿",
+            "hué-pan-kah"
         ]
     },
     {
@@ -3595,8 +3603,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "AEDO",
-            "GCED",
-            "CEDO"
+            "CEDO",
+            "GCED"
         ],
         "sciNameCodes": [
             "CHIN"
@@ -3679,7 +3687,9 @@
         "comNameZh": "橙胸綠鳩",
         "comNameJp": "ムネアカアオバト",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "青鵻",
+            "tshenn-tsui"
         ]
     },
     {
@@ -3702,7 +3712,9 @@
         "comNameZh": "厚嘴綠鳩",
         "comNameJp": "ハシブトアオバト",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "青鵻",
+            "tshenn-tsui"
         ]
     },
     {
@@ -3725,7 +3737,9 @@
         "comNameZh": "綠鳩",
         "comNameJp": "アオバト",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "青鵻",
+            "tshenn-tsui"
         ]
     },
     {
@@ -3751,7 +3765,9 @@
         "comNameZh": "紅頭綠鳩",
         "comNameJp": "ズアカアオバト",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "青鵻",
+            "tshenn-tsui"
         ]
     },
     {
@@ -3779,7 +3795,9 @@
         "comNameZh": "紅頭綠鳩(permagnus/medioximus)",
         "comNameJp": "ズアカアオバト（亜種 ズアカアオバト）",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "青鵻",
+            "tshenn-tsui"
         ]
     },
     {
@@ -3806,7 +3824,9 @@
         "comNameZh": "紅頭綠鳩(formosae/filipinus)",
         "comNameJp": "ズアカアオバト（亜種 タイワンズアカアオバト）",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "青鵻",
+            "tshenn-tsui"
         ]
     },
     {
@@ -3825,7 +3845,9 @@
         "comNameZh": "綠鳩屬",
         "comNameJp": "アオバト属",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "青鵻",
+            "tshenn-tsui"
         ]
     },
     {
@@ -3848,7 +3870,9 @@
         "comNameZh": "小綠鳩",
         "comNameJp": "クロアゴヒメアオバト",
         "comNameList": [
-            "鴿"
+            "鴿",
+            "青鵻",
+            "tshenn-tsui"
         ]
     },
     {
@@ -4101,10 +4125,7 @@
         "familySciName": "Cuculidae",
         "comNameZh": "鷹鵑",
         "comNameJp": "オオジュウイチ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Hierococcyx hyperythrus",
@@ -4114,9 +4135,9 @@
         "taxonOrder": 3402.0,
         "bandingCodes": [],
         "comNameCodes": [
+            "RUHC",
             "NOHC",
             "NHCU",
-            "RUHC",
             "RHCU"
         ],
         "sciNameCodes": [
@@ -4128,10 +4149,7 @@
         "familySciName": "Cuculidae",
         "comNameZh": "北方鷹鵑",
         "comNameJp": "ジュウイチ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Hierococcyx nisicolor",
@@ -4141,8 +4159,8 @@
         "taxonOrder": 3404.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "HOHC",
             "WHCU",
+            "HOHC",
             "HHCU",
             "WHHC"
         ],
@@ -4155,10 +4173,7 @@
         "familySciName": "Cuculidae",
         "comNameZh": "棕腹鷹鵑",
         "comNameJp": "インドシナジュウイチ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Hierococcyx sp.",
@@ -4175,10 +4190,7 @@
         "familySciName": "Cuculidae",
         "comNameZh": "鷹鵑屬",
         "comNameJp": "ジュウイチ属",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Cuculus poliocephalus",
@@ -4316,8 +4328,8 @@
         "taxonOrder": 3428.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "LECU",
-            "ORCU"
+            "ORCU",
+            "LECU"
         ],
         "sciNameCodes": [
             "CUOP",
@@ -4431,8 +4443,6 @@
         "comNameZh": "普通夜鷹",
         "comNameJp": "ヨタカ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "石磯仔",
             "tsio̍h-ki-á"
         ]
@@ -4457,8 +4467,6 @@
         "comNameZh": "南亞夜鷹",
         "comNameJp": "シロアゴヨタカ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "石磯仔",
             "tsio̍h-ki-á"
         ]
@@ -4479,8 +4487,6 @@
         "comNameZh": "夜鷹屬",
         "comNameJp": "ヨタカ属",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "石磯仔",
             "tsio̍h-ki-á"
         ]
@@ -4501,8 +4507,6 @@
         "comNameZh": "夜鷹科",
         "comNameJp": "ヨタカ科",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "石磯仔",
             "tsio̍h-ki-á"
         ]
@@ -4732,8 +4736,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "ENSW",
-            "WNSW",
-            "GESW"
+            "GESW",
+            "WNSW"
         ],
         "sciNameCodes": [
             "AEGE",
@@ -5795,8 +5799,8 @@
             "PIST"
         ],
         "sciNameCodes": [
-            "HILE",
-            "HIHI"
+            "HIHI",
+            "HILE"
         ],
         "order": "Charadriiformes",
         "familyCode": "recurv1",
@@ -6073,8 +6077,8 @@
             "RIPL"
         ],
         "sciNameCodes": [
-            "CHHI",
-            "CHDU"
+            "CHDU",
+            "CHHI"
         ],
         "order": "Charadriiformes",
         "familyCode": "charad1",
@@ -6198,8 +6202,8 @@
         ],
         "comNameCodes": [
             "LSPL",
-            "LSDO",
             "SISD",
+            "LSDO",
             "LESA",
             "SISP",
             "SSPL",
@@ -6227,8 +6231,8 @@
         ],
         "comNameCodes": [
             "LSPL",
-            "LSDO",
             "TISD",
+            "LSDO",
             "LESA",
             "TISP",
             "TSPL",
@@ -6256,16 +6260,16 @@
         ],
         "comNameCodes": [
             "LSPL",
+            "SISD",
             "LSDO",
             "TISD",
-            "SISD",
             "LESA",
-            "TISP",
             "SISP",
+            "TISP",
             "SSPL",
             "TSPL",
-            "SSDO",
-            "TSDO"
+            "TSDO",
+            "SSDO"
         ],
         "sciNameCodes": [
             "ANMO",
@@ -6290,8 +6294,8 @@
         ],
         "comNameCodes": [
             "GRSA",
-            "GSPL",
             "GRSP",
+            "GSPL",
             "GRSD",
             "GSDO"
         ],
@@ -6486,7 +6490,8 @@
         "comNameZh": "水雉",
         "comNameJp": "レンカク",
         "comNameList": [
-            "菱角鳥"
+            "菱角鳥",
+            "lîng-kak-tsiáu"
         ]
     },
     {
@@ -6682,8 +6687,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "FECU",
-            "EACU",
-            "EUCU"
+            "EUCU",
+            "EACU"
         ],
         "sciNameCodes": [
             "NUAR",
@@ -6838,8 +6843,8 @@
             "BLTG"
         ],
         "sciNameCodes": [
-            "LILI",
-            "LILA"
+            "LILA",
+            "LILI"
         ],
         "order": "Charadriiformes",
         "familyCode": "scolop2",
@@ -7175,8 +7180,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "REPH",
-            "GRPH",
-            "RNPH"
+            "RNPH",
+            "GRPH"
         ],
         "sciNameCodes": [
             "PHLO",
@@ -7375,10 +7380,7 @@
         "familySciName": "Scolopacidae",
         "comNameZh": "鷹斑鷸",
         "comNameJp": "タカブシギ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Tringa totanus",
@@ -7949,12 +7951,12 @@
         "taxonOrder": 6170.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "DUNL",
-            "CUSA"
+            "CUSA",
+            "DUNL"
         ],
         "sciNameCodes": [
-            "CAFE",
-            "CAAL"
+            "CAAL",
+            "CAFE"
         ],
         "order": "Charadriiformes",
         "familyCode": "scolop2",
@@ -8040,8 +8042,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "STSA",
-            "SPTS",
-            "PESA"
+            "PESA",
+            "SPTS"
         ],
         "sciNameCodes": [
             "CAME",
@@ -8808,8 +8810,8 @@
         "taxonOrder": 6436.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BHGU",
-            "SBGU"
+            "SBGU",
+            "BHGU"
         ],
         "sciNameCodes": [
             "CHGE",
@@ -9194,13 +9196,13 @@
         "comNameCodes": [
             "AHHG",
             "EHGU",
-            "GLGU",
             "HEGU",
+            "GLGU",
             "HERG"
         ],
         "sciNameCodes": [
-            "LAAR",
-            "LAHY"
+            "LAHY",
+            "LAAR"
         ],
         "order": "Charadriiformes",
         "familyCode": "larida1",
@@ -10025,8 +10027,8 @@
         "taxonOrder": 6705.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ROST",
             "ROTE",
+            "ROST",
             "COTE"
         ],
         "sciNameCodes": [
@@ -10518,8 +10520,8 @@
         "comNameCodes": [
             "BTDI",
             "PALO",
-            "BTLO",
             "ARLO",
+            "BTLO",
             "PADI"
         ],
         "sciNameCodes": [
@@ -11278,8 +11280,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "STSH",
-            "STTS",
-            "SOSH"
+            "SOSH",
+            "STTS"
         ],
         "sciNameCodes": [
             "ARTE",
@@ -11725,8 +11727,8 @@
             "BRBO"
         ],
         "sciNameCodes": [
-            "SUDA",
-            "SULE"
+            "SULE",
+            "SUDA"
         ],
         "order": "Suliformes",
         "familyCode": "sulida1",
@@ -11965,8 +11967,8 @@
         "taxonOrder": 7331.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "GRBI",
-            "EUBI"
+            "EUBI",
+            "GRBI"
         ],
         "sciNameCodes": [
             "BOST"
@@ -12108,8 +12110,8 @@
         "taxonOrder": 7360.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "YEBI",
-            "CIBI"
+            "CIBI",
+            "YEBI"
         ],
         "sciNameCodes": [
             "IXCI",
@@ -12204,8 +12206,8 @@
         "taxonOrder": 7383.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "NANH",
             "NNHE",
+            "NANH",
             "RUNH",
             "RNHE"
         ],
@@ -12232,8 +12234,8 @@
         "taxonOrder": 7391.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "NANH",
             "NNHE",
+            "NANH",
             "RUNH",
             "BCNH",
             "RNHE"
@@ -12313,8 +12315,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "MNHE",
-            "JANH",
             "JNHE",
+            "JANH",
             "MANH"
         ],
         "sciNameCodes": [
@@ -12997,8 +12999,8 @@
         "taxonOrder": 7575.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "SAIB",
-            "ASIB"
+            "ASIB",
+            "SAIB"
         ],
         "sciNameCodes": [
             "THAE"
@@ -13186,10 +13188,7 @@
         "familySciName": "Pandionidae",
         "comNameZh": "魚鷹",
         "comNameJp": "ミサゴ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Pandion haliaetus haliaetus",
@@ -13211,10 +13210,7 @@
         "reportAs": "osprey",
         "comNameZh": "魚鷹(haliaetus)",
         "comNameJp": "ミサゴ（haliaetus）",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Elanus caeruleus",
@@ -13224,8 +13220,8 @@
         "taxonOrder": 7650.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BSKI",
             "BWKI",
+            "BSKI",
             "ABSK"
         ],
         "sciNameCodes": [
@@ -13249,8 +13245,8 @@
         "taxonOrder": 7652.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BSKI",
             "BWKI",
+            "BSKI",
             "ABSK"
         ],
         "sciNameCodes": [
@@ -13275,8 +13271,8 @@
         "taxonOrder": 7688.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "OHBU",
             "ORHB",
+            "OHBU",
             "CRHB",
             "CHBU"
         ],
@@ -13289,10 +13285,7 @@
         "familySciName": "Accipitridae",
         "comNameZh": "東方蜂鷹",
         "comNameJp": "ハチクマ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Pernis ptilorhynchus orientalis",
@@ -13317,10 +13310,7 @@
         "reportAs": "orihob2",
         "comNameZh": "東方蜂鷹(orientalis)",
         "comNameJp": "ハチクマ（orientalis）",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Aviceda leuphotes",
@@ -13438,8 +13428,6 @@
         "comNameZh": "熊鷹",
         "comNameJp": "クマタカ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "白毛跤鷹"
         ]
     },
@@ -13451,8 +13439,8 @@
         "taxonOrder": 7819.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "MOHE",
-            "MHEA"
+            "MHEA",
+            "MOHE"
         ],
         "sciNameCodes": [
             "NINI"
@@ -13465,8 +13453,6 @@
         "comNameZh": "熊鷹 (nipalensis)",
         "comNameJp": "クマタカ（亜種クマタカ）",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "白毛跤鷹"
         ]
     },
@@ -13692,8 +13678,6 @@
         "comNameZh": "灰面鵟鷹",
         "comNameJp": "サシバ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "灰面鷲",
             "國慶鳥",
             "南路鷹",
@@ -13761,8 +13745,8 @@
             "WEMH",
             "EMHA",
             "EUMH",
-            "EAMH",
-            "WMHA"
+            "WMHA",
+            "EAMH"
         ],
         "sciNameCodes": [
             "CISP",
@@ -13855,8 +13839,6 @@
         "comNameZh": "鳳頭蒼鷹",
         "comNameJp": "カンムリオオタカ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "粉鳥鷹"
         ]
     },
@@ -13868,8 +13850,8 @@
         "taxonOrder": 7987.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "SHIK",
-            "LBGO"
+            "LBGO",
+            "SHIK"
         ],
         "sciNameCodes": [
             "ACBA"
@@ -13880,10 +13862,7 @@
         "familySciName": "Accipitridae",
         "comNameZh": "褐耳鷹",
         "comNameJp": "タカサゴダカ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Accipiter badius [badius Group]",
@@ -13893,8 +13872,8 @@
         "taxonOrder": 7991.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "SHIK",
-            "LBGO"
+            "LBGO",
+            "SHIK"
         ],
         "sciNameCodes": [
             "ACBA"
@@ -13906,10 +13885,7 @@
         "reportAs": "shikra1",
         "comNameZh": "褐耳鷹(badius群)",
         "comNameJp": "タカサゴダカ（badius グループ）",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Accipiter soloensis",
@@ -13933,8 +13909,6 @@
         "comNameZh": "赤腹鷹",
         "comNameJp": "アカハラダカ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "鷹柱鳥"
         ]
     },
@@ -13958,8 +13932,6 @@
         "comNameZh": "日本松雀鷹",
         "comNameJp": "ツミ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "鷹仔虎",
             "ing-á-hóo"
         ]
@@ -13984,8 +13956,6 @@
         "comNameZh": "松雀鷹",
         "comNameJp": "ミナミツミ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "鷹仔虎",
             "ing-á-hóo"
         ]
@@ -14012,8 +13982,6 @@
         "comNameZh": "日本松雀鷹/松雀鷹",
         "comNameJp": "ツミ／ミナミツミ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "鷹仔虎",
             "ing-á-hóo"
         ]
@@ -14040,8 +14008,6 @@
         "comNameZh": "鳳頭蒼鷹/松雀鷹",
         "comNameJp": "カンムリオオタカ／ミナミツミ",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "鷹仔虎",
             "ing-á-hóo",
             "粉鳥鷹"
@@ -14066,10 +14032,7 @@
         "familySciName": "Accipitridae",
         "comNameZh": "北雀鷹",
         "comNameJp": "ハイタカ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Accipiter gentilis",
@@ -14092,10 +14055,7 @@
         "familySciName": "Accipitridae",
         "comNameZh": "蒼鷹",
         "comNameJp": "オオタカ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Accipiter sp.",
@@ -14114,10 +14074,7 @@
         "familySciName": "Accipitridae",
         "comNameZh": "雀鷹屬",
         "comNameJp": "ハイタカ属",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Milvus migrans",
@@ -14200,8 +14157,8 @@
         "taxonOrder": 8183.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BBKI",
             "BRKI",
+            "BBKI",
             "BLAK",
             "BLKI"
         ],
@@ -14314,10 +14271,7 @@
         "familySciName": "Accipitridae",
         "comNameZh": "栗翅鷹",
         "comNameJp": "モモアカノスリ",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Buteo lagopus",
@@ -14518,10 +14472,7 @@
         "familySciName": "Accipitridae",
         "comNameZh": "鷹科(中、小型)",
         "comNameJp": "タカ科",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Accipitridae sp. (eagle sp.)",
@@ -14538,10 +14489,7 @@
         "familySciName": "Accipitridae",
         "comNameZh": "鷹科(中、大型)",
         "comNameJp": "ウミワシ属／イヌワシ属",
-        "comNameList": [
-            "鴟鴞",
-            "ing"
-        ]
+        "comNameList": []
     },
     {
         "sciName": "Tyto longimembris",
@@ -14568,7 +14516,8 @@
         "comNameList": [
             "貓頭鳥",
             "niau-thâu-tsiáu",
-            "猴面鷹"
+            "猴面鷹",
+            "kâu-bīn-ing"
         ]
     },
     {
@@ -14579,8 +14528,8 @@
         "taxonOrder": 8471.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "MOSO",
-            "MSOW"
+            "MSOW",
+            "MOSO"
         ],
         "sciNameCodes": [
             "OTSP"
@@ -14604,8 +14553,8 @@
         "taxonOrder": 8490.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "COSO",
-            "CSOW"
+            "CSOW",
+            "COSO"
         ],
         "sciNameCodes": [
             "OTLE"
@@ -15053,8 +15002,6 @@
         "comNameZh": "褐鷹鴞",
         "comNameJp": "アオバズク",
         "comNameList": [
-            "鴟鴞",
-            "ing",
             "貓頭鳥",
             "niau-thâu-tsiáu"
         ]
@@ -17317,8 +17264,8 @@
         "taxonOrder": 18297.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BRMI",
-            "SWMI"
+            "SWMI",
+            "BRMI"
         ],
         "sciNameCodes": [
             "PECA"
@@ -17344,8 +17291,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "ASMI",
-            "SWMI",
-            "BRMI"
+            "BRMI",
+            "SWMI"
         ],
         "sciNameCodes": [
             "PECA",
@@ -17839,8 +17786,8 @@
         "taxonOrder": 20095.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "HCDR",
             "BCDR",
+            "HCDR",
             "HCTD"
         ],
         "sciNameCodes": [
@@ -17951,9 +17898,9 @@
         "bandingCodes": [],
         "comNameCodes": [
             "APFL",
-            "AMPF",
+            "CHPF",
             "CPFL",
-            "CHPF"
+            "AMPF"
         ],
         "sciNameCodes": [
             "TEIN"
@@ -17981,11 +17928,11 @@
             "CHPF",
             "APFL",
             "BPFL",
-            "AMPF",
             "CPFL",
+            "AMPF",
             "JPFL",
-            "BLPF",
-            "JAPF"
+            "JAPF",
+            "BLPF"
         ],
         "sciNameCodes": [
             "TEIN",
@@ -18863,8 +18810,8 @@
             "CACR"
         ],
         "sciNameCodes": [
-            "COMA",
-            "COCO"
+            "COCO",
+            "COMA"
         ],
         "order": "Passeriformes",
         "familyCode": "corvid1",
@@ -19231,8 +19178,8 @@
         "taxonOrder": 22257.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ESTL",
-            "MSTL"
+            "MSTL",
+            "ESTL"
         ],
         "sciNameCodes": [
             "CADU"
@@ -19254,8 +19201,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "GSTL",
-            "ESTL",
-            "MSTL"
+            "MSTL",
+            "ESTL"
         ],
         "sciNameCodes": [
             "CADU",
@@ -20110,8 +20057,8 @@
             "MGRW"
         ],
         "comNameCodes": [
-            "MGWA",
-            "MIGW"
+            "MIGW",
+            "MGWA"
         ],
         "sciNameCodes": [
             "HEOC"
@@ -20155,9 +20102,9 @@
         "taxonOrder": 23379.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "MGWA",
             "MIGW",
             "SGWA",
+            "MGWA",
             "PLGW",
             "MGRW",
             "PGWA"
@@ -20643,8 +20590,8 @@
         "taxonOrder": 23804.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ASHM",
-            "AHMA"
+            "AHMA",
+            "ASHM"
         ],
         "sciNameCodes": [
             "DEDA"
@@ -20669,15 +20616,15 @@
         "bandingCodes": [],
         "comNameCodes": [
             "ASHM",
-            "SIHM",
             "AHMA",
+            "SIHM",
             "CHMA",
             "SHMA",
             "EHMA"
         ],
         "sciNameCodes": [
-            "DEDA",
-            "DELA"
+            "DELA",
+            "DEDA"
         ],
         "order": "Passeriformes",
         "familyCode": "hirund2",
@@ -20807,8 +20754,8 @@
             "RRSW"
         ],
         "sciNameCodes": [
-            "CEDA",
-            "CEST"
+            "CEST",
+            "CEDA"
         ],
         "order": "Passeriformes",
         "familyCode": "hirund2",
@@ -21319,14 +21266,14 @@
         "taxonOrder": 24387.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "YBWA",
             "HULW",
+            "YBWA",
             "HUWA",
             "HLWA"
         ],
         "sciNameCodes": [
-            "PHHU",
-            "PHIN"
+            "PHIN",
+            "PHHU"
         ],
         "order": "Passeriformes",
         "familyCode": "phyllo4",
@@ -21699,8 +21646,8 @@
         "comNameCodes": [
             "WIWA",
             "WILW",
-            "CCHI",
-            "COCH"
+            "COCH",
+            "CCHI"
         ],
         "sciNameCodes": [
             "PHCO",
@@ -22058,8 +22005,8 @@
             "JLWA"
         ],
         "sciNameCodes": [
-            "PHXA",
-            "PHBO"
+            "PHBO",
+            "PHXA"
         ],
         "order": "Passeriformes",
         "familyCode": "phyllo4",
@@ -22379,8 +22326,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "JBWA",
-            "KBWA",
             "KOBW",
+            "KBWA",
             "MBWA",
             "JABW"
         ],
@@ -22533,8 +22480,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BTTI",
-            "BTBU",
-            "BTHC"
+            "BTHC",
+            "BTBU"
         ],
         "sciNameCodes": [
             "AECO"
@@ -22559,8 +22506,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BTTI",
-            "BTHC",
-            "BTBU"
+            "BTBU",
+            "BTHC"
         ],
         "sciNameCodes": [
             "AECO"
@@ -23236,8 +23183,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "HWAM",
-            "TAHW",
-            "CHHW"
+            "CHHW",
+            "TAHW"
         ],
         "sciNameCodes": [
             "GACA",
@@ -23264,8 +23211,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "HWAM",
-            "CHHW",
-            "TAHW"
+            "TAHW",
+            "CHHW"
         ],
         "sciNameCodes": [
             "GACA",
@@ -23766,8 +23713,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "DAST",
-            "PBST",
-            "CCST"
+            "CCST",
+            "PBST"
         ],
         "sciNameCodes": [
             "AGPH",
@@ -23815,8 +23762,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "IPMY",
-            "IPST",
-            "APST"
+            "APST",
+            "IPST"
         ],
         "sciNameCodes": [
             "GRCO"
@@ -24515,8 +24462,8 @@
             "GSTH"
         ],
         "sciNameCodes": [
-            "TUFE",
-            "TUOB"
+            "TUOB",
+            "TUFE"
         ],
         "order": "Passeriformes",
         "familyCode": "turdid1",
@@ -24622,8 +24569,8 @@
             "BTTH"
         ],
         "sciNameCodes": [
-            "TUAT",
-            "TURU"
+            "TURU",
+            "TUAT"
         ],
         "order": "Passeriformes",
         "familyCode": "turdid1",
@@ -24645,8 +24592,8 @@
             "BTTH"
         ],
         "sciNameCodes": [
-            "TUAT",
-            "TURU"
+            "TURU",
+            "TUAT"
         ],
         "order": "Passeriformes",
         "familyCode": "turdid1",
@@ -25835,13 +25782,13 @@
         "taxonOrder": 28999.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "CBRO",
             "WBBR",
+            "CBRO",
             "COBR"
         ],
         "sciNameCodes": [
-            "TAJO",
-            "TAIN"
+            "TAIN",
+            "TAJO"
         ],
         "order": "Passeriformes",
         "familyCode": "muscic3",
@@ -26362,8 +26309,8 @@
         "taxonOrder": 29155.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BLRT",
-            "BRTH"
+            "BRTH",
+            "BLRT"
         ],
         "sciNameCodes": [
             "MOSO"
@@ -26408,8 +26355,8 @@
         "taxonOrder": 29157.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BLRT",
-            "BRTH"
+            "BRTH",
+            "BLRT"
         ],
         "sciNameCodes": [
             "MOSO"
@@ -26917,8 +26864,8 @@
         "taxonOrder": 30171.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "OBCL",
-            "OBLE"
+            "OBLE",
+            "OBCL"
         ],
         "sciNameCodes": [
             "CHHA"
@@ -28183,8 +28130,8 @@
             "PAPI"
         ],
         "sciNameCodes": [
-            "ANRU",
-            "ANRI"
+            "ANRI",
+            "ANRU"
         ],
         "order": "Passeriformes",
         "familyCode": "motaci1",
@@ -28353,8 +28300,8 @@
         "taxonOrder": 31343.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "OBPI",
-            "TRPI"
+            "TRPI",
+            "OBPI"
         ],
         "sciNameCodes": [
             "ANTR",
@@ -29035,8 +28982,8 @@
         "taxonOrder": 31985.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "COCR",
-            "RECR"
+            "RECR",
+            "COCR"
         ],
         "sciNameCodes": [
             "LOCU"
@@ -29467,8 +29414,8 @@
         "taxonOrder": 32297.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "REBU",
             "PRBU",
+            "REBU",
             "PABU",
             "PALB",
             "CRBU"
@@ -29621,12 +29568,12 @@
         "taxonOrder": 32310.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "MABU",
-            "BFBU"
+            "BFBU",
+            "MABU"
         ],
         "sciNameCodes": [
-            "EMSP",
-            "EMPE"
+            "EMPE",
+            "EMSP"
         ],
         "order": "Passeriformes",
         "familyCode": "emberi2",

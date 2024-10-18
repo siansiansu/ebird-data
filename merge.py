@@ -269,7 +269,7 @@ for entry in data:
             comNameList.extend(['躼跤仔', 'lò-kha-á'])
 
         if '水雉' in entry['comNameZh']:
-            comNameList.extend(['菱角鳥'])
+            comNameList.extend(['菱角鳥', 'lîng-kak-tsiáu'])
 
         if '長趾濱鷸' in entry['comNameZh']:
             comNameList.extend(['雲雀鷸'])
@@ -364,6 +364,12 @@ for entry in data:
         if '珠頸斑鳩' in entry['comNameZh']:
             comNameList.extend(['斑鴿', 'pan-kah'])
 
+        if '紅鳩' in entry['comNameZh']:
+            comNameList.extend(['火鵻仔', 'hué-tsui-á', '火斑鴿', 'hué-pan-kah'])
+
+        if '綠鳩' in entry['comNameZh']:
+            comNameList.extend(['青鵻', 'tshenn-tsui'])
+
         if '大冠鷲' in entry['comNameZh']:
             comNameList.extend(['蛇鵰'])
 
@@ -374,7 +380,7 @@ for entry in data:
             comNameList.extend(['亞洲綬帶', '亞洲壽帶'])
 
         if '草鴞' in entry['comNameZh']:
-            comNameList.extend(['猴面鷹'])
+            comNameList.extend(['猴面鷹', 'kâu-bīn-ing'])
 
         if '臺灣藍鵲' in entry['comNameZh']:
             comNameList.extend(['長尾山娘', 'tn̂g-bué-suann-niû'])
