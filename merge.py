@@ -53,9 +53,6 @@ for entry in data:
         if '鵰' in entry['comNameZh']:
             comNameList.extend(['鴟鴞', '鷹', 'bā-hio̍h', 'ing'])
 
-        if '鷹' in entry['comNameZh']:
-            comNameList.extend(['鴟鴞', 'ing'])
-
         if '鴞' in entry['comNameZh']:
             comNameList.extend(['貓頭鳥', 'niau-thâu-tsiáu'])
 
