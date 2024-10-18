@@ -44,6 +44,9 @@ for entry in data:
         if '臺灣' in entry['comNameZh']:
             comNameList.extend([entry['comNameZh'].replace('臺', '台')])
 
+        if '畫眉' in entry['comNameZh']:
+            comNameList.extend(['花眉仔', 'hue-bî-á'])
+
         if '八哥' in entry['comNameZh']:
             comNameList.extend(['鵁鴒', 'ka-līng'])
 
@@ -128,10 +131,76 @@ for entry in data:
         if '秧雞' in entry['comNameZh']:
             comNameList.extend(['秧雞', '水雞', '米雞仔', '紅跤鳥'])
 
+        if '鸚嘴' in entry['comNameZh']:
+            comNameList.extend(['圓頭仔', 'înn-thâu-á'])
+
+        if '鷦鶯' in entry['comNameZh']:
+            comNameList.extend(['布袋鳥仔', 'pòo-tē-tsiáu-á', '望冬丟仔', 'bāng-tang-tiú-á'])
+
+        if '扇尾鶯' in entry['comNameZh']:
+            comNameList.extend(['塚仔鳥', 'thióng-á-tsiáu', '墓仔鳥', 'bōng-á-tsiáu', '布袋鳥仔', 'pòo-tē-tsiáu-á'])
+
+        if '柳鶯' in entry['comNameZh']:
+            comNameList.extend(['柳鶯', 'liú-ing'])
+
+        if '戴菊' in entry['comNameZh']:
+            comNameList.extend(['杉仔鳥', 'sam-á-tsiáu'])
+
+        if '山椒鳥' in entry['comNameZh']:
+            comNameList.extend(['戲班仔', 'hì-pan-á'])
+
+        if '八色鳥' in entry['comNameZh']:
+            comNameList.extend(['抾箬仔', 'khioh-ha̍h-á', '八色鳥', 'peh-sik-tsiáu', '青翼仔' ,'tshenn-si̍t-á'])
+
+        if '啄木鳥' in entry['comNameZh']:
+            comNameList.extend(['啄木鳥', 'tok-bo̍k-tsiáu', '啄樹鳥', 'tok-tshiū-tsiáu'])
+
+        if '戴勝' in entry['comNameZh']:
+            comNameList.extend(['墓坑鳥', 'bōng-khenn-tsiáu'])
+
+        if '夜鷹' in entry['comNameZh']:
+            comNameList.extend(['石磯仔', 'tsio̍h-ki-á'])
+
         # 種名 replace
+
+        if '黃鸝' in entry['comNameZh']:
+            comNameList.extend(['黃鶯', 'n̂g-ing'])
+
+        if '朱鸝' in entry['comNameZh']:
+            comNameList.extend(['紅鶯', 'âng-ing'])
+
+        if '樹鵲' in entry['comNameZh']:
+            comNameList.extend(['咖咖仔', 'ka-ka-á'])
+
+        if '河烏' in entry['comNameZh']:
+            comNameList.extend(['水叮噹', 'tsuí-tin-tang'])
+
+        if '烏頭翁' in entry['comNameZh']:
+            comNameList.extend(['烏頭鵠仔', 'oo-thâu-khok-á'])
+
+        if '白環鸚嘴鵯' in entry['comNameZh']:
+            comNameList.extend(['石鸚哥', 'tsio̍h-ing-ko', '林投雞', 'nâ-tâu-ke', '林投公', 'nâ-tâu-kong'])
+
+        if '紅嘴黑鵯' in entry['comNameZh']:
+            comNameList.extend(['紅喙烏鶖', 'âng-tshuì-oo-tshiu', '紅喙鶖仔', 'âng-tshuì-tshiu-á'])
+
+        if '冠羽畫眉' in entry['comNameZh']:
+            comNameList.extend(['尖頭仔', 'tsiam-thâu-á'])
+
+        if '小彎嘴' in entry['comNameZh']:
+            comNameList.extend(['奸臣仔鳥', 'kan-sîn-á-tsiáu', '竹跤花眉', 'tik-kha hue-bî', '花眉舅仔', 'hue-bî kū-á', '賊仔鳥', 'tsha̍t-á-tsiáu', '花眉仔', 'hue-bî-á'])
+
+        if '紅頭山雀' in entry['comNameZh']:
+            comNameList.extend(['紅頭仔', 'âng-thâu-á'])
+
+        if '灰鷽' in entry['comNameZh']:
+            comNameList.extend(['烏面猴', 'oo-bīn-kâu'])
 
         if '臺灣鷦眉' in entry['comNameZh']:
             comNameList.extend(['鱗胸鷦鷯', '鱗胸鷦鶥', '小鷦鶥', '台灣鷦眉'])
+
+        if '虎斑地鶇' in entry['comNameZh']:
+            comNameList.extend(['小虎鶇'])
 
         if '赤腹鷹' in entry['comNameZh']:
             comNameList.extend(['鷹柱鳥'])
