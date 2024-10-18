@@ -409,8 +409,8 @@
         "taxonOrder": 292.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TBGO",
             "TUBG",
+            "TBGO",
             "BEGO",
             "TABG"
         ],
@@ -709,8 +709,8 @@
         "comNameCodes": [
             "BESW",
             "TUSW",
-            "WHOS",
-            "WHSW"
+            "WHSW",
+            "WHOS"
         ],
         "sciNameCodes": [
             "CYCO",
@@ -1090,8 +1090,8 @@
         "taxonOrder": 481.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "NSHO",
             "GADW",
+            "NSHO",
             "NOSH"
         ],
         "sciNameCodes": [
@@ -1359,8 +1359,8 @@
             "MALL"
         ],
         "sciNameCodes": [
-            "ANPL",
-            "CAMO"
+            "CAMO",
+            "ANPL"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -1535,8 +1535,8 @@
             "NOPI"
         ],
         "sciNameCodes": [
-            "ANAC",
-            "SIFO"
+            "SIFO",
+            "ANAC"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -1704,8 +1704,8 @@
             "GADW"
         ],
         "sciNameCodes": [
-            "MAST",
-            "ANCR"
+            "ANCR",
+            "MAST"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -2028,8 +2028,8 @@
             "FEDU"
         ],
         "sciNameCodes": [
-            "AYNY",
-            "AYBA"
+            "AYBA",
+            "AYNY"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -2100,13 +2100,13 @@
         "taxonOrder": 651.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "COMP",
             "COPO",
+            "COMP",
             "TUDU"
         ],
         "sciNameCodes": [
-            "AYFU",
-            "AYFE"
+            "AYFE",
+            "AYFU"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -2133,8 +2133,8 @@
             "TUDU"
         ],
         "sciNameCodes": [
-            "AYNY",
-            "AYFU"
+            "AYFU",
+            "AYNY"
         ],
         "order": "Anseriformes",
         "familyCode": "anatid1",
@@ -2868,8 +2868,8 @@
         "taxonOrder": 1559.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TABP",
-            "TBPA"
+            "TBPA",
+            "TABP"
         ],
         "sciNameCodes": [
             "BASO"
@@ -2898,8 +2898,8 @@
             "CBPA"
         ],
         "sciNameCodes": [
-            "BASO",
-            "BATH"
+            "BATH",
+            "BASO"
         ],
         "order": "Galliformes",
         "familyCode": "phasia1",
@@ -2942,8 +2942,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "KIQU",
-            "ABQU",
-            "BBQU"
+            "BBQU",
+            "ABQU"
         ],
         "sciNameCodes": [
             "SYCH"
@@ -3252,8 +3252,8 @@
             "ROPI"
         ],
         "comNameCodes": [
-            "ROPI",
             "FEPI",
+            "ROPI",
             "RODO"
         ],
         "sciNameCodes": [
@@ -3417,8 +3417,8 @@
         "taxonOrder": 2079.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "RECD",
             "RCDO",
+            "RECD",
             "RTDO",
             "RETD"
         ],
@@ -3603,8 +3603,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "AEDO",
-            "CEDO",
-            "GCED"
+            "GCED",
+            "CEDO"
         ],
         "sciNameCodes": [
             "CHIN"
@@ -4135,9 +4135,9 @@
         "taxonOrder": 3402.0,
         "bandingCodes": [],
         "comNameCodes": [
+            "NHCU",
             "RUHC",
             "NOHC",
-            "NHCU",
             "RHCU"
         ],
         "sciNameCodes": [
@@ -4159,9 +4159,9 @@
         "taxonOrder": 3404.0,
         "bandingCodes": [],
         "comNameCodes": [
+            "HHCU",
             "WHCU",
             "HOHC",
-            "HHCU",
             "WHHC"
         ],
         "sciNameCodes": [
@@ -4328,8 +4328,8 @@
         "taxonOrder": 3428.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ORCU",
-            "LECU"
+            "LECU",
+            "ORCU"
         ],
         "sciNameCodes": [
             "CUOP",
@@ -4988,9 +4988,9 @@
         "taxonOrder": 5285.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "WEWR",
             "WARA",
             "EWRA",
+            "WEWR",
             "BCRA",
             "WWRA"
         ],
@@ -5675,8 +5675,8 @@
         "taxonOrder": 5689.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "COCR",
             "CCRA",
+            "COCR",
             "HOCR"
         ],
         "sciNameCodes": [
@@ -5799,8 +5799,8 @@
             "PIST"
         ],
         "sciNameCodes": [
-            "HIHI",
-            "HILE"
+            "HILE",
+            "HIHI"
         ],
         "order": "Charadriiformes",
         "familyCode": "recurv1",
@@ -6077,8 +6077,8 @@
             "RIPL"
         ],
         "sciNameCodes": [
-            "CHDU",
-            "CHHI"
+            "CHHI",
+            "CHDU"
         ],
         "order": "Charadriiformes",
         "familyCode": "charad1",
@@ -6231,8 +6231,8 @@
         ],
         "comNameCodes": [
             "LSPL",
-            "TISD",
             "LSDO",
+            "TISD",
             "LESA",
             "TISP",
             "TSPL",
@@ -6549,8 +6549,8 @@
         "taxonOrder": 5980.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "WHIM",
-            "EUWH"
+            "EUWH",
+            "WHIM"
         ],
         "sciNameCodes": [
             "NUPH"
@@ -6662,8 +6662,8 @@
         "taxonOrder": 5997.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "EUWH",
             "WHIM",
+            "EUWH",
             "EUCU"
         ],
         "sciNameCodes": [
@@ -6843,8 +6843,8 @@
             "BLTG"
         ],
         "sciNameCodes": [
-            "LILA",
-            "LILI"
+            "LILI",
+            "LILA"
         ],
         "order": "Charadriiformes",
         "familyCode": "scolop2",
@@ -7180,12 +7180,12 @@
         "bandingCodes": [],
         "comNameCodes": [
             "REPH",
-            "RNPH",
-            "GRPH"
+            "GRPH",
+            "RNPH"
         ],
         "sciNameCodes": [
-            "PHLO",
-            "PHFU"
+            "PHFU",
+            "PHLO"
         ],
         "order": "Charadriiformes",
         "familyCode": "scolop2",
@@ -7955,8 +7955,8 @@
             "DUNL"
         ],
         "sciNameCodes": [
-            "CAAL",
-            "CAFE"
+            "CAFE",
+            "CAAL"
         ],
         "order": "Charadriiformes",
         "familyCode": "scolop2",
@@ -8042,8 +8042,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "STSA",
-            "PESA",
-            "SPTS"
+            "SPTS",
+            "PESA"
         ],
         "sciNameCodes": [
             "CAME",
@@ -8355,8 +8355,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "POSK",
-            "POJA",
             "LTSK",
+            "POJA",
             "LTJA"
         ],
         "sciNameCodes": [
@@ -9263,8 +9263,8 @@
         "taxonOrder": 6535.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "AHHG",
             "LBBG",
+            "AHHG",
             "EHGU",
             "HEGU",
             "HERG"
@@ -9289,8 +9289,8 @@
         "taxonOrder": 6537.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "AHHG",
             "LBBG",
+            "AHHG",
             "EHGU",
             "HEGU",
             "HERG"
@@ -10027,8 +10027,8 @@
         "taxonOrder": 6705.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ROTE",
             "ROST",
+            "ROTE",
             "COTE"
         ],
         "sciNameCodes": [
@@ -10520,8 +10520,8 @@
         "comNameCodes": [
             "BTDI",
             "PALO",
-            "ARLO",
             "BTLO",
+            "ARLO",
             "PADI"
         ],
         "sciNameCodes": [
@@ -11280,8 +11280,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "STSH",
-            "SOSH",
-            "STTS"
+            "STTS",
+            "SOSH"
         ],
         "sciNameCodes": [
             "ARTE",
@@ -12110,12 +12110,12 @@
         "taxonOrder": 7360.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "CIBI",
-            "YEBI"
+            "YEBI",
+            "CIBI"
         ],
         "sciNameCodes": [
-            "IXCI",
-            "IXSI"
+            "IXSI",
+            "IXCI"
         ],
         "order": "Pelecaniformes",
         "familyCode": "ardeid1",
@@ -12292,8 +12292,8 @@
         "taxonOrder": 7395.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "JANH",
-            "JNHE"
+            "JNHE",
+            "JANH"
         ],
         "sciNameCodes": [
             "GOGO"
@@ -12315,8 +12315,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "MNHE",
-            "JNHE",
             "JANH",
+            "JNHE",
             "MANH"
         ],
         "sciNameCodes": [
@@ -12345,10 +12345,10 @@
         "taxonOrder": 7412.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "PREG",
             "PARE",
-            "PRHE",
+            "PREG",
             "PARH",
+            "PRHE",
             "REHE",
             "EREG"
         ],
@@ -12585,8 +12585,8 @@
         "taxonOrder": 7483.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "JPHE",
-            "JAPH"
+            "JAPH",
+            "JPHE"
         ],
         "sciNameCodes": [
             "ARSP"
@@ -12766,8 +12766,8 @@
             "CAEG"
         ],
         "sciNameCodes": [
-            "ARIN",
-            "BUCO"
+            "BUCO",
+            "ARIN"
         ],
         "order": "Pelecaniformes",
         "familyCode": "ardeid1",
@@ -12918,8 +12918,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "GRHE",
-            "GRAH",
-            "PUHE"
+            "PUHE",
+            "GRAH"
         ],
         "sciNameCodes": [
             "ARPU",
@@ -12999,8 +12999,8 @@
         "taxonOrder": 7575.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ASIB",
-            "SAIB"
+            "SAIB",
+            "ASIB"
         ],
         "sciNameCodes": [
             "THAE"
@@ -13131,8 +13131,8 @@
         "taxonOrder": 7612.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "EURS",
             "EUSP",
+            "EURS",
             "BFSP"
         ],
         "sciNameCodes": [
@@ -13271,8 +13271,8 @@
         "taxonOrder": 7688.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ORHB",
             "OHBU",
+            "ORHB",
             "CRHB",
             "CHBU"
         ],
@@ -13295,8 +13295,8 @@
         "taxonOrder": 7689.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ORHB",
             "OHBU",
+            "ORHB",
             "CRHB",
             "CHBU"
         ],
@@ -13745,8 +13745,8 @@
             "WEMH",
             "EMHA",
             "EUMH",
-            "WMHA",
-            "EAMH"
+            "EAMH",
+            "WMHA"
         ],
         "sciNameCodes": [
             "CISP",
@@ -13850,8 +13850,8 @@
         "taxonOrder": 7987.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "LBGO",
-            "SHIK"
+            "SHIK",
+            "LBGO"
         ],
         "sciNameCodes": [
             "ACBA"
@@ -13872,8 +13872,8 @@
         "taxonOrder": 7991.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "LBGO",
-            "SHIK"
+            "SHIK",
+            "LBGO"
         ],
         "sciNameCodes": [
             "ACBA"
@@ -14111,8 +14111,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BBKI",
-            "BLAK",
-            "BLKI"
+            "BLKI",
+            "BLAK"
         ],
         "sciNameCodes": [
             "MIMI"
@@ -14500,8 +14500,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "AGOW",
-            "AUGO",
             "EGOW",
+            "AUGO",
             "EAGO"
         ],
         "sciNameCodes": [
@@ -14553,8 +14553,8 @@
         "taxonOrder": 8490.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "CSOW",
-            "COSO"
+            "COSO",
+            "CSOW"
         ],
         "sciNameCodes": [
             "OTLE"
@@ -14675,8 +14675,8 @@
         "taxonOrder": 8776.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TAFO",
-            "TFOW"
+            "TFOW",
+            "TAFO"
         ],
         "sciNameCodes": [
             "KEFL"
@@ -17264,8 +17264,8 @@
         "taxonOrder": 18297.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "SWMI",
-            "BRMI"
+            "BRMI",
+            "SWMI"
         ],
         "sciNameCodes": [
             "PECA"
@@ -17291,8 +17291,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "ASMI",
-            "BRMI",
-            "SWMI"
+            "SWMI",
+            "BRMI"
         ],
         "sciNameCodes": [
             "PECA",
@@ -17809,8 +17809,8 @@
         "taxonOrder": 20096.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BCDR",
             "HCDR",
+            "BCDR",
             "HCTD"
         ],
         "sciNameCodes": [
@@ -17898,9 +17898,9 @@
         "bandingCodes": [],
         "comNameCodes": [
             "APFL",
-            "CHPF",
+            "AMPF",
             "CPFL",
-            "AMPF"
+            "CHPF"
         ],
         "sciNameCodes": [
             "TEIN"
@@ -17928,8 +17928,8 @@
             "CHPF",
             "APFL",
             "BPFL",
-            "CPFL",
             "AMPF",
+            "CPFL",
             "JPFL",
             "JAPF",
             "BLPF"
@@ -19201,8 +19201,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "GSTL",
-            "MSTL",
-            "ESTL"
+            "ESTL",
+            "MSTL"
         ],
         "sciNameCodes": [
             "CADU",
@@ -19659,8 +19659,8 @@
             "ZICI"
         ],
         "sciNameCodes": [
-            "CIJU",
-            "CIEX"
+            "CIEX",
+            "CIJU"
         ],
         "order": "Passeriformes",
         "familyCode": "cistic2",
@@ -19883,8 +19883,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BLRW",
-            "BRWA",
             "BREW",
+            "BRWA",
             "PAWA"
         ],
         "sciNameCodes": [
@@ -20103,15 +20103,15 @@
         "bandingCodes": [],
         "comNameCodes": [
             "MIGW",
-            "SGWA",
             "MGWA",
+            "SGWA",
             "PLGW",
             "MGRW",
             "PGWA"
         ],
         "sciNameCodes": [
-            "HEOC",
-            "HEPL"
+            "HEPL",
+            "HEOC"
         ],
         "order": "Passeriformes",
         "familyCode": "locust5",
@@ -20243,8 +20243,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "GTMA",
-            "PLMA",
-            "APMA"
+            "APMA",
+            "PLMA"
         ],
         "sciNameCodes": [
             "RICH"
@@ -20590,8 +20590,8 @@
         "taxonOrder": 23804.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "AHMA",
-            "ASHM"
+            "ASHM",
+            "AHMA"
         ],
         "sciNameCodes": [
             "DEDA"
@@ -20619,12 +20619,12 @@
             "AHMA",
             "SIHM",
             "CHMA",
-            "SHMA",
-            "EHMA"
+            "EHMA",
+            "SHMA"
         ],
         "sciNameCodes": [
-            "DELA",
-            "DEDA"
+            "DEDA",
+            "DELA"
         ],
         "order": "Passeriformes",
         "familyCode": "hirund2",
@@ -21272,8 +21272,8 @@
             "HLWA"
         ],
         "sciNameCodes": [
-            "PHIN",
-            "PHHU"
+            "PHHU",
+            "PHIN"
         ],
         "order": "Passeriformes",
         "familyCode": "phyllo4",
@@ -21496,8 +21496,8 @@
         "taxonOrder": 24413.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "RAWA",
-            "DUWA"
+            "DUWA",
+            "RAWA"
         ],
         "sciNameCodes": [
             "PHSC",
@@ -21646,8 +21646,8 @@
         "comNameCodes": [
             "WIWA",
             "WILW",
-            "COCH",
-            "CCHI"
+            "CCHI",
+            "COCH"
         ],
         "sciNameCodes": [
             "PHCO",
@@ -22005,8 +22005,8 @@
             "JLWA"
         ],
         "sciNameCodes": [
-            "PHBO",
-            "PHXA"
+            "PHXA",
+            "PHBO"
         ],
         "order": "Passeriformes",
         "familyCode": "phyllo4",
@@ -22326,8 +22326,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "JBWA",
-            "KOBW",
             "KBWA",
+            "KOBW",
             "MBWA",
             "JABW"
         ],
@@ -22506,8 +22506,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BTTI",
-            "BTBU",
-            "BTHC"
+            "BTHC",
+            "BTBU"
         ],
         "sciNameCodes": [
             "AECO"
@@ -23183,8 +23183,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "HWAM",
-            "CHHW",
-            "TAHW"
+            "TAHW",
+            "CHHW"
         ],
         "sciNameCodes": [
             "GACA",
@@ -23211,8 +23211,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "HWAM",
-            "TAHW",
-            "CHHW"
+            "CHHW",
+            "TAHW"
         ],
         "sciNameCodes": [
             "GACA",
@@ -23641,8 +23641,8 @@
         "taxonOrder": 27372.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "ROST",
-            "RCST"
+            "RCST",
+            "ROST"
         ],
         "sciNameCodes": [
             "PARO"
@@ -23762,8 +23762,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "IPMY",
-            "APST",
-            "IPST"
+            "IPST",
+            "APST"
         ],
         "sciNameCodes": [
             "GRCO"
@@ -24462,8 +24462,8 @@
             "GSTH"
         ],
         "sciNameCodes": [
-            "TUOB",
-            "TUFE"
+            "TUFE",
+            "TUOB"
         ],
         "order": "Passeriformes",
         "familyCode": "turdid1",
@@ -24569,8 +24569,8 @@
             "BTTH"
         ],
         "sciNameCodes": [
-            "TURU",
-            "TUAT"
+            "TUAT",
+            "TURU"
         ],
         "order": "Passeriformes",
         "familyCode": "turdid1",
@@ -24592,8 +24592,8 @@
             "BTTH"
         ],
         "sciNameCodes": [
-            "TURU",
-            "TUAT"
+            "TUAT",
+            "TURU"
         ],
         "order": "Passeriformes",
         "familyCode": "turdid1",
@@ -25160,8 +25160,8 @@
             "BAWF"
         ],
         "sciNameCodes": [
-            "CYCU",
-            "CYCY"
+            "CYCY",
+            "CYCU"
         ],
         "order": "Passeriformes",
         "familyCode": "muscic3",
@@ -25222,8 +25222,8 @@
         "taxonOrder": 28633.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "CHBF",
-            "CBFL"
+            "CBFL",
+            "CHBF"
         ],
         "sciNameCodes": [
             "CYGL"
@@ -25782,13 +25782,13 @@
         "taxonOrder": 28999.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "WBBR",
             "CBRO",
+            "WBBR",
             "COBR"
         ],
         "sciNameCodes": [
-            "TAIN",
-            "TAJO"
+            "TAJO",
+            "TAIN"
         ],
         "order": "Passeriformes",
         "familyCode": "muscic3",
@@ -26140,8 +26140,8 @@
         "taxonOrder": 29100.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "PLWR",
             "PLRE",
+            "PLWR",
             "PWRE"
         ],
         "sciNameCodes": [
@@ -26163,8 +26163,8 @@
         "taxonOrder": 29105.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "WCRE",
-            "WCWR"
+            "WCWR",
+            "WCRE"
         ],
         "sciNameCodes": [
             "PHLE"
@@ -26287,8 +26287,8 @@
         "taxonOrder": 29151.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BRTH",
-            "BLRT"
+            "BLRT",
+            "BRTH"
         ],
         "sciNameCodes": [
             "MOSO"
@@ -26355,8 +26355,8 @@
         "taxonOrder": 29157.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BRTH",
-            "BLRT"
+            "BLRT",
+            "BRTH"
         ],
         "sciNameCodes": [
             "MOSO"
@@ -26864,8 +26864,8 @@
         "taxonOrder": 30171.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "OBLE",
-            "OBCL"
+            "OBCL",
+            "OBLE"
         ],
         "sciNameCodes": [
             "CHHA"
@@ -27810,8 +27810,8 @@
             "CIWA"
         ],
         "sciNameCodes": [
-            "MOFL",
-            "MOCI"
+            "MOCI",
+            "MOFL"
         ],
         "order": "Passeriformes",
         "familyCode": "motaci1",
@@ -28130,8 +28130,8 @@
             "PAPI"
         ],
         "sciNameCodes": [
-            "ANRI",
-            "ANRU"
+            "ANRU",
+            "ANRI"
         ],
         "order": "Passeriformes",
         "familyCode": "motaci1",
@@ -28260,8 +28260,8 @@
             "MEPI"
         ],
         "sciNameCodes": [
-            "ANTR",
-            "ANPR"
+            "ANPR",
+            "ANTR"
         ],
         "order": "Passeriformes",
         "familyCode": "motaci1",
@@ -28300,8 +28300,8 @@
         "taxonOrder": 31343.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "TRPI",
-            "OBPI"
+            "OBPI",
+            "TRPI"
         ],
         "sciNameCodes": [
             "ANTR",
@@ -28522,8 +28522,8 @@
         "bandingCodes": [],
         "comNameCodes": [
             "BBPI",
-            "AMPI",
-            "WAPI"
+            "WAPI",
+            "AMPI"
         ],
         "sciNameCodes": [
             "ANSP",
@@ -29414,8 +29414,8 @@
         "taxonOrder": 32297.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "PRBU",
             "REBU",
+            "PRBU",
             "PABU",
             "PALB",
             "CRBU"
@@ -29568,8 +29568,8 @@
         "taxonOrder": 32310.0,
         "bandingCodes": [],
         "comNameCodes": [
-            "BFBU",
-            "MABU"
+            "MABU",
+            "BFBU"
         ],
         "sciNameCodes": [
             "EMPE",
