@@ -74,8 +74,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.944103,
     "lng": 121.0934017,
-    "latestObsDt": "2024-11-25 12:07",
-    "numSpeciesAllTime": 24
+    "latestObsDt": "2024-12-16 12:46",
+    "numSpeciesAllTime": 27
   },
   {
     "locId": "L8139536",
@@ -224,8 +224,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9349544,
     "lng": 121.0948179,
-    "latestObsDt": "2024-11-25 09:20",
-    "numSpeciesAllTime": 16
+    "latestObsDt": "2024-12-16 09:46",
+    "numSpeciesAllTime": 18
   },
   {
     "locId": "L8182740",
@@ -234,8 +234,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9358637,
     "lng": 121.0959761,
-    "latestObsDt": "2024-11-25 09:20",
-    "numSpeciesAllTime": 16
+    "latestObsDt": "2024-12-16 09:48",
+    "numSpeciesAllTime": 18
   },
   {
     "locId": "L8182734",
@@ -244,8 +244,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9327842,
     "lng": 121.0953164,
-    "latestObsDt": "2024-11-25 09:35",
-    "numSpeciesAllTime": 13
+    "latestObsDt": "2024-12-16 10:00",
+    "numSpeciesAllTime": 15
   },
   {
     "locId": "L8182744",
@@ -254,8 +254,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9384964,
     "lng": 121.0990553,
-    "latestObsDt": "2024-11-25 09:08",
-    "numSpeciesAllTime": 26
+    "latestObsDt": "2024-12-16 09:33",
+    "numSpeciesAllTime": 28
   },
   {
     "locId": "L8139538",
@@ -274,8 +274,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9419891,
     "lng": 121.1061407,
-    "latestObsDt": "2024-11-25 08:40",
-    "numSpeciesAllTime": 31
+    "latestObsDt": "2024-12-16 09:07",
+    "numSpeciesAllTime": 35
   },
   {
     "locId": "L8182753",
@@ -284,8 +284,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9377226,
     "lng": 121.1066552,
-    "latestObsDt": "2024-11-25 08:29",
-    "numSpeciesAllTime": 8
+    "latestObsDt": "2024-12-16 08:56",
+    "numSpeciesAllTime": 11
   },
   {
     "locId": "L8182757",
@@ -554,8 +554,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9232697,
     "lng": 121.0939695,
-    "latestObsDt": "2024-11-25 09:50",
-    "numSpeciesAllTime": 39
+    "latestObsDt": "2024-12-16 10:16",
+    "numSpeciesAllTime": 41
   },
   {
     "locId": "L8182769",
@@ -564,8 +564,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9205749,
     "lng": 121.09294,
-    "latestObsDt": "2024-11-25 09:50",
-    "numSpeciesAllTime": 16
+    "latestObsDt": "2024-12-16 10:16",
+    "numSpeciesAllTime": 18
   },
   {
     "locId": "L8182650",
@@ -1758,7 +1758,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.6369482,
     "lng": 120.7935204,
-    "latestObsDt": "2024-12-14 08:28",
+    "latestObsDt": "2024-12-16 09:11",
     "numSpeciesAllTime": 133
   },
   {
@@ -1978,7 +1978,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.6718019,
     "lng": 120.7967216,
-    "latestObsDt": "2024-12-15 08:20",
+    "latestObsDt": "2024-12-15 10:24",
     "numSpeciesAllTime": 164
   },
   {
@@ -2338,7 +2338,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.82747,
     "lng": 120.8009677,
-    "latestObsDt": "2024-12-15 14:09",
+    "latestObsDt": "2024-12-16 11:58",
     "numSpeciesAllTime": 129
   },
   {
@@ -2348,8 +2348,8 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.8252372,
     "lng": 120.802424,
-    "latestObsDt": "2024-11-19 15:38",
-    "numSpeciesAllTime": 80
+    "latestObsDt": "2024-12-15 16:24",
+    "numSpeciesAllTime": 81
   },
   {
     "locId": "L1186567",
@@ -2418,7 +2418,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.4730496,
     "lng": 120.8459343,
-    "latestObsDt": "2024-11-07 11:49",
+    "latestObsDt": "2024-12-16 10:50",
     "numSpeciesAllTime": 65
   },
   {
@@ -2828,7 +2828,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2077413,
     "lng": 120.5972105,
-    "latestObsDt": "2024-12-14 13:32",
+    "latestObsDt": "2024-12-16 09:20",
     "numSpeciesAllTime": 190
   },
   {
@@ -2988,7 +2988,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.1213752,
     "lng": 120.6755304,
-    "latestObsDt": "2024-12-12 12:31",
+    "latestObsDt": "2024-12-16 12:14",
     "numSpeciesAllTime": 81
   },
   {
@@ -3568,7 +3568,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2553106,
     "lng": 121.2504172,
-    "latestObsDt": "2024-12-01 14:28",
+    "latestObsDt": "2024-12-16 10:08",
     "numSpeciesAllTime": 104
   },
   {
@@ -3730,6 +3730,14 @@
     "lng": 120.6387824,
     "latestObsDt": "2024-11-24 16:56",
     "numSpeciesAllTime": 33
+  },
+  {
+    "locId": "L38581959",
+    "locName": "台中--立法院民主議政園區(Taichung--Democratic Assembly Affairs Park)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TXG",
+    "lat": 24.0541972,
+    "lng": 120.6982855
   },
   {
     "locId": "L17471929",
@@ -3908,8 +3916,16 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.0517094,
     "lng": 120.7023306,
-    "latestObsDt": "2024-12-13 12:55",
+    "latestObsDt": "2024-12-16 13:17",
     "numSpeciesAllTime": 68
+  },
+  {
+    "locId": "L21522815",
+    "locName": "台中--霧峰北峰橋(Taichung--Wufeng Beifeng Bridge)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TXG",
+    "lat": 24.0707944,
+    "lng": 120.6912052
   },
   {
     "locId": "L17373792",
@@ -3960,6 +3976,14 @@
     "lng": 120.7813025,
     "latestObsDt": "2024-12-05 15:35",
     "numSpeciesAllTime": 121
+  },
+  {
+    "locId": "L38084391",
+    "locName": "台中--頭汴坑溪立中段(Taichung--Toubiankeng River Lizhong Section)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TXG",
+    "lat": 24.1001782,
+    "lng": 120.6980335
   },
   {
     "locId": "L22518565",
@@ -4018,7 +4042,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.1568648,
     "lng": 120.6656246,
-    "latestObsDt": "2024-11-09 09:43",
+    "latestObsDt": "2024-12-16 10:30",
     "numSpeciesAllTime": 59
   },
   {
@@ -4058,7 +4082,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2269905,
     "lng": 120.8942688,
-    "latestObsDt": "2024-11-30 08:23",
+    "latestObsDt": "2024-12-15 16:45",
     "numSpeciesAllTime": 104
   },
   {
@@ -4070,6 +4094,14 @@
     "lng": 120.9794766,
     "latestObsDt": "2024-12-14 14:09",
     "numSpeciesAllTime": 129
+  },
+  {
+    "locId": "L38438775",
+    "locName": "台中大雪山IBA--大雪山220林道(Dasyueshan IBA--Dasyueshan 220 Forest-Road)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TXG",
+    "lat": 24.2587128,
+    "lng": 120.9920544
   },
   {
     "locId": "L4642766",
@@ -4148,7 +4180,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2451542,
     "lng": 120.9300697,
-    "latestObsDt": "2024-12-14 16:37",
+    "latestObsDt": "2024-12-15 15:59",
     "numSpeciesAllTime": 88
   },
   {
@@ -4198,7 +4230,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2281803,
     "lng": 120.9778619,
-    "latestObsDt": "2024-12-14 15:14",
+    "latestObsDt": "2024-12-15 08:17",
     "numSpeciesAllTime": 101
   },
   {
@@ -4288,7 +4320,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2460188,
     "lng": 120.9561696,
-    "latestObsDt": "2024-09-06 09:59",
+    "latestObsDt": "2024-12-15 08:06",
     "numSpeciesAllTime": 193
   },
   {
@@ -4308,7 +4340,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2827532,
     "lng": 121.0275149,
-    "latestObsDt": "2024-12-14 09:21",
+    "latestObsDt": "2024-12-16 08:35",
     "numSpeciesAllTime": 78
   },
   {
@@ -4338,8 +4370,8 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2424277,
     "lng": 120.8628956,
-    "latestObsDt": "2024-12-13 14:49",
-    "numSpeciesAllTime": 77
+    "latestObsDt": "2024-12-16 09:06",
+    "numSpeciesAllTime": 79
   },
   {
     "locId": "L3204811",
@@ -4348,7 +4380,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2441848,
     "lng": 120.9752089,
-    "latestObsDt": "2024-12-05 14:41",
+    "latestObsDt": "2024-12-15 11:45",
     "numSpeciesAllTime": 120
   },
   {
@@ -4378,7 +4410,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2392182,
     "lng": 120.9095398,
-    "latestObsDt": "2024-12-14 16:22",
+    "latestObsDt": "2024-12-16 06:18",
     "numSpeciesAllTime": 158
   },
   {
@@ -4458,8 +4490,8 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.3104351,
     "lng": 120.5460069,
-    "latestObsDt": "2024-12-10 06:53",
-    "numSpeciesAllTime": 254
+    "latestObsDt": "2024-12-16 12:33",
+    "numSpeciesAllTime": 256
   },
   {
     "locId": "L14200147",
@@ -5308,7 +5340,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0873776,
     "lng": 121.6225829,
-    "latestObsDt": "2024-12-15 14:08",
+    "latestObsDt": "2024-12-15 15:04",
     "numSpeciesAllTime": 69
   },
   {
@@ -5468,8 +5500,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.1667169,
     "lng": 121.4097473,
-    "latestObsDt": "2024-12-08 08:04",
-    "numSpeciesAllTime": 139
+    "latestObsDt": "2024-12-14 09:53",
+    "numSpeciesAllTime": 143
   },
   {
     "locId": "L12499004",
@@ -5488,8 +5520,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.1604488,
     "lng": 121.4313483,
-    "latestObsDt": "2024-11-20 12:23",
-    "numSpeciesAllTime": 56
+    "latestObsDt": "2024-12-15 15:22",
+    "numSpeciesAllTime": 58
   },
   {
     "locId": "L11781141",
@@ -5648,7 +5680,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1280927,
     "lng": 121.477654,
-    "latestObsDt": "2024-12-15 11:58",
+    "latestObsDt": "2024-12-15 13:05",
     "numSpeciesAllTime": 177
   },
   {
@@ -5658,7 +5690,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.131111,
     "lng": 121.4749704,
-    "latestObsDt": "2024-12-10 11:30",
+    "latestObsDt": "2024-12-15 15:28",
     "numSpeciesAllTime": 137
   },
   {
@@ -5808,7 +5840,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1293557,
     "lng": 121.4884579,
-    "latestObsDt": "2024-12-15 08:18",
+    "latestObsDt": "2024-12-15 16:30",
     "numSpeciesAllTime": 217
   },
   {
@@ -5820,6 +5852,14 @@
     "lng": 121.510073,
     "latestObsDt": "2024-12-09 17:53",
     "numSpeciesAllTime": 47
+  },
+  {
+    "locId": "L38520980",
+    "locName": "台北--北投長安公園(Taipei--Beitou Changan Park)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TPE",
+    "lat": 25.135321,
+    "lng": 121.500396
   },
   {
     "locId": "L2383528",
@@ -6112,6 +6152,14 @@
     "numSpeciesAllTime": 64
   },
   {
+    "locId": "L38569383",
+    "locName": "台北--台北大學法律學院(Taipei--National Taipei University College of Law)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TPQ",
+    "lat": 24.94436,
+    "lng": 121.3723759
+  },
+  {
     "locId": "L3960797",
     "locName": "台北--台北市政府市民廣場(Taipei--Taipei City Hall Plaza)",
     "countryCode": "TW",
@@ -6148,7 +6196,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0319891,
     "lng": 121.509347,
-    "latestObsDt": "2024-12-14 15:11",
+    "latestObsDt": "2024-12-15 16:26",
     "numSpeciesAllTime": 210
   },
   {
@@ -6408,7 +6456,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 24.9868906,
     "lng": 121.5758924,
-    "latestObsDt": "2024-12-13 06:31",
+    "latestObsDt": "2024-12-15 08:27",
     "numSpeciesAllTime": 101
   },
   {
@@ -6488,8 +6536,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0141787,
     "lng": 121.5282619,
-    "latestObsDt": "2024-12-12 12:26",
-    "numSpeciesAllTime": 45
+    "latestObsDt": "2024-12-16 12:42",
+    "numSpeciesAllTime": 46
   },
   {
     "locId": "L18471508",
@@ -6668,7 +6716,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.9613268,
     "lng": 121.7167253,
-    "latestObsDt": "2024-12-14 08:12",
+    "latestObsDt": "2024-12-15 12:00",
     "numSpeciesAllTime": 50
   },
   {
@@ -6748,7 +6796,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0568664,
     "lng": 121.6229171,
-    "latestObsDt": "2024-12-13 09:05",
+    "latestObsDt": "2024-12-16 09:07",
     "numSpeciesAllTime": 90
   },
   {
@@ -6918,7 +6966,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0299282,
     "lng": 121.5361476,
-    "latestObsDt": "2024-12-15 15:23",
+    "latestObsDt": "2024-12-16 12:00",
     "numSpeciesAllTime": 158
   },
   {
@@ -6988,8 +7036,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0823729,
     "lng": 121.602838,
-    "latestObsDt": "2024-12-15 10:02",
-    "numSpeciesAllTime": 105
+    "latestObsDt": "2024-12-15 15:40",
+    "numSpeciesAllTime": 107
   },
   {
     "locId": "L14877959",
@@ -7060,6 +7108,14 @@
     "lng": 121.5156084,
     "latestObsDt": "2024-04-27 18:50",
     "numSpeciesAllTime": 16
+  },
+  {
+    "locId": "L38535913",
+    "locName": "台北--天山公園(Taipei--Tianshan Park)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TPQ",
+    "lat": 24.987069,
+    "lng": 121.517309
   },
   {
     "locId": "L14619152",
@@ -7312,6 +7368,14 @@
     "numSpeciesAllTime": 16
   },
   {
+    "locId": "L38367800",
+    "locName": "台北--師大附中(Taipei--The Affiliated Senior High School of National Taiwan Normal University)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TPE",
+    "lat": 25.0343466,
+    "lng": 121.5406322
+  },
+  {
     "locId": "L13654435",
     "locName": "台北--平安公園(Taipei--Ping'an Park)",
     "countryCode": "TW",
@@ -7428,8 +7492,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0530972,
     "lng": 121.5397055,
-    "latestObsDt": "2024-04-20 14:22",
-    "numSpeciesAllTime": 14
+    "latestObsDt": "2024-12-16 09:22",
+    "numSpeciesAllTime": 16
   },
   {
     "locId": "L18065570",
@@ -7738,7 +7802,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0063322,
     "lng": 121.5591531,
-    "latestObsDt": "2024-12-08 10:03",
+    "latestObsDt": "2024-12-06 10:03",
     "numSpeciesAllTime": 29
   },
   {
@@ -7838,7 +7902,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.8874331,
     "lng": 121.5692139,
-    "latestObsDt": "2024-12-06 08:12",
+    "latestObsDt": "2024-12-14 06:03",
     "numSpeciesAllTime": 180
   },
   {
@@ -7848,7 +7912,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.9029629,
     "lng": 121.5581589,
-    "latestObsDt": "2024-12-14 12:46",
+    "latestObsDt": "2024-12-16 06:55",
     "numSpeciesAllTime": 139
   },
   {
@@ -7882,6 +7946,14 @@
     "numSpeciesAllTime": 115
   },
   {
+    "locId": "L34913938",
+    "locName": "台北--新店平廣(Taipei--Xindian Pingguan)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TPQ",
+    "lat": 24.8989371,
+    "lng": 121.5313851
+  },
+  {
     "locId": "L3734518",
     "locName": "台北--新店平廣路一段370巷(Taipei--Xindian Ln. 370, Sec. 1, Pingguang Rd.)",
     "countryCode": "TW",
@@ -7898,7 +7970,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.9130912,
     "lng": 121.5363461,
-    "latestObsDt": "2024-12-15 09:23",
+    "latestObsDt": "2024-12-16 07:21",
     "numSpeciesAllTime": 133
   },
   {
@@ -7918,7 +7990,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.9139177,
     "lng": 121.5331468,
-    "latestObsDt": "2024-12-03 08:16",
+    "latestObsDt": "2024-12-16 10:17",
     "numSpeciesAllTime": 66
   },
   {
@@ -8218,7 +8290,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.040903,
     "lng": 121.4492172,
-    "latestObsDt": "2024-12-14 12:03",
+    "latestObsDt": "2024-12-16 08:01",
     "numSpeciesAllTime": 49
   },
   {
@@ -9448,7 +9520,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.9851186,
     "lng": 121.604273,
-    "latestObsDt": "2024-12-06 08:51",
+    "latestObsDt": "2024-12-08 08:51",
     "numSpeciesAllTime": 77
   },
   {
@@ -9528,8 +9600,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.8173469,
     "lng": 121.5161276,
-    "latestObsDt": "2024-04-20 08:00",
-    "numSpeciesAllTime": 88
+    "latestObsDt": "2024-12-16 09:47",
+    "numSpeciesAllTime": 89
   },
   {
     "locId": "L18199119",
@@ -9688,8 +9760,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.7808185,
     "lng": 121.5034228,
-    "latestObsDt": "2024-07-16 11:30",
-    "numSpeciesAllTime": 33
+    "latestObsDt": "2024-12-16 10:14",
+    "numSpeciesAllTime": 35
   },
   {
     "locId": "L31288451",
@@ -9838,7 +9910,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.0193121,
     "lng": 121.923236,
-    "latestObsDt": "2024-12-14 13:15",
+    "latestObsDt": "2024-12-15 14:50",
     "numSpeciesAllTime": 362
   },
   {
@@ -10078,8 +10150,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1135025,
     "lng": 121.4901853,
-    "latestObsDt": "2024-12-14 15:48",
-    "numSpeciesAllTime": 154
+    "latestObsDt": "2024-12-15 16:30",
+    "numSpeciesAllTime": 155
   },
   {
     "locId": "L14861918",
@@ -10328,7 +10400,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.9116316,
     "lng": 121.5785322,
-    "latestObsDt": "2024-12-07 09:10",
+    "latestObsDt": "2024-12-14 14:35",
     "numSpeciesAllTime": 106
   },
   {
@@ -10818,8 +10890,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0684495,
     "lng": 121.5698396,
-    "latestObsDt": "2024-12-12 11:02",
-    "numSpeciesAllTime": 97
+    "latestObsDt": "2024-12-13 06:41",
+    "numSpeciesAllTime": 98
   },
   {
     "locId": "L5569956",
@@ -10968,8 +11040,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.0159652,
     "lng": 121.9184268,
-    "latestObsDt": "2024-12-15 14:17",
-    "numSpeciesAllTime": 264
+    "latestObsDt": "2024-12-15 16:29",
+    "numSpeciesAllTime": 265
   },
   {
     "locId": "L6235137",
@@ -11200,6 +11272,14 @@
     "lng": 121.5200704,
     "latestObsDt": "2024-11-26 14:40",
     "numSpeciesAllTime": 8
+  },
+  {
+    "locId": "L37492880",
+    "locName": "台北--遠東香榭大道(Taipei--Far East Champs Elysées)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TPQ",
+    "lat": 24.99873,
+    "lng": 121.454888
   },
   {
     "locId": "L11469872",
@@ -11828,8 +11908,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.1634768,
     "lng": 121.4184994,
-    "latestObsDt": "2024-09-14 07:21",
-    "numSpeciesAllTime": 69
+    "latestObsDt": "2024-12-15 16:00",
+    "numSpeciesAllTime": 71
   },
   {
     "locId": "L3891366",
@@ -12088,8 +12168,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1182626,
     "lng": 121.470058,
-    "latestObsDt": "2024-12-14 15:50",
-    "numSpeciesAllTime": 247
+    "latestObsDt": "2024-12-15 14:00",
+    "numSpeciesAllTime": 248
   },
   {
     "locId": "L9951200",
@@ -12482,6 +12562,14 @@
     "numSpeciesAllTime": 109
   },
   {
+    "locId": "L38241699",
+    "locName": "台南--十鼓文創園區(Tainan--Ten Drums Cultural and Creative Park)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TNN",
+    "lat": 22.9391764,
+    "lng": 120.231325
+  },
+  {
     "locId": "L19488542",
     "locName": "台南--南元花園休閒農場(Tainan--Nan Yuan Garden Resort Farm)",
     "countryCode": "TW",
@@ -12508,8 +12596,8 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.2197746,
     "lng": 120.4982786,
-    "latestObsDt": "2024-05-24 09:51",
-    "numSpeciesAllTime": 45
+    "latestObsDt": "2024-12-16 10:41",
+    "numSpeciesAllTime": 47
   },
   {
     "locId": "L17630847",
@@ -12686,7 +12774,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 22.9839253,
     "lng": 120.2077413,
-    "latestObsDt": "2024-12-15 11:54",
+    "latestObsDt": "2024-12-16 12:39",
     "numSpeciesAllTime": 62
   },
   {
@@ -12716,7 +12804,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.0588912,
     "lng": 120.2352033,
-    "latestObsDt": "2024-12-10 12:09",
+    "latestObsDt": "2024-12-16 12:07",
     "numSpeciesAllTime": 95
   },
   {
@@ -12866,7 +12954,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.0044805,
     "lng": 120.1598167,
-    "latestObsDt": "2024-11-18 09:09",
+    "latestObsDt": "2024-12-15 14:43",
     "numSpeciesAllTime": 84
   },
   {
@@ -12896,7 +12984,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.0468156,
     "lng": 120.1050067,
-    "latestObsDt": "2024-12-14 06:50",
+    "latestObsDt": "2024-12-15 07:38",
     "numSpeciesAllTime": 145
   },
   {
@@ -12926,8 +13014,16 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.1829571,
     "lng": 120.3120859,
-    "latestObsDt": "2024-12-15 13:38",
+    "latestObsDt": "2024-12-15 15:23",
     "numSpeciesAllTime": 167
+  },
+  {
+    "locId": "L32093003",
+    "locName": "台南--寮廍里農田(Tainan--Liaobu Village Farmland)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TNN",
+    "lat": 23.2007794,
+    "lng": 120.2805993
   },
   {
     "locId": "L19413210",
@@ -13204,7 +13300,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 22.976688,
     "lng": 120.2098596,
-    "latestObsDt": "2024-12-10 11:09",
+    "latestObsDt": "2024-12-12 10:41",
     "numSpeciesAllTime": 60
   },
   {
@@ -13314,8 +13410,8 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.2331712,
     "lng": 120.507741,
-    "latestObsDt": "2023-07-14 06:26",
-    "numSpeciesAllTime": 39
+    "latestObsDt": "2024-12-16 12:55",
+    "numSpeciesAllTime": 40
   },
   {
     "locId": "L24493727",
@@ -13664,7 +13760,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 22.9894123,
     "lng": 120.2229538,
-    "latestObsDt": "2024-12-14 15:00",
+    "latestObsDt": "2024-12-16 12:18",
     "numSpeciesAllTime": 43
   },
   {
@@ -13764,7 +13860,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 22.9248444,
     "lng": 120.2861434,
-    "latestObsDt": "2024-11-05 05:40",
+    "latestObsDt": "2024-12-16 07:56",
     "numSpeciesAllTime": 79
   },
   {
@@ -13826,6 +13922,14 @@
     "lng": 120.1764396,
     "latestObsDt": "2024-10-14 17:28",
     "numSpeciesAllTime": 41
+  },
+  {
+    "locId": "L38597457",
+    "locName": "台南--黎明高級中學(Tainan--Li Ming High School)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TNN",
+    "lat": 23.1732924,
+    "lng": 120.2470833
   },
   {
     "locId": "L17754307",
@@ -14232,7 +14336,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.0344197,
     "lng": 120.0872422,
-    "latestObsDt": "2024-12-15 07:38",
+    "latestObsDt": "2024-12-10 09:09",
     "numSpeciesAllTime": 125
   },
   {
@@ -14242,7 +14346,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.0197477,
     "lng": 120.1351413,
-    "latestObsDt": "2024-12-05 11:08",
+    "latestObsDt": "2024-12-16 08:41",
     "numSpeciesAllTime": 115
   },
   {
@@ -14782,7 +14886,7 @@
     "subnational1Code": "TW-TTT",
     "lat": 22.7352127,
     "lng": 121.0681044,
-    "latestObsDt": "2024-12-13 07:00",
+    "latestObsDt": "2024-12-16 07:00",
     "numSpeciesAllTime": 102
   },
   {
@@ -16282,7 +16386,7 @@
     "subnational1Code": "TW-CYI",
     "lat": 23.4674783,
     "lng": 120.485666,
-    "latestObsDt": "2024-12-13 14:47",
+    "latestObsDt": "2024-12-16 09:16",
     "numSpeciesAllTime": 66
   },
   {
@@ -16302,7 +16406,7 @@
     "subnational1Code": "TW-CYI",
     "lat": 23.47149,
     "lng": 120.48425,
-    "latestObsDt": "2024-12-13 08:33",
+    "latestObsDt": "2024-12-16 10:31",
     "numSpeciesAllTime": 89
   },
   {
@@ -16312,7 +16416,7 @@
     "subnational1Code": "TW-CYI",
     "lat": 23.4715748,
     "lng": 120.4864662,
-    "latestObsDt": "2024-12-14 10:44",
+    "latestObsDt": "2024-12-16 11:39",
     "numSpeciesAllTime": 115
   },
   {
@@ -16322,7 +16426,7 @@
     "subnational1Code": "TW-CYI",
     "lat": 23.4635225,
     "lng": 120.4833219,
-    "latestObsDt": "2024-12-14 11:11",
+    "latestObsDt": "2024-12-16 11:54",
     "numSpeciesAllTime": 63
   },
   {
@@ -16962,7 +17066,7 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.4485821,
     "lng": 120.1359935,
-    "latestObsDt": "2024-12-13 07:30",
+    "latestObsDt": "2024-12-15 09:00",
     "numSpeciesAllTime": 61
   },
   {
@@ -17650,7 +17754,7 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.4460831,
     "lng": 120.2827641,
-    "latestObsDt": "2024-12-02 07:36",
+    "latestObsDt": "2024-12-16 08:56",
     "numSpeciesAllTime": 79
   },
   {
@@ -17790,7 +17894,7 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.5105403,
     "lng": 120.8039387,
-    "latestObsDt": "2024-11-20 10:30",
+    "latestObsDt": "2024-12-08 07:00",
     "numSpeciesAllTime": 149
   },
   {
@@ -18560,7 +18664,7 @@
     "subnational1Code": "TW-KEE",
     "lat": 25.1618302,
     "lng": 121.7644837,
-    "latestObsDt": "2024-10-16 09:43",
+    "latestObsDt": "2024-12-16 08:22",
     "numSpeciesAllTime": 101
   },
   {
@@ -18590,7 +18694,7 @@
     "subnational1Code": "TW-KEE",
     "lat": 25.140217,
     "lng": 121.7986327,
-    "latestObsDt": "2024-10-18 08:06",
+    "latestObsDt": "2024-12-15 13:08",
     "numSpeciesAllTime": 76
   },
   {
@@ -18870,7 +18974,7 @@
     "subnational1Code": "TW-KEE",
     "lat": 25.1388045,
     "lng": 121.7479134,
-    "latestObsDt": "2024-11-14 07:18",
+    "latestObsDt": "2024-12-16 08:48",
     "numSpeciesAllTime": 81
   },
   {
@@ -18880,8 +18984,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9976098,
     "lng": 120.8696656,
-    "latestObsDt": "2024-12-15 10:52",
-    "numSpeciesAllTime": 17
+    "latestObsDt": "2024-12-15 15:07",
+    "numSpeciesAllTime": 23
   },
   {
     "locId": "L2404423",
@@ -18910,7 +19014,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 22.0871413,
     "lng": 120.8648393,
-    "latestObsDt": "2024-12-15 06:54",
+    "latestObsDt": "2024-12-15 09:42",
     "numSpeciesAllTime": 77
   },
   {
@@ -18940,8 +19044,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9210659,
     "lng": 120.8430833,
-    "latestObsDt": "2024-12-10 10:32",
-    "numSpeciesAllTime": 97
+    "latestObsDt": "2024-12-15 12:49",
+    "numSpeciesAllTime": 101
   },
   {
     "locId": "L27483167",
@@ -18950,8 +19054,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9485132,
     "lng": 120.7802287,
-    "latestObsDt": "2024-12-14 20:52",
-    "numSpeciesAllTime": 38
+    "latestObsDt": "2024-12-15 15:53",
+    "numSpeciesAllTime": 39
   },
   {
     "locId": "L6985414",
@@ -18970,8 +19074,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9516783,
     "lng": 120.7939026,
-    "latestObsDt": "2024-12-02 15:13",
-    "numSpeciesAllTime": 76
+    "latestObsDt": "2024-12-16 08:15",
+    "numSpeciesAllTime": 78
   },
   {
     "locId": "L6275617",
@@ -19000,7 +19104,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9493569,
     "lng": 120.747571,
-    "latestObsDt": "2024-10-09 17:42",
+    "latestObsDt": "2024-11-03 15:17",
     "numSpeciesAllTime": 57
   },
   {
@@ -19050,8 +19154,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9906966,
     "lng": 120.8401782,
-    "latestObsDt": "2024-12-15 09:38",
-    "numSpeciesAllTime": 114
+    "latestObsDt": "2024-12-15 14:44",
+    "numSpeciesAllTime": 115
   },
   {
     "locId": "L2973209",
@@ -19070,7 +19174,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 22.0244186,
     "lng": 120.8396404,
-    "latestObsDt": "2024-10-13 15:49",
+    "latestObsDt": "2024-12-15 06:24",
     "numSpeciesAllTime": 42
   },
   {
@@ -19090,8 +19194,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 22.0200428,
     "lng": 120.8494404,
-    "latestObsDt": "2024-10-12 15:32",
-    "numSpeciesAllTime": 17
+    "latestObsDt": "2024-10-13 05:28",
+    "numSpeciesAllTime": 19
   },
   {
     "locId": "L3769682",
@@ -19140,8 +19244,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9456132,
     "lng": 120.7850045,
-    "latestObsDt": "2024-01-06 10:00",
-    "numSpeciesAllTime": 51
+    "latestObsDt": "2024-12-15 15:30",
+    "numSpeciesAllTime": 52
   },
   {
     "locId": "L2381828",
@@ -19200,8 +19304,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9311827,
     "lng": 120.8238602,
-    "latestObsDt": "2024-12-10 10:52",
-    "numSpeciesAllTime": 49
+    "latestObsDt": "2024-12-15 07:06",
+    "numSpeciesAllTime": 51
   },
   {
     "locId": "L17629726",
@@ -19220,8 +19324,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9964109,
     "lng": 120.7055546,
-    "latestObsDt": "2024-09-14 13:36",
-    "numSpeciesAllTime": 53
+    "latestObsDt": "2024-12-15 13:06",
+    "numSpeciesAllTime": 54
   },
   {
     "locId": "L3166006",
@@ -19240,8 +19344,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 22.04976,
     "lng": 120.7040667,
-    "latestObsDt": "2024-12-15 09:16",
-    "numSpeciesAllTime": 55
+    "latestObsDt": "2024-12-15 14:19",
+    "numSpeciesAllTime": 57
   },
   {
     "locId": "L3166618",
@@ -19264,6 +19368,14 @@
     "numSpeciesAllTime": 54
   },
   {
+    "locId": "L38218345",
+    "locName": "墾丁NP--風吹沙(Kengting NP-- Fengchuisha)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-PIF",
+    "lat": 21.9471788,
+    "lng": 120.8387939
+  },
+  {
     "locId": "L1758164",
     "locName": "墾丁NP--鵝鑾鼻公園(Kenting NP--Eluanbi Park)",
     "countryCode": "TW",
@@ -19271,7 +19383,7 @@
     "lat": 21.9012881,
     "lng": 120.8505802,
     "latestObsDt": "2024-12-15 14:19",
-    "numSpeciesAllTime": 92
+    "numSpeciesAllTime": 93
   },
   {
     "locId": "L9642878",
@@ -19291,7 +19403,7 @@
     "lat": 21.9028155,
     "lng": 120.8557248,
     "latestObsDt": "2024-12-15 12:48",
-    "numSpeciesAllTime": 88
+    "numSpeciesAllTime": 89
   },
   {
     "locId": "L4938689",
@@ -19300,7 +19412,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9831536,
     "lng": 120.7329085,
-    "latestObsDt": "2024-12-12 09:09",
+    "latestObsDt": "2024-12-15 14:29",
     "numSpeciesAllTime": 134
   },
   {
@@ -19340,7 +19452,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9694481,
     "lng": 120.7490272,
-    "latestObsDt": "2024-12-15 11:25",
+    "latestObsDt": "2024-12-16 08:42",
     "numSpeciesAllTime": 144
   },
   {
@@ -19350,8 +19462,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9747973,
     "lng": 120.7509965,
-    "latestObsDt": "2024-12-15 10:00",
-    "numSpeciesAllTime": 59
+    "latestObsDt": "2024-12-15 13:16",
+    "numSpeciesAllTime": 61
   },
   {
     "locId": "L4938687",
@@ -19360,7 +19472,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9750842,
     "lng": 120.7393652,
-    "latestObsDt": "2024-12-11 12:53",
+    "latestObsDt": "2024-12-15 15:05",
     "numSpeciesAllTime": 146
   },
   {
@@ -19400,7 +19512,7 @@
     "subnational1Code": "TW-CHA",
     "lat": 24.1644444,
     "lng": 120.4647222,
-    "latestObsDt": "2024-12-07 11:20",
+    "latestObsDt": "2024-12-15 16:00",
     "numSpeciesAllTime": 114
   },
   {
@@ -19620,7 +19732,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 24.140527,
     "lng": 121.2760162,
-    "latestObsDt": "2024-12-01 00:00",
+    "latestObsDt": "2024-12-15 08:45",
     "numSpeciesAllTime": 122
   },
   {
@@ -19950,6 +20062,14 @@
     "lng": 121.3882207,
     "latestObsDt": "2024-11-14 09:17",
     "numSpeciesAllTime": 75
+  },
+  {
+    "locId": "L37705269",
+    "locName": "太魯閣NP--慈雲瀑布(Taroko NP--Ciyun Falls)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-HUA",
+    "lat": 24.2123204,
+    "lng": 121.4297444
   },
   {
     "locId": "L11936296",
@@ -20449,7 +20569,7 @@
     "lat": 24.6446719,
     "lng": 121.7103651,
     "latestObsDt": "2024-12-14 12:03",
-    "numSpeciesAllTime": 116
+    "numSpeciesAllTime": 117
   },
   {
     "locId": "L2973314",
@@ -20558,7 +20678,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.4678977,
     "lng": 121.7935994,
-    "latestObsDt": "2024-12-14 08:36",
+    "latestObsDt": "2024-12-16 11:10",
     "numSpeciesAllTime": 142
   },
   {
@@ -21040,6 +21160,14 @@
     "lng": 121.4408262,
     "latestObsDt": "2024-08-24 10:46",
     "numSpeciesAllTime": 53
+  },
+  {
+    "locId": "L38466047",
+    "locName": "宜蘭--大同國民中學(Ilan--Datong Junior High School)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-ILA",
+    "lat": 24.5758555,
+    "lng": 121.4816291
   },
   {
     "locId": "L25315363",
@@ -21888,7 +22016,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.5823,
     "lng": 121.86662,
-    "latestObsDt": "2024-11-22 15:30",
+    "latestObsDt": "2024-12-15 13:15",
     "numSpeciesAllTime": 58
   },
   {
@@ -21998,7 +22126,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.6392743,
     "lng": 121.8430191,
-    "latestObsDt": "2024-12-09 16:53",
+    "latestObsDt": "2024-12-15 15:45",
     "numSpeciesAllTime": 264
   },
   {
@@ -22098,7 +22226,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.6599371,
     "lng": 121.8184608,
-    "latestObsDt": "2024-12-12 17:13",
+    "latestObsDt": "2024-12-16 08:58",
     "numSpeciesAllTime": 251
   },
   {
@@ -22189,7 +22317,7 @@
     "lat": 24.8230874,
     "lng": 121.8084384,
     "latestObsDt": "2024-12-15 10:24",
-    "numSpeciesAllTime": 227
+    "numSpeciesAllTime": 228
   },
   {
     "locId": "L7205139",
@@ -22228,7 +22356,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.8461175,
     "lng": 121.8149042,
-    "latestObsDt": "2024-12-14 14:50",
+    "latestObsDt": "2024-12-15 11:43",
     "numSpeciesAllTime": 162
   },
   {
@@ -22308,7 +22436,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.7211099,
     "lng": 121.8077428,
-    "latestObsDt": "2024-12-15 12:59",
+    "latestObsDt": "2024-12-15 14:22",
     "numSpeciesAllTime": 233
   },
   {
@@ -22658,7 +22786,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 22.6445117,
     "lng": 120.6114721,
-    "latestObsDt": "2024-12-14 12:09",
+    "latestObsDt": "2024-12-15 16:39",
     "numSpeciesAllTime": 185
   },
   {
@@ -22738,8 +22866,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 22.0171688,
     "lng": 120.7070596,
-    "latestObsDt": "2024-12-15 07:53",
-    "numSpeciesAllTime": 45
+    "latestObsDt": "2024-12-15 15:00",
+    "numSpeciesAllTime": 50
   },
   {
     "locId": "L17091708",
@@ -22748,7 +22876,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 22.0012069,
     "lng": 120.7315649,
-    "latestObsDt": "2024-12-15 06:28",
+    "latestObsDt": "2024-12-15 16:17",
     "numSpeciesAllTime": 95
   },
   {
@@ -23082,6 +23210,14 @@
     "numSpeciesAllTime": 24
   },
   {
+    "locId": "L37252417",
+    "locName": "屏東--獅子楓林(Pingtung--Shihzi Fenglin)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-PIF",
+    "lat": 22.2018489,
+    "lng": 120.7053924
+  },
+  {
     "locId": "L1758224",
     "locName": "屏東--獅子頭溪口(Pingtung--Shizitou River Mouth)",
     "countryCode": "TW",
@@ -23188,8 +23324,8 @@
     "subnational1Code": "TW-PIF",
     "lat": 22.7201131,
     "lng": 120.5150142,
-    "latestObsDt": "2024-09-09 07:11",
-    "numSpeciesAllTime": 100
+    "latestObsDt": "2024-12-16 10:41",
+    "numSpeciesAllTime": 101
   },
   {
     "locId": "L27801854",
@@ -23318,7 +23454,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 21.9835415,
     "lng": 120.7449599,
-    "latestObsDt": "2024-12-15 08:56",
+    "latestObsDt": "2024-12-15 12:07",
     "numSpeciesAllTime": 134
   },
   {
@@ -23608,7 +23744,7 @@
     "subnational1Code": "TW-CHA",
     "lat": 24.081821,
     "lng": 120.5353727,
-    "latestObsDt": "2024-11-21 09:05",
+    "latestObsDt": "2024-12-16 09:37",
     "numSpeciesAllTime": 20
   },
   {
@@ -23918,7 +24054,7 @@
     "subnational1Code": "TW-CHA",
     "lat": 24.0119141,
     "lng": 120.3552105,
-    "latestObsDt": "2024-12-09 11:23",
+    "latestObsDt": "2024-12-16 11:47",
     "numSpeciesAllTime": 122
   },
   {
@@ -24232,13 +24368,21 @@
     "numSpeciesAllTime": 46
   },
   {
+    "locId": "L38500505",
+    "locName": "新竹--寶山水庫全區(Xinchu--Baoshan Reservoir/Dam)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-HSQ",
+    "lat": 24.747151,
+    "lng": 121.044298
+  },
+  {
     "locId": "L28171326",
     "locName": "新竹--尖石和解廣場(Hsinchu--Jianshi Hejie Square)",
     "countryCode": "TW",
     "subnational1Code": "TW-HSQ",
     "lat": 24.6496305,
     "lng": 121.2849855,
-    "latestObsDt": "2024-11-21 12:26",
+    "latestObsDt": "2024-12-15 12:44",
     "numSpeciesAllTime": 43
   },
   {
@@ -24398,7 +24542,7 @@
     "subnational1Code": "TW-HSQ",
     "lat": 24.6944722,
     "lng": 121.3154617,
-    "latestObsDt": "2024-11-10 09:56",
+    "latestObsDt": "2024-12-15 16:06",
     "numSpeciesAllTime": 85
   },
   {
@@ -24898,7 +25042,7 @@
     "subnational1Code": "TW-HSZ",
     "lat": 24.806472,
     "lng": 120.9706253,
-    "latestObsDt": "2024-09-06 09:38",
+    "latestObsDt": "2024-12-15 16:50",
     "numSpeciesAllTime": 27
   },
   {
@@ -24992,6 +25136,14 @@
     "numSpeciesAllTime": 89
   },
   {
+    "locId": "L38325939",
+    "locName": "新竹--馬胎(Hsinchu--Matai)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-HSQ",
+    "lat": 24.6971932,
+    "lng": 121.1890958
+  },
+  {
     "locId": "L9715173",
     "locName": "新竹--高鐵新竹站(Hsinchu--THSR Hsinchu Station)",
     "countryCode": "TW",
@@ -25058,7 +25210,7 @@
     "subnational1Code": "TW-HSZ",
     "lat": 24.8249477,
     "lng": 120.9196016,
-    "latestObsDt": "2024-12-13 13:07",
+    "latestObsDt": "2024-12-15 10:17",
     "numSpeciesAllTime": 321
   },
   {
@@ -25078,7 +25230,7 @@
     "subnational1Code": "TW-HSZ",
     "lat": 24.8110443,
     "lng": 120.910635,
-    "latestObsDt": "2024-12-15 07:06",
+    "latestObsDt": "2024-12-15 15:49",
     "numSpeciesAllTime": 268
   },
   {
@@ -25888,7 +26040,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.96575,
     "lng": 121.27216,
-    "latestObsDt": "2024-11-11 12:48",
+    "latestObsDt": "2024-12-15 16:57",
     "numSpeciesAllTime": 42
   },
   {
@@ -25898,8 +26050,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.92205,
     "lng": 121.28062,
-    "latestObsDt": "2024-11-14 07:15",
-    "numSpeciesAllTime": 31
+    "latestObsDt": "2024-12-16 07:22",
+    "numSpeciesAllTime": 34
   },
   {
     "locId": "L6669100",
@@ -25908,7 +26060,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.95909,
     "lng": 121.28142,
-    "latestObsDt": "2024-11-10 16:44",
+    "latestObsDt": "2024-12-15 15:48",
     "numSpeciesAllTime": 26
   },
   {
@@ -25928,8 +26080,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.91377,
     "lng": 121.25563,
-    "latestObsDt": "2024-11-11 06:00",
-    "numSpeciesAllTime": 44
+    "latestObsDt": "2024-12-16 10:00",
+    "numSpeciesAllTime": 45
   },
   {
     "locId": "L4347392",
@@ -26758,8 +26910,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.886745,
     "lng": 121.2666317,
-    "latestObsDt": "2024-11-14 12:29",
-    "numSpeciesAllTime": 23
+    "latestObsDt": "2024-12-16 13:34",
+    "numSpeciesAllTime": 24
   },
   {
     "locId": "L6714036",
@@ -26768,8 +26920,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.8938612,
     "lng": 121.2693697,
-    "latestObsDt": "2024-11-14 12:47",
-    "numSpeciesAllTime": 25
+    "latestObsDt": "2024-12-16 13:12",
+    "numSpeciesAllTime": 26
   },
   {
     "locId": "L6714375",
@@ -27198,7 +27350,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.90695,
     "lng": 121.24583,
-    "latestObsDt": "2024-11-14 10:18",
+    "latestObsDt": "2024-12-16 11:33",
     "numSpeciesAllTime": 38
   },
   {
@@ -27802,6 +27954,14 @@
     "numSpeciesAllTime": 9
   },
   {
+    "locId": "L37817293",
+    "locName": "桃園--會稽國中(Taoyuan--Kuaiji Junior High School)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TAO",
+    "lat": 25.016941,
+    "lng": 121.313937
+  },
+  {
     "locId": "L13209153",
     "locName": "桃園--月眉人工濕地生態公園(Taoyuan--Yuemei Ecoloical Wetland Park)",
     "countryCode": "TW",
@@ -27868,7 +28028,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9477015,
     "lng": 121.0979719,
-    "latestObsDt": "2024-11-25 12:19",
+    "latestObsDt": "2024-12-16 12:58",
     "numSpeciesAllTime": 52
   },
   {
@@ -27878,8 +28038,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.948608,
     "lng": 121.087227,
-    "latestObsDt": "2024-11-25 12:34",
-    "numSpeciesAllTime": 47
+    "latestObsDt": "2024-12-16 13:25",
+    "numSpeciesAllTime": 48
   },
   {
     "locId": "L6748545",
@@ -27988,8 +28148,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9415668,
     "lng": 121.1027329,
-    "latestObsDt": "2024-11-25 08:52",
-    "numSpeciesAllTime": 35
+    "latestObsDt": "2024-12-16 09:20",
+    "numSpeciesAllTime": 37
   },
   {
     "locId": "L6713389",
@@ -28388,8 +28548,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 25.0282548,
     "lng": 121.2892306,
-    "latestObsDt": "2024-10-28 16:19",
-    "numSpeciesAllTime": 25
+    "latestObsDt": "2024-12-15 15:47",
+    "numSpeciesAllTime": 26
   },
   {
     "locId": "L6708819",
@@ -29218,8 +29378,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.983978,
     "lng": 121.3359,
-    "latestObsDt": "2024-10-21 13:06",
-    "numSpeciesAllTime": 7
+    "latestObsDt": "2024-12-16 13:37",
+    "numSpeciesAllTime": 10
   },
   {
     "locId": "L6156019",
@@ -29658,8 +29818,8 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9557027,
     "lng": 121.0904918,
-    "latestObsDt": "2024-11-25 12:48",
-    "numSpeciesAllTime": 18
+    "latestObsDt": "2024-12-16 13:12",
+    "numSpeciesAllTime": 22
   },
   {
     "locId": "L6725595",
@@ -29798,7 +29958,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 25.08236,
     "lng": 121.19792,
-    "latestObsDt": "2024-12-14 07:16",
+    "latestObsDt": "2024-12-15 16:12",
     "numSpeciesAllTime": 206
   },
   {
@@ -29868,7 +30028,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 25.085322,
     "lng": 121.177589,
-    "latestObsDt": "2024-11-30 14:35",
+    "latestObsDt": "2024-12-15 15:22",
     "numSpeciesAllTime": 80
   },
   {
@@ -32298,6 +32458,14 @@
     "numSpeciesAllTime": 31
   },
   {
+    "locId": "L37629317",
+    "locName": "花蓮--玉水圳人工濕地(Hualien--Yushui Zhen Constructed Wetland)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-HUA",
+    "lat": 23.3449768,
+    "lng": 121.3293161
+  },
+  {
     "locId": "L3967427",
     "locName": "花蓮--玉里三民(Hualien--Yuli Sanming)",
     "countryCode": "TW",
@@ -32634,7 +32802,7 @@
     "subnational1Code": "TW-HUA",
     "lat": 23.9785232,
     "lng": 121.617393,
-    "latestObsDt": "2024-11-30 14:19",
+    "latestObsDt": "2024-12-15 16:33",
     "numSpeciesAllTime": 78
   },
   {
@@ -33624,7 +33792,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4744299,
     "lng": 118.2969598,
-    "latestObsDt": "2024-12-10 15:37",
+    "latestObsDt": "2024-12-15 16:01",
     "numSpeciesAllTime": 195
   },
   {
@@ -33634,7 +33802,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4631831,
     "lng": 118.3009482,
-    "latestObsDt": "2024-12-15 13:29",
+    "latestObsDt": "2024-12-15 14:00",
     "numSpeciesAllTime": 183
   },
   {
@@ -33664,7 +33832,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4761716,
     "lng": 118.3099866,
-    "latestObsDt": "2024-12-15 13:09",
+    "latestObsDt": "2024-12-15 15:14",
     "numSpeciesAllTime": 212
   },
   {
@@ -33754,8 +33922,8 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4727207,
     "lng": 118.3235264,
-    "latestObsDt": "2024-12-12 14:03",
-    "numSpeciesAllTime": 196
+    "latestObsDt": "2024-12-16 07:13",
+    "numSpeciesAllTime": 197
   },
   {
     "locId": "L3231689",
@@ -33764,7 +33932,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4282589,
     "lng": 118.3092141,
-    "latestObsDt": "2024-12-13 10:37",
+    "latestObsDt": "2024-12-15 10:32",
     "numSpeciesAllTime": 199
   },
   {
@@ -33774,7 +33942,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4576388,
     "lng": 118.3019185,
-    "latestObsDt": "2024-12-05 10:54",
+    "latestObsDt": "2024-12-15 13:06",
     "numSpeciesAllTime": 156
   },
   {
@@ -33964,7 +34132,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4207352,
     "lng": 118.3138836,
-    "latestObsDt": "2024-12-02 06:30",
+    "latestObsDt": "2024-12-16 08:00",
     "numSpeciesAllTime": 130
   },
   {
@@ -33994,7 +34162,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4273754,
     "lng": 118.3172554,
-    "latestObsDt": "2024-11-28 08:33",
+    "latestObsDt": "2024-12-15 10:06",
     "numSpeciesAllTime": 122
   },
   {
@@ -34254,7 +34422,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.5125991,
     "lng": 118.4233446,
-    "latestObsDt": "2024-12-15 06:38",
+    "latestObsDt": "2024-12-16 11:59",
     "numSpeciesAllTime": 142
   },
   {
@@ -34264,7 +34432,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.5192138,
     "lng": 118.410446,
-    "latestObsDt": "2024-12-11 15:36",
+    "latestObsDt": "2024-12-16 10:56",
     "numSpeciesAllTime": 132
   },
   {
@@ -34554,7 +34722,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.454654,
     "lng": 118.3974132,
-    "latestObsDt": "2024-12-13 08:24",
+    "latestObsDt": "2024-12-16 09:07",
     "numSpeciesAllTime": 191
   },
   {
@@ -34696,6 +34864,14 @@
     "lng": 121.5458627,
     "latestObsDt": "2024-09-26 08:32",
     "numSpeciesAllTime": 33
+  },
+  {
+    "locId": "L38261826",
+    "locName": "陽明山NP--擎天崗(Yangmingshan NP--Qingtiangang)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TPE",
+    "lat": 25.1657754,
+    "lng": 121.5753508
   },
   {
     "locId": "L23042058",
@@ -34944,7 +35120,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.3526485,
     "lng": 121.3099837,
-    "latestObsDt": "2024-12-14 14:55",
+    "latestObsDt": "2024-12-16 08:45",
     "numSpeciesAllTime": 169
   },
   {
@@ -34974,7 +35150,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.3829499,
     "lng": 121.3032836,
-    "latestObsDt": "2024-12-15 10:15",
+    "latestObsDt": "2024-12-15 15:29",
     "numSpeciesAllTime": 104
   },
   {
@@ -35194,7 +35370,7 @@
     "subnational1Code": "TW-YUN",
     "lat": 23.5665239,
     "lng": 120.1656958,
-    "latestObsDt": "2024-12-14 15:03",
+    "latestObsDt": "2024-12-15 15:28",
     "numSpeciesAllTime": 97
   },
   {
@@ -35838,6 +36014,14 @@
     "numSpeciesAllTime": 15
   },
   {
+    "locId": "L38551223",
+    "locName": "雲林--斗六棒球場 (Yunlin--Douliu Baseball Stadium)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-YUN",
+    "lat": 23.7170989,
+    "lng": 120.5360997
+  },
+  {
     "locId": "L4750559",
     "locName": "雲林--斗六石榴班(Yunlin--Douliu Shiliuban)",
     "countryCode": "TW",
@@ -36204,7 +36388,7 @@
     "subnational1Code": "TW-YUN",
     "lat": 23.817178,
     "lng": 120.2351198,
-    "latestObsDt": "2024-12-15 07:24",
+    "latestObsDt": "2024-12-16 09:14",
     "numSpeciesAllTime": 88
   },
   {
@@ -37456,6 +37640,14 @@
     "numSpeciesAllTime": 27
   },
   {
+    "locId": "L37319715",
+    "locName": "高雄--三民親子公園(Kaohsiung--Sanmin Parent-Child Park)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-KHH",
+    "lat": 22.65137,
+    "lng": 120.29594
+  },
+  {
     "locId": "L2663081",
     "locName": "高雄--中央公園(Kaohsiung--Central Park)",
     "countryCode": "TW",
@@ -38050,7 +38242,7 @@
     "subnational1Code": "TW-KHH",
     "lat": 22.7300956,
     "lng": 120.268954,
-    "latestObsDt": "2024-11-24 13:58",
+    "latestObsDt": "2024-12-15 13:57",
     "numSpeciesAllTime": 129
   },
   {
@@ -38120,7 +38312,7 @@
     "subnational1Code": "TW-KHH",
     "lat": 22.5540466,
     "lng": 120.3146014,
-    "latestObsDt": "2024-12-14 06:47",
+    "latestObsDt": "2024-12-16 09:12",
     "numSpeciesAllTime": 244
   },
   {
@@ -38690,8 +38882,8 @@
     "subnational1Code": "TW-KHH",
     "lat": 22.619765,
     "lng": 120.2817804,
-    "latestObsDt": "2024-12-08 13:42",
-    "numSpeciesAllTime": 40
+    "latestObsDt": "2024-12-16 10:00",
+    "numSpeciesAllTime": 41
   },
   {
     "locId": "L27915623",
@@ -38800,7 +38992,7 @@
     "subnational1Code": "TW-KHH",
     "lat": 22.7330049,
     "lng": 120.3106892,
-    "latestObsDt": "2024-12-08 15:33",
+    "latestObsDt": "2024-12-15 15:30",
     "numSpeciesAllTime": 133
   },
   {
@@ -39104,6 +39296,14 @@
     "numSpeciesAllTime": 174
   },
   {
+    "locId": "L38080014",
+    "locName": "高雄永安IBA--永安濕地鹽保路賞鳥站(Yung'an IBA--Yung'an Wetland Yanbao Road)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-KHH",
+    "lat": 22.834024,
+    "lng": 120.2124238
+  },
+  {
     "locId": "L29678923",
     "locName": "高雄永安IBA--永安濕地鹽田區(Yung'an IBA--Yung'an Wetland Salt Pan Area)",
     "countryCode": "TW",
@@ -39190,7 +39390,7 @@
     "subnational1Code": "TW-KHH",
     "lat": 22.8849011,
     "lng": 120.1981886,
-    "latestObsDt": "2024-12-13 07:19",
+    "latestObsDt": "2024-12-16 07:42",
     "numSpeciesAllTime": 165
   },
   {
@@ -40444,7 +40644,7 @@
     "subnational2Code": "JP-11-01",
     "lat": 35.8487872,
     "lng": 139.6053019,
-    "latestObsDt": "2024-12-08 10:46",
+    "latestObsDt": "2024-12-16 07:43",
     "numSpeciesAllTime": 135
   },
   {
@@ -45152,7 +45352,7 @@
     "subnational2Code": "JP-13-02",
     "lat": 35.6681884,
     "lng": 139.7838821,
-    "latestObsDt": "2024-12-15 07:39",
+    "latestObsDt": "2024-12-16 07:45",
     "numSpeciesAllTime": 64
   },
   {
@@ -50459,7 +50659,7 @@
     "subnational2Code": "JP-41-01",
     "lat": 33.177359,
     "lng": 130.265493,
-    "latestObsDt": "2024-12-01 15:08",
+    "latestObsDt": "2024-12-15 09:00",
     "numSpeciesAllTime": 166
   },
   {
@@ -50470,8 +50670,8 @@
     "subnational2Code": "JP-41-01",
     "lat": 33.2950366,
     "lng": 130.3049782,
-    "latestObsDt": "2024-12-01 13:05",
-    "numSpeciesAllTime": 85
+    "latestObsDt": "2024-12-15 15:30",
+    "numSpeciesAllTime": 86
   },
   {
     "locId": "L2387107",
@@ -51679,7 +51879,7 @@
     "subnational2Code": "JP-13-24",
     "lat": 35.6462356,
     "lng": 139.2788428,
-    "latestObsDt": "2024-07-02 10:50",
+    "latestObsDt": "2024-12-14 09:30",
     "numSpeciesAllTime": 70
   },
   {
@@ -52347,7 +52547,7 @@
     "subnational2Code": "JP-46-05",
     "lat": 32.1029711,
     "lng": 130.2750447,
-    "latestObsDt": "2024-12-13 11:34",
+    "latestObsDt": "2024-12-15 08:00",
     "numSpeciesAllTime": 212
   },
   {
@@ -52380,7 +52580,7 @@
     "subnational2Code": "JP-46-05",
     "lat": 32.104248,
     "lng": 130.2913669,
-    "latestObsDt": "2024-12-14 14:39",
+    "latestObsDt": "2024-12-15 07:30",
     "numSpeciesAllTime": 164
   },
   {
@@ -52402,8 +52602,8 @@
     "subnational2Code": "JP-46-05",
     "lat": 32.101559,
     "lng": 130.3038281,
-    "latestObsDt": "2024-02-29 11:05",
-    "numSpeciesAllTime": 66
+    "latestObsDt": "2024-12-15 14:30",
+    "numSpeciesAllTime": 68
   },
   {
     "locId": "L5515720",
@@ -52534,7 +52734,7 @@
     "subnational2Code": "JP-46-05",
     "lat": 32.0646477,
     "lng": 130.4126375,
-    "latestObsDt": "2024-12-14 13:58",
+    "latestObsDt": "2024-12-15 11:30",
     "numSpeciesAllTime": 108
   },
   {
@@ -52631,7 +52831,7 @@
     "subnational2Code": "JP-32-03",
     "lat": 35.401644,
     "lng": 132.6659417,
-    "latestObsDt": "2024-12-07 00:00",
+    "latestObsDt": "2024-12-15 00:00",
     "numSpeciesAllTime": 27
   },
   {
@@ -52988,6 +53188,15 @@
     "lng": 140.7904866,
     "latestObsDt": "2024-11-09 08:15",
     "numSpeciesAllTime": 91
+  },
+  {
+    "locId": "L38623499",
+    "locName": "函館市--松倉川の河口--湯川堤防 (Hakodate--Matsukura River estuary--Yukawa Jetty)",
+    "countryCode": "JP",
+    "subnational1Code": "JP-01",
+    "subnational2Code": "JP-01-02",
+    "lat": 41.773168,
+    "lng": 140.787448
   },
   {
     "locId": "L7000940",
@@ -53587,7 +53796,7 @@
     "subnational2Code": "JP-10-01",
     "lat": 36.457637,
     "lng": 139.1206884,
-    "latestObsDt": "2024-12-08 08:49",
+    "latestObsDt": "2024-12-14 16:00",
     "numSpeciesAllTime": 86
   },
   {
@@ -54685,7 +54894,7 @@
     "subnational2Code": "JP-11-29",
     "lat": 36.0122285,
     "lng": 139.5112301,
-    "latestObsDt": "2024-12-07 07:09",
+    "latestObsDt": "2024-12-14 10:20",
     "numSpeciesAllTime": 102
   },
   {
@@ -54807,7 +55016,7 @@
     "lat": 35.9376213,
     "lng": 138.4216712,
     "latestObsDt": "2023-11-18 10:43",
-    "numSpeciesAllTime": 28
+    "numSpeciesAllTime": 34
   },
   {
     "locId": "L26126278",
@@ -55429,7 +55638,7 @@
     "subnational2Code": "JP-13-01",
     "lat": 35.6889428,
     "lng": 139.7603148,
-    "latestObsDt": "2024-12-13 13:33",
+    "latestObsDt": "2024-12-16 08:04",
     "numSpeciesAllTime": 45
   },
   {
@@ -55440,7 +55649,7 @@
     "subnational2Code": "JP-13-01",
     "lat": 35.6776545,
     "lng": 139.7548878,
-    "latestObsDt": "2024-12-03 14:57",
+    "latestObsDt": "2024-12-14 08:54",
     "numSpeciesAllTime": 62
   },
   {
@@ -55561,7 +55770,7 @@
     "subnational2Code": "JP-13-01",
     "lat": 35.6792822,
     "lng": 139.7484036,
-    "latestObsDt": "2024-11-30 08:38",
+    "latestObsDt": "2024-12-14 08:37",
     "numSpeciesAllTime": 79
   },
   {
@@ -55638,8 +55847,8 @@
     "subnational2Code": "JP-13-01",
     "lat": 35.7015432,
     "lng": 139.7602837,
-    "latestObsDt": "2024-12-03 08:34",
-    "numSpeciesAllTime": 24
+    "latestObsDt": "2024-12-16 07:11",
+    "numSpeciesAllTime": 26
   },
   {
     "locId": "L5625311",
@@ -57414,7 +57623,7 @@
     "subnational2Code": "JP-13-06",
     "lat": 35.7121909,
     "lng": 139.7706136,
-    "latestObsDt": "2024-12-14 14:40",
+    "latestObsDt": "2024-12-16 12:41",
     "numSpeciesAllTime": 89
   },
   {
@@ -58002,7 +58211,7 @@
     "subnational2Code": "JP-23-01",
     "lat": 35.1855766,
     "lng": 136.8991072,
-    "latestObsDt": "2024-12-01 08:15",
+    "latestObsDt": "2024-12-15 13:00",
     "numSpeciesAllTime": 91
   },
   {
@@ -60407,7 +60616,7 @@
     "subnational2Code": "JP-08-09",
     "lat": 36.0048455,
     "lng": 139.9194919,
-    "latestObsDt": "2024-11-30 13:30",
+    "latestObsDt": "2024-12-16 11:21",
     "numSpeciesAllTime": 96
   },
   {
@@ -60874,8 +61083,8 @@
     "subnational2Code": "JP-13-07",
     "lat": 35.7124887,
     "lng": 139.8039651,
-    "latestObsDt": "2024-11-23 12:09",
-    "numSpeciesAllTime": 37
+    "latestObsDt": "2024-12-16 09:15",
+    "numSpeciesAllTime": 38
   },
   {
     "locId": "L7474917",
@@ -61097,7 +61306,7 @@
     "subnational2Code": "JP-13-45",
     "lat": 35.6366753,
     "lng": 139.4608355,
-    "latestObsDt": "2024-11-30 09:03",
+    "latestObsDt": "2024-12-16 11:52",
     "numSpeciesAllTime": 43
   },
   {
@@ -62671,7 +62880,7 @@
     "subnational2Code": "JP-13-11",
     "lat": 35.5547491,
     "lng": 139.703114,
-    "latestObsDt": "2024-12-14 07:06",
+    "latestObsDt": "2024-12-16 07:13",
     "numSpeciesAllTime": 34
   },
   {
@@ -62935,7 +63144,7 @@
     "subnational2Code": "JP-13-11",
     "lat": 35.5819957,
     "lng": 139.7648625,
-    "latestObsDt": "2024-12-14 11:47",
+    "latestObsDt": "2024-12-15 10:00",
     "numSpeciesAllTime": 210
   },
   {
@@ -64521,7 +64730,7 @@
     "lat": 28.4513359,
     "lng": 129.7170782,
     "latestObsDt": "2024-06-02 10:03",
-    "numSpeciesAllTime": 109
+    "numSpeciesAllTime": 110
   },
   {
     "locId": "L32231053",
@@ -66642,7 +66851,7 @@
     "subnational2Code": "JP-26-05",
     "lat": 34.8891256,
     "lng": 135.8093619,
-    "latestObsDt": "2024-11-21 12:35",
+    "latestObsDt": "2024-12-16 10:28",
     "numSpeciesAllTime": 53
   },
   {
@@ -66653,7 +66862,7 @@
     "subnational2Code": "JP-26-05",
     "lat": 34.892942,
     "lng": 135.806162,
-    "latestObsDt": "2024-11-08 14:04",
+    "latestObsDt": "2024-12-16 13:03",
     "numSpeciesAllTime": 61
   },
   {
@@ -66719,8 +66928,8 @@
     "subnational2Code": "JP-26-05",
     "lat": 34.8892928,
     "lng": 135.8076775,
-    "latestObsDt": "2024-11-03 08:36",
-    "numSpeciesAllTime": 39
+    "latestObsDt": "2024-12-16 08:21",
+    "numSpeciesAllTime": 40
   },
   {
     "locId": "L6759153",
@@ -70444,7 +70653,7 @@
     "subnational2Code": "JP-09-03",
     "lat": 36.2392717,
     "lng": 139.6854544,
-    "latestObsDt": "2024-11-24 07:47",
+    "latestObsDt": "2024-12-15 15:15",
     "numSpeciesAllTime": 66
   },
   {
@@ -71175,7 +71384,7 @@
     "subnational2Code": "JP-14-08",
     "lat": 35.2661811,
     "lng": 139.1744292,
-    "latestObsDt": "2024-12-01 11:24",
+    "latestObsDt": "2024-12-09 14:18",
     "numSpeciesAllTime": 124
   },
   {
@@ -71554,7 +71763,7 @@
     "subnational2Code": "JP-28-03",
     "lat": 34.7483511,
     "lng": 135.3919147,
-    "latestObsDt": "2024-12-13 10:30",
+    "latestObsDt": "2024-12-16 07:43",
     "numSpeciesAllTime": 64
   },
   {
@@ -78682,8 +78891,8 @@
     "subnational2Code": "JP-34-01",
     "lat": 34.39025,
     "lng": 132.4563071,
-    "latestObsDt": "2024-11-15 07:45",
-    "numSpeciesAllTime": 12
+    "latestObsDt": "2024-12-16 10:42",
+    "numSpeciesAllTime": 13
   },
   {
     "locId": "L6756097",
@@ -78984,7 +79193,7 @@
     "subnational2Code": "JP-13-31",
     "lat": 35.6767816,
     "lng": 139.5229319,
-    "latestObsDt": "2024-11-25 12:08",
+    "latestObsDt": "2024-12-16 13:07",
     "numSpeciesAllTime": 52
   },
   {
@@ -80564,8 +80773,8 @@
     "subnational2Code": "JP-23-32",
     "lat": 35.186582,
     "lng": 136.6841233,
-    "latestObsDt": "2024-11-16 09:00",
-    "numSpeciesAllTime": 75
+    "latestObsDt": "2024-12-12 08:00",
+    "numSpeciesAllTime": 80
   },
   {
     "locId": "L2899064",
@@ -81244,7 +81453,7 @@
     "subnational2Code": "JP-28-33",
     "lat": 34.7153351,
     "lng": 134.8796928,
-    "latestObsDt": "2024-12-15 07:00",
+    "latestObsDt": "2024-12-16 06:55",
     "numSpeciesAllTime": 66
   },
   {
@@ -81875,7 +82084,7 @@
     "subnational2Code": "JP-13-04",
     "lat": 35.6851675,
     "lng": 139.7098062,
-    "latestObsDt": "2024-12-15 09:39",
+    "latestObsDt": "2024-12-15 13:31",
     "numSpeciesAllTime": 103
   },
   {
@@ -84803,7 +85012,7 @@
     "subnational2Code": "JP-01-01",
     "lat": 43.0460678,
     "lng": 141.3543141,
-    "latestObsDt": "2024-11-21 12:15",
+    "latestObsDt": "2024-11-24 09:00",
     "numSpeciesAllTime": 57
   },
   {
@@ -85274,7 +85483,7 @@
     "subnational2Code": "JP-13-15",
     "lat": 35.684798,
     "lng": 139.6401304,
-    "latestObsDt": "2024-12-14 09:21",
+    "latestObsDt": "2024-12-16 09:34",
     "numSpeciesAllTime": 68
   },
   {
@@ -86709,7 +86918,7 @@
     "subnational2Code": "JP-12-07",
     "lat": 35.8030645,
     "lng": 139.9380474,
-    "latestObsDt": "2024-12-11 10:00",
+    "latestObsDt": "2024-12-15 08:31",
     "numSpeciesAllTime": 83
   },
   {
@@ -86853,7 +87062,7 @@
     "lat": 36.2636986,
     "lng": 137.6898131,
     "latestObsDt": "2024-11-01 11:00",
-    "numSpeciesAllTime": 43
+    "numSpeciesAllTime": 44
   },
   {
     "locId": "L2398344",
@@ -87645,7 +87854,7 @@
     "subnational2Code": "JP-10-07",
     "lat": 36.2546954,
     "lng": 139.6190293,
-    "latestObsDt": "2024-11-16 13:30",
+    "latestObsDt": "2024-12-15 16:00",
     "numSpeciesAllTime": 84
   },
   {
@@ -87667,7 +87876,7 @@
     "subnational2Code": "JP-10-31",
     "lat": 36.2338198,
     "lng": 139.6176481,
-    "latestObsDt": "2024-09-12 06:59",
+    "latestObsDt": "2024-12-16 11:33",
     "numSpeciesAllTime": 84
   },
   {
@@ -87788,7 +87997,7 @@
     "subnational2Code": "JP-13-17",
     "lat": 35.7938095,
     "lng": 139.6933935,
-    "latestObsDt": "2024-12-14 13:16",
+    "latestObsDt": "2024-12-14 13:30",
     "numSpeciesAllTime": 64
   },
   {
@@ -87832,7 +88041,7 @@
     "subnational2Code": "JP-13-19",
     "lat": 35.7972866,
     "lng": 139.678576,
-    "latestObsDt": "2024-12-14 14:00",
+    "latestObsDt": "2024-12-16 07:58",
     "numSpeciesAllTime": 75
   },
   {
@@ -88361,7 +88570,7 @@
     "subnational2Code": "JP-09-03",
     "lat": 36.231751,
     "lng": 139.667015,
-    "latestObsDt": "2024-12-14 00:00",
+    "latestObsDt": "2024-12-15 11:00",
     "numSpeciesAllTime": 152
   },
   {
@@ -88372,7 +88581,7 @@
     "subnational2Code": "JP-09-03",
     "lat": 36.2140416,
     "lng": 139.6731143,
-    "latestObsDt": "2024-12-15 08:43",
+    "latestObsDt": "2024-12-15 12:00",
     "numSpeciesAllTime": 160
   },
   {
@@ -88526,7 +88735,7 @@
     "subnational2Code": "JP-01-23",
     "lat": 43.3906416,
     "lng": 145.7499944,
-    "latestObsDt": "2024-08-17 10:45",
+    "latestObsDt": "2024-12-16 10:00",
     "numSpeciesAllTime": 49
   },
   {
@@ -88757,7 +88966,7 @@
     "subnational2Code": "JP-01-23",
     "lat": 43.3435945,
     "lng": 145.5802131,
-    "latestObsDt": "2024-10-14 12:25",
+    "latestObsDt": "2024-12-16 09:20",
     "numSpeciesAllTime": 77
   },
   {
@@ -88768,7 +88977,7 @@
     "subnational2Code": "JP-01-23",
     "lat": 43.2782891,
     "lng": 145.589093,
-    "latestObsDt": "2024-12-08 11:05",
+    "latestObsDt": "2024-12-16 08:24",
     "numSpeciesAllTime": 76
   },
   {
@@ -88834,7 +89043,7 @@
     "subnational2Code": "JP-01-23",
     "lat": 43.3886703,
     "lng": 145.7808977,
-    "latestObsDt": "2024-12-02 06:53",
+    "latestObsDt": "2024-12-16 10:26",
     "numSpeciesAllTime": 81
   },
   {
@@ -88845,7 +89054,7 @@
     "subnational2Code": "JP-01-23",
     "lat": 43.3879438,
     "lng": 145.7859607,
-    "latestObsDt": "2024-12-07 10:37",
+    "latestObsDt": "2024-12-16 10:53",
     "numSpeciesAllTime": 59
   },
   {
@@ -88878,8 +89087,8 @@
     "subnational2Code": "JP-01-23",
     "lat": 43.3708561,
     "lng": 145.8081946,
-    "latestObsDt": "2024-06-05 13:39",
-    "numSpeciesAllTime": 36
+    "latestObsDt": "2024-12-16 13:00",
+    "numSpeciesAllTime": 39
   },
   {
     "locId": "L10701529",
@@ -88900,7 +89109,7 @@
     "subnational2Code": "JP-01-23",
     "lat": 43.3851562,
     "lng": 145.8166221,
-    "latestObsDt": "2024-12-08 07:00",
+    "latestObsDt": "2024-12-16 11:44",
     "numSpeciesAllTime": 151
   },
   {
@@ -88922,7 +89131,7 @@
     "subnational2Code": "JP-01-23",
     "lat": 43.2811102,
     "lng": 145.5732122,
-    "latestObsDt": "2024-10-21 15:49",
+    "latestObsDt": "2024-12-16 06:31",
     "numSpeciesAllTime": 91
   },
   {
@@ -90538,7 +90747,7 @@
     "subnational2Code": "JP-14-01",
     "lat": 35.5133476,
     "lng": 139.6048594,
-    "latestObsDt": "2024-12-07 12:45",
+    "latestObsDt": "2024-12-15 10:42",
     "numSpeciesAllTime": 93
   },
   {
@@ -90855,7 +91064,7 @@
     "subnational2Code": "JP-14-01",
     "lat": 35.5490928,
     "lng": 139.509995,
-    "latestObsDt": "2024-12-15 06:21",
+    "latestObsDt": "2024-12-16 07:26",
     "numSpeciesAllTime": 35
   },
   {
@@ -94018,6 +94227,24 @@
     "lng": 123.8045025
   },
   {
+    "locId": "L38623523",
+    "locName": "洞爺湖町--ポロモイ山 (Toyako--Poromoi Mountain)",
+    "countryCode": "JP",
+    "subnational1Code": "JP-01",
+    "subnational2Code": "JP-01-141",
+    "lat": 42.5912342,
+    "lng": 140.7613313
+  },
+  {
+    "locId": "L38623547",
+    "locName": "洞爺湖町--夕日が浜公園 (Toyako--Yuhigahama Park)",
+    "countryCode": "JP",
+    "subnational1Code": "JP-01",
+    "subnational2Code": "JP-01-141",
+    "lat": 42.5490998,
+    "lng": 140.7616894
+  },
+  {
     "locId": "L6976430",
     "locName": "津久見市--つくみイルカ島 (Tsukumi--Tsukumi Dolphin Island)",
     "countryCode": "JP",
@@ -95797,8 +96024,8 @@
     "subnational2Code": "JP-10-08",
     "lat": 36.5307433,
     "lng": 139.0810347,
-    "latestObsDt": "2024-11-04 12:30",
-    "numSpeciesAllTime": 49
+    "latestObsDt": "2024-12-14 13:00",
+    "numSpeciesAllTime": 50
   },
   {
     "locId": "L22861382",
@@ -96622,7 +96849,7 @@
     "subnational2Code": "JP-13-03",
     "lat": 35.6367555,
     "lng": 139.7468153,
-    "latestObsDt": "2024-12-13 13:19",
+    "latestObsDt": "2024-12-16 12:58",
     "numSpeciesAllTime": 43
   },
   {
@@ -97134,7 +97361,7 @@
     "lat": 32.8061866,
     "lng": 130.7058316,
     "latestObsDt": "2024-11-25 09:03",
-    "numSpeciesAllTime": 51
+    "numSpeciesAllTime": 52
   },
   {
     "locId": "L2374562",
@@ -99854,7 +100081,7 @@
     "subnational2Code": "JP-11-61",
     "lat": 36.0130229,
     "lng": 139.6792902,
-    "latestObsDt": "2024-12-15 09:43",
+    "latestObsDt": "2024-12-16 09:40",
     "numSpeciesAllTime": 31
   },
   {
@@ -100385,7 +100612,7 @@
     "subnational2Code": "JP-13-10",
     "lat": 35.6500285,
     "lng": 139.6879826,
-    "latestObsDt": "2024-12-14 12:42",
+    "latestObsDt": "2024-12-16 07:48",
     "numSpeciesAllTime": 39
   },
   {
@@ -103030,7 +103257,7 @@
     "subnational2Code": "JP-40-02",
     "lat": 33.5970577,
     "lng": 130.2559805,
-    "latestObsDt": "2024-12-14 13:50",
+    "latestObsDt": "2024-12-15 11:00",
     "numSpeciesAllTime": 145
   },
   {
@@ -103107,7 +103334,7 @@
     "subnational2Code": "JP-40-02",
     "lat": 33.5858332,
     "lng": 130.3763974,
-    "latestObsDt": "2024-11-22 12:20",
+    "latestObsDt": "2024-12-14 09:30",
     "numSpeciesAllTime": 89
   },
   {
@@ -103182,7 +103409,7 @@
     "subnational2Code": "JP-40-02",
     "lat": 33.6620174,
     "lng": 130.3569951,
-    "latestObsDt": "2024-12-07 15:00",
+    "latestObsDt": "2024-12-06 15:00",
     "numSpeciesAllTime": 94
   },
   {
@@ -104967,7 +105194,7 @@
     "subnational2Code": "JP-13-30",
     "lat": 35.7111166,
     "lng": 139.3938017,
-    "latestObsDt": "2024-12-03 13:54",
+    "latestObsDt": "2024-12-15 11:05",
     "numSpeciesAllTime": 113
   },
   {
@@ -105490,7 +105717,7 @@
     "subnational2Code": "JP-27-21",
     "lat": 34.8410787,
     "lng": 135.4716718,
-    "latestObsDt": "2024-10-15 11:06",
+    "latestObsDt": "2024-12-15 15:04",
     "numSpeciesAllTime": 71
   },
   {
@@ -105666,8 +105893,8 @@
     "subnational2Code": "JP-14-29",
     "lat": 35.196256,
     "lng": 139.0260601,
-    "latestObsDt": "2024-10-11 10:15",
-    "numSpeciesAllTime": 61
+    "latestObsDt": "2024-11-20 15:30",
+    "numSpeciesAllTime": 64
   },
   {
     "locId": "L33192948",
@@ -105808,7 +106035,7 @@
     "lat": 35.2447078,
     "lng": 139.0510315,
     "latestObsDt": "2024-11-25 09:15",
-    "numSpeciesAllTime": 46
+    "numSpeciesAllTime": 47
   },
   {
     "locId": "L7186086",
@@ -106946,7 +107173,7 @@
     "subnational2Code": "JP-13-20",
     "lat": 35.737839,
     "lng": 139.5959008,
-    "latestObsDt": "2024-12-14 13:05",
+    "latestObsDt": "2024-12-15 09:25",
     "numSpeciesAllTime": 107
   },
   {
@@ -108019,7 +108246,7 @@
     "lat": 35.6726756,
     "lng": 139.9672543,
     "latestObsDt": "2024-12-14 09:31",
-    "numSpeciesAllTime": 173
+    "numSpeciesAllTime": 175
   },
   {
     "locId": "L5666665",
@@ -108139,7 +108366,7 @@
     "subnational2Code": "JP-12-04",
     "lat": 35.721193,
     "lng": 139.988313,
-    "latestObsDt": "2024-12-15 09:00",
+    "latestObsDt": "2024-12-15 10:40",
     "numSpeciesAllTime": 51
   },
   {
@@ -108216,8 +108443,8 @@
     "subnational2Code": "JP-28-07",
     "lat": 34.7107324,
     "lng": 135.3077245,
-    "latestObsDt": "2024-12-11 19:20",
-    "numSpeciesAllTime": 61
+    "latestObsDt": "2024-12-15 20:53",
+    "numSpeciesAllTime": 62
   },
   {
     "locId": "L29087146",
@@ -109082,7 +109309,7 @@
     "subnational2Code": "JP-11-18",
     "lat": 35.8152057,
     "lng": 139.7912908,
-    "latestObsDt": "2024-12-14 09:36",
+    "latestObsDt": "2024-12-16 06:10",
     "numSpeciesAllTime": 38
   },
   {
@@ -110181,7 +110408,7 @@
     "subnational2Code": "JP-14-07",
     "lat": 35.3012801,
     "lng": 139.4809967,
-    "latestObsDt": "2024-12-03 12:00",
+    "latestObsDt": "2024-12-16 10:34",
     "numSpeciesAllTime": 89
   },
   {
@@ -110192,7 +110419,7 @@
     "subnational2Code": "JP-14-07",
     "lat": 35.3026052,
     "lng": 139.4820571,
-    "latestObsDt": "2024-11-10 16:38",
+    "latestObsDt": "2024-11-15 11:29",
     "numSpeciesAllTime": 31
   },
   {
@@ -110280,8 +110507,8 @@
     "subnational2Code": "JP-14-07",
     "lat": 35.3137595,
     "lng": 139.475255,
-    "latestObsDt": "2024-04-25 17:41",
-    "numSpeciesAllTime": 29
+    "latestObsDt": "2024-12-12 10:41",
+    "numSpeciesAllTime": 30
   },
   {
     "locId": "L38081452",
@@ -114700,7 +114927,7 @@
     "lat": 36.9236909,
     "lng": 139.9329878,
     "latestObsDt": "2024-11-23 11:20",
-    "numSpeciesAllTime": 25
+    "numSpeciesAllTime": 29
   },
   {
     "locId": "L36165112",
@@ -116992,8 +117219,8 @@
     "subnational2Code": "JP-23-39",
     "lat": 35.1728261,
     "lng": 137.0905781,
-    "latestObsDt": "2024-11-18 14:27",
-    "numSpeciesAllTime": 46
+    "latestObsDt": "2024-12-16 10:41",
+    "numSpeciesAllTime": 48
   },
   {
     "locId": "L19397624",
@@ -117003,7 +117230,7 @@
     "subnational2Code": "JP-23-39",
     "lat": 35.169088,
     "lng": 137.035002,
-    "latestObsDt": "2024-12-13 10:40",
+    "latestObsDt": "2024-12-16 10:02",
     "numSpeciesAllTime": 60
   },
   {
@@ -117014,7 +117241,7 @@
     "subnational2Code": "JP-23-39",
     "lat": 35.1672877,
     "lng": 137.0280612,
-    "latestObsDt": "2024-12-13 11:26",
+    "latestObsDt": "2024-12-16 10:56",
     "numSpeciesAllTime": 62
   },
   {
@@ -117187,7 +117414,7 @@
     "lat": 32.7442008,
     "lng": 129.8728349,
     "latestObsDt": "2024-12-03 08:12",
-    "numSpeciesAllTime": 9
+    "numSpeciesAllTime": 10
   },
   {
     "locId": "L2374573",
@@ -117864,7 +118091,7 @@
     "subnational2Code": "JP-20-01",
     "lat": 36.6430627,
     "lng": 138.1886512,
-    "latestObsDt": "2024-10-31 16:42",
+    "latestObsDt": "2024-12-15 16:55",
     "numSpeciesAllTime": 25
   },
   {
@@ -118446,8 +118673,8 @@
     "subnational2Code": "JP-42-12",
     "lat": 32.845162,
     "lng": 130.1532992,
-    "latestObsDt": "2024-11-24 15:44",
-    "numSpeciesAllTime": 23
+    "latestObsDt": "2024-12-14 15:02",
+    "numSpeciesAllTime": 29
   },
   {
     "locId": "L5400592",
@@ -119119,7 +119346,7 @@
     "subnational2Code": "JP-22-01",
     "lat": 34.9984685,
     "lng": 138.42421,
-    "latestObsDt": "2024-12-13 08:22",
+    "latestObsDt": "2024-12-16 08:21",
     "numSpeciesAllTime": 32
   },
   {
@@ -120430,7 +120657,7 @@
     "subnational2Code": "JP-21-03",
     "lat": 36.1381,
     "lng": 137.2632265,
-    "latestObsDt": "2024-12-14 09:16",
+    "latestObsDt": "2024-12-16 07:42",
     "numSpeciesAllTime": 45
   },
   {
