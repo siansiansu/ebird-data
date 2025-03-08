@@ -58982,6 +58982,15 @@
     "numSpeciesAllTime": 47
   },
   {
+    "locId": "L40923303",
+    "locName": "名古屋市--名古屋大学 (Nagoya--Nagoya University)",
+    "countryCode": "JP",
+    "subnational1Code": "JP-23",
+    "subnational2Code": "JP-23-01",
+    "lat": 35.1538633,
+    "lng": 136.9682372
+  },
+  {
     "locId": "L1484414",
     "locName": "名古屋市--名古屋港 (Nagoya--Nagoya Harbor)",
     "countryCode": "JP",
@@ -82310,6 +82319,15 @@
     "lng": 139.6268857,
     "latestObsDt": "2025-02-24 15:30",
     "numSpeciesAllTime": 104
+  },
+  {
+    "locId": "L40919312",
+    "locName": "戸田市--彩湖・道満グリーンパーク (Toda--Lake Sai - Doman Green Park)",
+    "countryCode": "JP",
+    "subnational1Code": "JP-11",
+    "subnational2Code": "JP-11-21",
+    "lat": 35.8239376,
+    "lng": 139.6308661
   },
   {
     "locId": "L9953545",
