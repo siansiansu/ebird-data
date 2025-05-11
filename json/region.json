@@ -40519,6 +40519,15 @@
     "numSpeciesAllTime": 23
   },
   {
+    "locId": "L44507257",
+    "locName": "Nambatajyou kouen",
+    "countryCode": "JP",
+    "subnational1Code": "JP-11",
+    "subnational2Code": "JP-11-31",
+    "lat": 35.8575832,
+    "lng": 139.5667843
+  },
+  {
     "locId": "L28160175",
     "locName": "Ochigata (邑知潟) Hakui, 金丸出町邑, Ishikawa",
     "countryCode": "JP",
@@ -40550,6 +40559,15 @@
     "lng": 139.178388,
     "latestObsDt": "2025-05-04 12:00",
     "numSpeciesAllTime": 65
+  },
+  {
+    "locId": "L44518114",
+    "locName": "Shiroyama Park",
+    "countryCode": "JP",
+    "subnational1Code": "JP-21",
+    "subnational2Code": "JP-21-03",
+    "lat": 36.1400582,
+    "lng": 137.263248
   },
   {
     "locId": "L29646640",
