@@ -1398,7 +1398,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 24.11796,
     "lng": 121.23723,
-    "latestObsDt": "2025-05-19 11:21",
+    "latestObsDt": "2025-05-28 11:28",
     "numSpeciesAllTime": 75
   },
   {
@@ -1548,8 +1548,8 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.989378,
     "lng": 121.035363,
-    "latestObsDt": "2021-11-08 12:09",
-    "numSpeciesAllTime": 17
+    "latestObsDt": "2025-05-28 15:31",
+    "numSpeciesAllTime": 32
   },
   {
     "locId": "L2972331",
@@ -2838,7 +2838,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.1366368,
     "lng": 120.6853402,
-    "latestObsDt": "2025-05-16 23:03",
+    "latestObsDt": "2025-05-27 07:40",
     "numSpeciesAllTime": 28
   },
   {
@@ -2848,7 +2848,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2077413,
     "lng": 120.5972105,
-    "latestObsDt": "2025-05-23 17:05",
+    "latestObsDt": "2025-05-28 11:09",
     "numSpeciesAllTime": 195
   },
   {
@@ -3388,7 +3388,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.1120796,
     "lng": 120.6159246,
-    "latestObsDt": "2025-05-26 16:14",
+    "latestObsDt": "2025-05-28 17:15",
     "numSpeciesAllTime": 58
   },
   {
@@ -3588,7 +3588,7 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.2929205,
     "lng": 120.5196485,
-    "latestObsDt": "2025-05-12 10:12",
+    "latestObsDt": "2025-05-28 13:33",
     "numSpeciesAllTime": 169
   },
   {
@@ -3828,8 +3828,8 @@
     "subnational1Code": "TW-TXG",
     "lat": 24.1486807,
     "lng": 120.6718523,
-    "latestObsDt": "2025-03-15 15:11",
-    "numSpeciesAllTime": 7
+    "latestObsDt": "2025-05-28 10:27",
+    "numSpeciesAllTime": 9
   },
   {
     "locId": "L5745449",
@@ -4598,7 +4598,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0858753,
     "lng": 121.5241966,
-    "latestObsDt": "2025-05-21 13:55",
+    "latestObsDt": "2025-05-27 14:13",
     "numSpeciesAllTime": 34
   },
   {
@@ -4738,7 +4738,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.943761,
     "lng": 121.377383,
-    "latestObsDt": "2025-03-18 15:04",
+    "latestObsDt": "2025-05-28 08:52",
     "numSpeciesAllTime": 30
   },
   {
@@ -4958,7 +4958,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.9971832,
     "lng": 121.4791816,
-    "latestObsDt": "2025-04-13 09:00",
+    "latestObsDt": "2025-05-28 09:17",
     "numSpeciesAllTime": 27
   },
   {
@@ -5018,7 +5018,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0421715,
     "lng": 121.6142482,
-    "latestObsDt": "2025-05-18 08:15",
+    "latestObsDt": "2025-05-28 14:13",
     "numSpeciesAllTime": 126
   },
   {
@@ -5078,7 +5078,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0226419,
     "lng": 121.5139818,
-    "latestObsDt": "2025-05-18 10:17",
+    "latestObsDt": "2025-05-28 12:53",
     "numSpeciesAllTime": 78
   },
   {
@@ -5288,7 +5288,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.1003657,
     "lng": 121.4570117,
-    "latestObsDt": "2025-05-24 08:09",
+    "latestObsDt": "2025-05-28 07:13",
     "numSpeciesAllTime": 193
   },
   {
@@ -5708,7 +5708,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0857465,
     "lng": 121.5204007,
-    "latestObsDt": "2025-05-26 19:18",
+    "latestObsDt": "2025-05-28 16:47",
     "numSpeciesAllTime": 30
   },
   {
@@ -5798,7 +5798,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1190379,
     "lng": 121.508252,
-    "latestObsDt": "2025-05-27 21:37",
+    "latestObsDt": "2025-05-28 20:55",
     "numSpeciesAllTime": 39
   },
   {
@@ -5838,7 +5838,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1280927,
     "lng": 121.477654,
-    "latestObsDt": "2025-05-27 08:37",
+    "latestObsDt": "2025-05-28 15:49",
     "numSpeciesAllTime": 193
   },
   {
@@ -5998,7 +5998,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1293557,
     "lng": 121.4884579,
-    "latestObsDt": "2025-05-27 06:48",
+    "latestObsDt": "2025-05-28 08:05",
     "numSpeciesAllTime": 226
   },
   {
@@ -6058,7 +6058,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0431763,
     "lng": 121.5920314,
-    "latestObsDt": "2025-05-27 16:32",
+    "latestObsDt": "2025-05-28 07:23",
     "numSpeciesAllTime": 129
   },
   {
@@ -6088,7 +6088,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0370523,
     "lng": 121.616341,
-    "latestObsDt": "2025-05-18 10:57",
+    "latestObsDt": "2025-05-28 10:58",
     "numSpeciesAllTime": 67
   },
   {
@@ -6098,7 +6098,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0489104,
     "lng": 121.6158369,
-    "latestObsDt": "2025-05-12 08:38",
+    "latestObsDt": "2025-05-28 08:33",
     "numSpeciesAllTime": 97
   },
   {
@@ -6128,8 +6128,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.055891,
     "lng": 121.6180111,
-    "latestObsDt": "2025-05-21 12:06",
-    "numSpeciesAllTime": 17
+    "latestObsDt": "2025-05-28 12:40",
+    "numSpeciesAllTime": 18
   },
   {
     "locId": "L5455081",
@@ -6158,7 +6158,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0472284,
     "lng": 121.5952219,
-    "latestObsDt": "2025-05-23 16:00",
+    "latestObsDt": "2025-05-28 08:39",
     "numSpeciesAllTime": 69
   },
   {
@@ -6358,7 +6358,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0319891,
     "lng": 121.509347,
-    "latestObsDt": "2025-05-27 08:33",
+    "latestObsDt": "2025-05-28 10:01",
     "numSpeciesAllTime": 200
   },
   {
@@ -6558,7 +6558,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0530872,
     "lng": 121.5345902,
-    "latestObsDt": "2025-05-27 12:16",
+    "latestObsDt": "2025-05-28 04:42",
     "numSpeciesAllTime": 24
   },
   {
@@ -6638,7 +6638,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 24.9868906,
     "lng": 121.5758924,
-    "latestObsDt": "2025-05-26 23:32",
+    "latestObsDt": "2025-05-28 07:13",
     "numSpeciesAllTime": 107
   },
   {
@@ -6688,7 +6688,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0155554,
     "lng": 121.5401924,
-    "latestObsDt": "2025-05-22 14:27",
+    "latestObsDt": "2025-05-27 14:22",
     "numSpeciesAllTime": 159
   },
   {
@@ -6708,7 +6708,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0173093,
     "lng": 121.5398866,
-    "latestObsDt": "2025-05-27 06:50",
+    "latestObsDt": "2025-05-28 17:15",
     "numSpeciesAllTime": 177
   },
   {
@@ -6988,7 +6988,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.0562382,
     "lng": 121.629864,
-    "latestObsDt": "2024-11-22 11:38",
+    "latestObsDt": "2025-05-28 14:17",
     "numSpeciesAllTime": 41
   },
   {
@@ -7008,7 +7008,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0568664,
     "lng": 121.6229171,
-    "latestObsDt": "2025-05-22 09:33",
+    "latestObsDt": "2025-05-28 09:32",
     "numSpeciesAllTime": 94
   },
   {
@@ -7058,7 +7058,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0928474,
     "lng": 121.5321457,
-    "latestObsDt": "2025-05-26 08:10",
+    "latestObsDt": "2025-05-28 07:59",
     "numSpeciesAllTime": 58
   },
   {
@@ -7178,7 +7178,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0299282,
     "lng": 121.5361476,
-    "latestObsDt": "2025-05-27 16:12",
+    "latestObsDt": "2025-05-28 08:07",
     "numSpeciesAllTime": 162
   },
   {
@@ -7338,7 +7338,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1366717,
     "lng": 121.5353623,
-    "latestObsDt": "2025-03-21 09:33",
+    "latestObsDt": "2025-05-28 09:21",
     "numSpeciesAllTime": 34
   },
   {
@@ -8008,7 +8008,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 24.9998135,
     "lng": 121.5429829,
-    "latestObsDt": "2025-05-27 06:06",
+    "latestObsDt": "2025-05-28 07:26",
     "numSpeciesAllTime": 31
   },
   {
@@ -8128,8 +8128,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 24.9008399,
     "lng": 121.5664673,
-    "latestObsDt": "2025-05-21 15:48",
-    "numSpeciesAllTime": 80
+    "latestObsDt": "2025-05-28 15:17",
+    "numSpeciesAllTime": 81
   },
   {
     "locId": "L11027978",
@@ -8458,7 +8458,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.0278649,
     "lng": 121.426526,
-    "latestObsDt": "2025-05-27 14:13",
+    "latestObsDt": "2025-05-28 08:21",
     "numSpeciesAllTime": 51
   },
   {
@@ -8768,7 +8768,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0547626,
     "lng": 121.6035981,
-    "latestObsDt": "2025-05-26 16:35",
+    "latestObsDt": "2025-05-28 07:39",
     "numSpeciesAllTime": 28
   },
   {
@@ -8898,7 +8898,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.0004768,
     "lng": 121.4561866,
-    "latestObsDt": "2025-05-25 12:58",
+    "latestObsDt": "2025-05-28 12:07",
     "numSpeciesAllTime": 45
   },
   {
@@ -9788,7 +9788,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.1337053,
     "lng": 121.8221558,
-    "latestObsDt": "2025-04-23 19:50",
+    "latestObsDt": "2025-05-28 14:36",
     "numSpeciesAllTime": 73
   },
   {
@@ -10068,8 +10068,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.1087829,
     "lng": 121.8661743,
-    "latestObsDt": "2024-12-29 11:33",
-    "numSpeciesAllTime": 29
+    "latestObsDt": "2025-05-28 11:56",
+    "numSpeciesAllTime": 35
   },
   {
     "locId": "L13555285",
@@ -10088,7 +10088,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0420974,
     "lng": 121.5851206,
-    "latestObsDt": "2025-05-27 08:16",
+    "latestObsDt": "2025-05-28 07:00",
     "numSpeciesAllTime": 49
   },
   {
@@ -10378,7 +10378,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1067604,
     "lng": 121.4709592,
-    "latestObsDt": "2025-05-09 07:16",
+    "latestObsDt": "2025-05-28 09:34",
     "numSpeciesAllTime": 89
   },
   {
@@ -10418,7 +10418,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1135025,
     "lng": 121.4901853,
-    "latestObsDt": "2025-05-25 15:39",
+    "latestObsDt": "2025-05-28 10:31",
     "numSpeciesAllTime": 162
   },
   {
@@ -10708,8 +10708,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.2795334,
     "lng": 121.5491726,
-    "latestObsDt": "2025-05-01 06:00",
-    "numSpeciesAllTime": 136
+    "latestObsDt": "2025-05-28 09:38",
+    "numSpeciesAllTime": 137
   },
   {
     "locId": "L23625385",
@@ -10868,7 +10868,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1355439,
     "lng": 121.5474719,
-    "latestObsDt": "2025-05-10 14:12",
+    "latestObsDt": "2025-05-28 09:54",
     "numSpeciesAllTime": 61
   },
   {
@@ -10888,7 +10888,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.0098458,
     "lng": 121.4906289,
-    "latestObsDt": "2025-03-10 15:15",
+    "latestObsDt": "2025-05-28 08:34",
     "numSpeciesAllTime": 66
   },
   {
@@ -11158,8 +11158,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.0438343,
     "lng": 121.5072565,
-    "latestObsDt": "2025-04-23 16:38",
-    "numSpeciesAllTime": 22
+    "latestObsDt": "2025-05-28 09:25",
+    "numSpeciesAllTime": 23
   },
   {
     "locId": "L4277016",
@@ -11288,8 +11288,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 24.9679934,
     "lng": 121.6081939,
-    "latestObsDt": "2025-02-15 08:44",
-    "numSpeciesAllTime": 18
+    "latestObsDt": "2025-05-28 10:39",
+    "numSpeciesAllTime": 20
   },
   {
     "locId": "L7958579",
@@ -12208,7 +12208,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.1672977,
     "lng": 121.4168127,
-    "latestObsDt": "2025-05-20 10:28",
+    "latestObsDt": "2025-05-25 16:25",
     "numSpeciesAllTime": 224
   },
   {
@@ -12218,7 +12218,7 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.1634768,
     "lng": 121.4184994,
-    "latestObsDt": "2025-05-04 07:49",
+    "latestObsDt": "2025-05-14 13:06",
     "numSpeciesAllTime": 87
   },
   {
@@ -12338,8 +12338,8 @@
     "subnational1Code": "TW-TPQ",
     "lat": 25.219489,
     "lng": 121.6419661,
-    "latestObsDt": "2025-04-08 10:02",
-    "numSpeciesAllTime": 87
+    "latestObsDt": "2025-05-28 16:03",
+    "numSpeciesAllTime": 90
   },
   {
     "locId": "L2236212",
@@ -12458,8 +12458,8 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1099207,
     "lng": 121.4661527,
-    "latestObsDt": "2025-05-18 13:08",
-    "numSpeciesAllTime": 137
+    "latestObsDt": "2025-05-28 09:03",
+    "numSpeciesAllTime": 138
   },
   {
     "locId": "L7033433",
@@ -12498,7 +12498,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1157727,
     "lng": 121.4682367,
-    "latestObsDt": "2025-04-11 15:07",
+    "latestObsDt": "2025-05-27 16:17",
     "numSpeciesAllTime": 142
   },
   {
@@ -12828,7 +12828,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.1601295,
     "lng": 120.1761384,
-    "latestObsDt": "2025-05-25 22:09",
+    "latestObsDt": "2025-05-28 20:13",
     "numSpeciesAllTime": 23
   },
   {
@@ -13208,7 +13208,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.2471028,
     "lng": 120.1481679,
-    "latestObsDt": "2025-05-27 18:39",
+    "latestObsDt": "2025-05-28 07:04",
     "numSpeciesAllTime": 88
   },
   {
@@ -13358,7 +13358,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.1829571,
     "lng": 120.3120859,
-    "latestObsDt": "2025-05-25 16:56",
+    "latestObsDt": "2025-05-28 16:54",
     "numSpeciesAllTime": 172
   },
   {
@@ -14168,7 +14168,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.325213,
     "lng": 120.4805321,
-    "latestObsDt": "2025-05-21 14:12",
+    "latestObsDt": "2025-05-28 12:39",
     "numSpeciesAllTime": 85
   },
   {
@@ -14416,7 +14416,7 @@
     "subnational1Code": "TW-TNN",
     "lat": 23.1006992,
     "lng": 120.0358486,
-    "latestObsDt": "2025-05-26 07:29",
+    "latestObsDt": "2025-05-28 10:24",
     "numSpeciesAllTime": 211
   },
   {
@@ -14966,7 +14966,7 @@
     "subnational1Code": "TW-TTT",
     "lat": 22.8212409,
     "lng": 121.1900962,
-    "latestObsDt": "2025-01-08 13:05",
+    "latestObsDt": "2025-05-28 12:27",
     "numSpeciesAllTime": 35
   },
   {
@@ -15136,7 +15136,7 @@
     "subnational1Code": "TW-TTT",
     "lat": 22.758869,
     "lng": 121.1650908,
-    "latestObsDt": "2025-04-29 16:19",
+    "latestObsDt": "2025-05-28 07:47",
     "numSpeciesAllTime": 110
   },
   {
@@ -15266,8 +15266,8 @@
     "subnational1Code": "TW-TTT",
     "lat": 22.7352127,
     "lng": 121.0681044,
-    "latestObsDt": "2025-05-27 20:04",
-    "numSpeciesAllTime": 108
+    "latestObsDt": "2025-05-28 06:40",
+    "numSpeciesAllTime": 109
   },
   {
     "locId": "L16784160",
@@ -15606,7 +15606,7 @@
     "subnational1Code": "TW-TTT",
     "lat": 22.9593,
     "lng": 121.2906,
-    "latestObsDt": "2025-04-18 18:09",
+    "latestObsDt": "2025-05-28 15:53",
     "numSpeciesAllTime": 21
   },
   {
@@ -16036,7 +16036,7 @@
     "subnational1Code": "TW-TTT",
     "lat": 22.7493446,
     "lng": 121.1577484,
-    "latestObsDt": "2025-05-22 06:11",
+    "latestObsDt": "2025-05-28 13:44",
     "numSpeciesAllTime": 81
   },
   {
@@ -16066,7 +16066,7 @@
     "subnational1Code": "TW-TTT",
     "lat": 22.7469291,
     "lng": 121.1305379,
-    "latestObsDt": "2025-04-06 16:33",
+    "latestObsDt": "2025-05-27 16:20",
     "numSpeciesAllTime": 59
   },
   {
@@ -16146,7 +16146,7 @@
     "subnational1Code": "TW-TTT",
     "lat": 22.6867297,
     "lng": 121.066694,
-    "latestObsDt": "2025-05-21 15:29",
+    "latestObsDt": "2025-05-28 15:20",
     "numSpeciesAllTime": 112
   },
   {
@@ -16157,7 +16157,7 @@
     "lat": 22.6607496,
     "lng": 121.489563,
     "latestObsDt": "2025-04-22 06:58",
-    "numSpeciesAllTime": 138
+    "numSpeciesAllTime": 137
   },
   {
     "locId": "L3655680",
@@ -16357,7 +16357,7 @@
     "lat": 22.048611,
     "lng": 121.51514,
     "latestObsDt": "2025-05-13 09:44",
-    "numSpeciesAllTime": 53
+    "numSpeciesAllTime": 52
   },
   {
     "locId": "L3343204",
@@ -16536,7 +16536,7 @@
     "subnational1Code": "TW-CYI",
     "lat": 23.4813926,
     "lng": 120.4477732,
-    "latestObsDt": "2025-05-24 14:32",
+    "latestObsDt": "2025-05-28 17:45",
     "numSpeciesAllTime": 31
   },
   {
@@ -16816,7 +16816,7 @@
     "subnational1Code": "TW-CYI",
     "lat": 23.47149,
     "lng": 120.48425,
-    "latestObsDt": "2025-05-27 19:25",
+    "latestObsDt": "2025-05-28 09:59",
     "numSpeciesAllTime": 89
   },
   {
@@ -17764,7 +17764,7 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.431749,
     "lng": 120.6641601,
-    "latestObsDt": "2025-04-28 16:20",
+    "latestObsDt": "2025-05-28 12:27",
     "numSpeciesAllTime": 67
   },
   {
@@ -18304,7 +18304,7 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.5105403,
     "lng": 120.8039387,
-    "latestObsDt": "2025-05-17 11:05",
+    "latestObsDt": "2025-05-28 06:58",
     "numSpeciesAllTime": 149
   },
   {
@@ -18324,8 +18324,8 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.5061358,
     "lng": 120.8237576,
-    "latestObsDt": "2025-05-19 05:10",
-    "numSpeciesAllTime": 82
+    "latestObsDt": "2025-05-28 05:17",
+    "numSpeciesAllTime": 83
   },
   {
     "locId": "L3946239",
@@ -18334,7 +18334,7 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.5143616,
     "lng": 120.8134161,
-    "latestObsDt": "2025-05-25 10:18",
+    "latestObsDt": "2025-05-27 14:41",
     "numSpeciesAllTime": 100
   },
   {
@@ -18504,7 +18504,7 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.4603122,
     "lng": 120.3247547,
-    "latestObsDt": "2025-05-17 06:42",
+    "latestObsDt": "2025-05-28 18:04",
     "numSpeciesAllTime": 50
   },
   {
@@ -18684,7 +18684,7 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.3407379,
     "lng": 120.1612436,
-    "latestObsDt": "2025-05-17 09:49",
+    "latestObsDt": "2025-05-28 09:59",
     "numSpeciesAllTime": 128
   },
   {
@@ -18964,7 +18964,7 @@
     "subnational1Code": "TW-CYQ",
     "lat": 23.50798,
     "lng": 120.160604,
-    "latestObsDt": "2025-05-25 15:09",
+    "latestObsDt": "2025-05-28 06:53",
     "numSpeciesAllTime": 122
   },
   {
@@ -20612,7 +20612,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 24.1372153,
     "lng": 121.2757158,
-    "latestObsDt": "2025-05-20 06:59",
+    "latestObsDt": "2025-05-28 08:21",
     "numSpeciesAllTime": 62
   },
   {
@@ -20922,7 +20922,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.6940855,
     "lng": 121.7719868,
-    "latestObsDt": "2025-05-26 11:08",
+    "latestObsDt": "2025-05-28 15:54",
     "numSpeciesAllTime": 47
   },
   {
@@ -21152,7 +21152,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.4678977,
     "lng": 121.7935994,
-    "latestObsDt": "2025-05-19 14:40",
+    "latestObsDt": "2025-05-28 16:11",
     "numSpeciesAllTime": 143
   },
   {
@@ -21252,8 +21252,8 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.7229798,
     "lng": 121.6849594,
-    "latestObsDt": "2025-05-15 07:21",
-    "numSpeciesAllTime": 104
+    "latestObsDt": "2025-05-28 20:02",
+    "numSpeciesAllTime": 105
   },
   {
     "locId": "L4398585",
@@ -22830,7 +22830,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.8230874,
     "lng": 121.8084384,
-    "latestObsDt": "2025-05-27 16:10",
+    "latestObsDt": "2025-05-28 15:08",
     "numSpeciesAllTime": 239
   },
   {
@@ -22880,7 +22880,7 @@
     "subnational1Code": "TW-ILA",
     "lat": 24.710852,
     "lng": 121.8218021,
-    "latestObsDt": "2025-05-26 11:38",
+    "latestObsDt": "2025-05-27 16:51",
     "numSpeciesAllTime": 342
   },
   {
@@ -23350,7 +23350,7 @@
     "subnational1Code": "TW-PIF",
     "lat": 22.5165041,
     "lng": 120.5042401,
-    "latestObsDt": "2025-02-08 16:20",
+    "latestObsDt": "2025-05-28 07:37",
     "numSpeciesAllTime": 94
   },
   {
@@ -25560,7 +25560,7 @@
     "subnational1Code": "TW-HSQ",
     "lat": 24.736035,
     "lng": 121.0997629,
-    "latestObsDt": "2025-02-11 15:40",
+    "latestObsDt": "2025-05-28 14:05",
     "numSpeciesAllTime": 62
   },
   {
@@ -25820,7 +25820,7 @@
     "subnational1Code": "TW-HSZ",
     "lat": 24.793566,
     "lng": 120.9175068,
-    "latestObsDt": "2025-04-26 08:35",
+    "latestObsDt": "2025-05-01 11:58",
     "numSpeciesAllTime": 224
   },
   {
@@ -26590,7 +26590,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 24.9709932,
     "lng": 121.1914066,
-    "latestObsDt": "2025-05-14 14:54",
+    "latestObsDt": "2025-05-28 08:47",
     "numSpeciesAllTime": 44
   },
   {
@@ -26980,7 +26980,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 25.0627303,
     "lng": 121.2006951,
-    "latestObsDt": "2025-05-21 16:25",
+    "latestObsDt": "2025-05-28 16:40",
     "numSpeciesAllTime": 14
   },
   {
@@ -29020,7 +29020,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 25.1171004,
     "lng": 121.2435588,
-    "latestObsDt": "2025-05-23 07:05",
+    "latestObsDt": "2025-05-28 09:21",
     "numSpeciesAllTime": 97
   },
   {
@@ -30570,7 +30570,7 @@
     "subnational1Code": "TW-TAO",
     "lat": 25.08236,
     "lng": 121.19792,
-    "latestObsDt": "2025-05-27 10:40",
+    "latestObsDt": "2025-05-28 08:15",
     "numSpeciesAllTime": 207
   },
   {
@@ -31976,7 +31976,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.4818853,
     "lng": 120.886302,
-    "latestObsDt": "2025-05-26 13:15",
+    "latestObsDt": "2025-05-28 09:13",
     "numSpeciesAllTime": 138
   },
   {
@@ -31986,7 +31986,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.4780038,
     "lng": 120.891123,
-    "latestObsDt": "2025-05-23 09:48",
+    "latestObsDt": "2025-05-27 09:44",
     "numSpeciesAllTime": 86
   },
   {
@@ -32006,7 +32006,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.484365,
     "lng": 120.8860633,
-    "latestObsDt": "2025-05-26 11:44",
+    "latestObsDt": "2025-05-28 07:53",
     "numSpeciesAllTime": 91
   },
   {
@@ -32016,7 +32016,7 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.4873108,
     "lng": 120.8902127,
-    "latestObsDt": "2025-05-23 13:43",
+    "latestObsDt": "2025-05-27 11:20",
     "numSpeciesAllTime": 130
   },
   {
@@ -32056,8 +32056,8 @@
     "subnational1Code": "TW-NAN",
     "lat": 23.5122678,
     "lng": 120.8908272,
-    "latestObsDt": "2025-05-18 09:24",
-    "numSpeciesAllTime": 58
+    "latestObsDt": "2025-05-24 14:39",
+    "numSpeciesAllTime": 73
   },
   {
     "locId": "L19525341",
@@ -32166,8 +32166,8 @@
     "subnational1Code": "TW-KHH",
     "lat": 23.2729159,
     "lng": 120.825845,
-    "latestObsDt": "2024-11-14 09:00",
-    "numSpeciesAllTime": 70
+    "latestObsDt": "2025-05-27 12:27",
+    "numSpeciesAllTime": 71
   },
   {
     "locId": "L2765228",
@@ -33376,7 +33376,7 @@
     "subnational1Code": "TW-HUA",
     "lat": 23.983155,
     "lng": 121.6242743,
-    "latestObsDt": "2025-04-15 10:04",
+    "latestObsDt": "2025-05-28 10:49",
     "numSpeciesAllTime": 94
   },
   {
@@ -33956,8 +33956,8 @@
     "subnational1Code": "TW-MIA",
     "lat": 24.650431,
     "lng": 120.8421038,
-    "latestObsDt": "2025-05-27 19:40",
-    "numSpeciesAllTime": 41
+    "latestObsDt": "2025-05-28 14:19",
+    "numSpeciesAllTime": 42
   },
   {
     "locId": "L6970155",
@@ -34076,7 +34076,7 @@
     "subnational1Code": "TW-MIA",
     "lat": 24.518608,
     "lng": 120.725247,
-    "latestObsDt": "2025-05-24 09:20",
+    "latestObsDt": "2025-05-28 08:21",
     "numSpeciesAllTime": 76
   },
   {
@@ -34436,7 +34436,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4651564,
     "lng": 118.297639,
-    "latestObsDt": "2025-05-26 13:25",
+    "latestObsDt": "2025-05-28 13:54",
     "numSpeciesAllTime": 127
   },
   {
@@ -34476,7 +34476,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4703732,
     "lng": 118.2916403,
-    "latestObsDt": "2025-05-25 14:04",
+    "latestObsDt": "2025-05-28 13:11",
     "numSpeciesAllTime": 222
   },
   {
@@ -34486,7 +34486,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.465051,
     "lng": 118.305146,
-    "latestObsDt": "2025-05-20 05:55",
+    "latestObsDt": "2025-05-28 07:42",
     "numSpeciesAllTime": 192
   },
   {
@@ -34506,7 +34506,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4707091,
     "lng": 118.3123469,
-    "latestObsDt": "2025-05-26 12:44",
+    "latestObsDt": "2025-05-28 12:33",
     "numSpeciesAllTime": 233
   },
   {
@@ -34836,8 +34836,8 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4708778,
     "lng": 118.4192602,
-    "latestObsDt": "2025-05-27 09:22",
-    "numSpeciesAllTime": 73
+    "latestObsDt": "2025-05-28 13:48",
+    "numSpeciesAllTime": 74
   },
   {
     "locId": "L4106088",
@@ -35066,7 +35066,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.4828606,
     "lng": 118.4104603,
-    "latestObsDt": "2025-05-24 12:50",
+    "latestObsDt": "2025-05-28 13:21",
     "numSpeciesAllTime": 162
   },
   {
@@ -35086,8 +35086,8 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.5125991,
     "lng": 118.4233446,
-    "latestObsDt": "2025-05-24 13:13",
-    "numSpeciesAllTime": 142
+    "latestObsDt": "2025-05-28 07:08",
+    "numSpeciesAllTime": 143
   },
   {
     "locId": "L3229299",
@@ -35386,7 +35386,7 @@
     "subnational1Code": "TW-KIN",
     "lat": 24.454654,
     "lng": 118.3974132,
-    "latestObsDt": "2025-05-27 15:02",
+    "latestObsDt": "2025-05-28 10:30",
     "numSpeciesAllTime": 191
   },
   {
@@ -35426,7 +35426,7 @@
     "subnational1Code": "TW-TPE",
     "lat": 25.1678437,
     "lng": 121.5562534,
-    "latestObsDt": "2025-02-26 14:04",
+    "latestObsDt": "2025-05-28 09:02",
     "numSpeciesAllTime": 40
   },
   {
@@ -35756,7 +35756,7 @@
     "subnational1Code": "TW-HSQ",
     "lat": 24.5020223,
     "lng": 121.0993774,
-    "latestObsDt": "2025-05-20 09:30",
+    "latestObsDt": "2025-05-28 11:31",
     "numSpeciesAllTime": 60
   },
   {
@@ -37246,7 +37246,7 @@
     "subnational1Code": "TW-YUN",
     "lat": 23.752785,
     "lng": 120.6230334,
-    "latestObsDt": "2025-05-27 07:56",
+    "latestObsDt": "2025-05-28 15:01",
     "numSpeciesAllTime": 90
   },
   {
@@ -38446,7 +38446,7 @@
     "subnational1Code": "TW-KHH",
     "lat": 22.6463138,
     "lng": 120.2861255,
-    "latestObsDt": "2025-04-01 17:32",
+    "latestObsDt": "2025-05-28 16:46",
     "numSpeciesAllTime": 94
   },
   {
@@ -39094,7 +39094,7 @@
     "subnational1Code": "TW-KHH",
     "lat": 22.5540466,
     "lng": 120.3146014,
-    "latestObsDt": "2025-05-26 09:46",
+    "latestObsDt": "2025-05-28 07:43",
     "numSpeciesAllTime": 254
   },
   {
@@ -39764,7 +39764,7 @@
     "subnational1Code": "TW-KHH",
     "lat": 22.6592831,
     "lng": 120.2864227,
-    "latestObsDt": "2025-05-26 09:11",
+    "latestObsDt": "2025-05-28 18:32",
     "numSpeciesAllTime": 113
   },
   {
@@ -42968,7 +42968,7 @@
     "subnational2Code": "JP-13-58",
     "lat": 34.0523172,
     "lng": 139.5268071,
-    "latestObsDt": "2025-05-27 08:21",
+    "latestObsDt": "2025-05-28 08:08",
     "numSpeciesAllTime": 87
   },
   {
@@ -43078,7 +43078,7 @@
     "subnational2Code": "JP-13-58",
     "lat": 34.0547039,
     "lng": 139.5257127,
-    "latestObsDt": "2025-05-27 14:52",
+    "latestObsDt": "2025-05-28 09:35",
     "numSpeciesAllTime": 131
   },
   {
@@ -43100,7 +43100,7 @@
     "subnational2Code": "JP-13-58",
     "lat": 34.0555936,
     "lng": 139.4845542,
-    "latestObsDt": "2025-05-27 10:25",
+    "latestObsDt": "2025-05-28 10:32",
     "numSpeciesAllTime": 53
   },
   {
@@ -43188,7 +43188,7 @@
     "subnational2Code": "JP-13-58",
     "lat": 34.306469,
     "lng": 139.5014403,
-    "latestObsDt": "2025-05-19 13:45",
+    "latestObsDt": "2025-05-28 14:42",
     "numSpeciesAllTime": 22
   },
   {
@@ -43232,7 +43232,7 @@
     "subnational2Code": "JP-13-58",
     "lat": 34.057289,
     "lng": 139.5331069,
-    "latestObsDt": "2025-05-14 03:47",
+    "latestObsDt": "2025-05-28 07:27",
     "numSpeciesAllTime": 18
   },
   {
@@ -43243,7 +43243,7 @@
     "subnational2Code": "JP-13-58",
     "lat": 34.0685495,
     "lng": 139.5597705,
-    "latestObsDt": "2025-02-07 12:21",
+    "latestObsDt": "2025-05-28 06:33",
     "numSpeciesAllTime": 39
   },
   {
@@ -43852,7 +43852,7 @@
     "subnational2Code": "JP-13-27",
     "lat": 35.6763981,
     "lng": 139.5381472,
-    "latestObsDt": "2025-05-22 12:25",
+    "latestObsDt": "2025-05-28 12:13",
     "numSpeciesAllTime": 17
   },
   {
@@ -46398,7 +46398,7 @@
     "subnational2Code": "JP-13-02",
     "lat": 35.6681884,
     "lng": 139.7838821,
-    "latestObsDt": "2025-05-27 08:09",
+    "latestObsDt": "2025-05-28 07:59",
     "numSpeciesAllTime": 66
   },
   {
@@ -46552,7 +46552,7 @@
     "subnational2Code": "JP-01-177",
     "lat": 43.5875776,
     "lng": 144.7223049,
-    "latestObsDt": "2025-05-27 06:08",
+    "latestObsDt": "2025-05-28 16:47",
     "numSpeciesAllTime": 90
   },
   {
@@ -47732,7 +47732,7 @@
     "subnational2Code": "JP-26-01",
     "lat": 35.0141988,
     "lng": 135.7476765,
-    "latestObsDt": "2025-05-20 15:36",
+    "latestObsDt": "2025-05-27 10:15",
     "numSpeciesAllTime": 87
   },
   {
@@ -47895,7 +47895,7 @@
     "subnational2Code": "JP-26-01",
     "lat": 34.9671616,
     "lng": 135.7732446,
-    "latestObsDt": "2025-05-26 18:54",
+    "latestObsDt": "2025-05-28 07:44",
     "numSpeciesAllTime": 91
   },
   {
@@ -48092,7 +48092,9 @@
     "subnational1Code": "JP-26",
     "subnational2Code": "JP-26-01",
     "lat": 34.9603628,
-    "lng": 135.6562514
+    "lng": 135.6562514,
+    "latestObsDt": "2025-05-28 13:19",
+    "numSpeciesAllTime": 1
   },
   {
     "locId": "L5647830",
@@ -48318,8 +48320,8 @@
     "subnational2Code": "JP-26-01",
     "lat": 35.0114748,
     "lng": 135.6767964,
-    "latestObsDt": "2025-05-27 09:04",
-    "numSpeciesAllTime": 75
+    "latestObsDt": "2025-05-27 11:51",
+    "numSpeciesAllTime": 76
   },
   {
     "locId": "L7491602",
@@ -49041,8 +49043,8 @@
     "subnational2Code": "JP-26-01",
     "lat": 34.9672252,
     "lng": 135.7855171,
-    "latestObsDt": "2025-05-21 13:55",
-    "numSpeciesAllTime": 56
+    "latestObsDt": "2025-05-28 17:40",
+    "numSpeciesAllTime": 57
   },
   {
     "locId": "L5648579",
@@ -49374,7 +49376,7 @@
     "subnational2Code": "JP-26-01",
     "lat": 34.9879732,
     "lng": 135.7673125,
-    "latestObsDt": "2025-05-05 17:30",
+    "latestObsDt": "2025-05-28 18:04",
     "numSpeciesAllTime": 56
   },
   {
@@ -49528,8 +49530,8 @@
     "subnational2Code": "JP-26-01",
     "lat": 34.9831825,
     "lng": 135.7682651,
-    "latestObsDt": "2025-05-27 16:57",
-    "numSpeciesAllTime": 59
+    "latestObsDt": "2025-05-28 17:35",
+    "numSpeciesAllTime": 60
   },
   {
     "locId": "L7486637",
@@ -49616,7 +49618,7 @@
     "subnational2Code": "JP-26-01",
     "lat": 35.0244567,
     "lng": 135.7715964,
-    "latestObsDt": "2025-05-26 08:21",
+    "latestObsDt": "2025-05-27 15:50",
     "numSpeciesAllTime": 69
   },
   {
@@ -49649,7 +49651,7 @@
     "subnational2Code": "JP-26-01",
     "lat": 35.0007712,
     "lng": 135.7811075,
-    "latestObsDt": "2025-04-18 10:09",
+    "latestObsDt": "2025-05-28 09:44",
     "numSpeciesAllTime": 52
   },
   {
@@ -53723,8 +53725,8 @@
     "subnational2Code": "JP-17-14",
     "lat": 36.6432174,
     "lng": 136.6248608,
-    "latestObsDt": "2023-08-23 16:00",
-    "numSpeciesAllTime": 13
+    "latestObsDt": "2025-05-28 11:26",
+    "numSpeciesAllTime": 17
   },
   {
     "locId": "L6854354",
@@ -54613,8 +54615,8 @@
     "subnational2Code": "JP-44-02",
     "lat": 33.3029826,
     "lng": 131.4850701,
-    "latestObsDt": "2020-03-09 09:59",
-    "numSpeciesAllTime": 25
+    "latestObsDt": "2025-05-28 10:51",
+    "numSpeciesAllTime": 27
   },
   {
     "locId": "L4593940",
@@ -54668,7 +54670,7 @@
     "subnational2Code": "JP-44-02",
     "lat": 33.2832587,
     "lng": 131.5057182,
-    "latestObsDt": "2025-04-09 15:24",
+    "latestObsDt": "2025-05-27 17:50",
     "numSpeciesAllTime": 31
   },
   {
@@ -56944,7 +56946,7 @@
     "subnational2Code": "JP-13-01",
     "lat": 35.6743787,
     "lng": 139.7565427,
-    "latestObsDt": "2025-05-26 06:24",
+    "latestObsDt": "2025-05-28 05:19",
     "numSpeciesAllTime": 86
   },
   {
@@ -56988,7 +56990,7 @@
     "subnational2Code": "JP-13-01",
     "lat": 35.6809941,
     "lng": 139.7665977,
-    "latestObsDt": "2025-05-17 09:50",
+    "latestObsDt": "2025-05-28 06:28",
     "numSpeciesAllTime": 32
   },
   {
@@ -57677,7 +57679,7 @@
     "subnational2Code": "JP-12-01",
     "lat": 35.6243901,
     "lng": 140.0517154,
-    "latestObsDt": "2025-05-25 09:27",
+    "latestObsDt": "2025-05-28 07:24",
     "numSpeciesAllTime": 61
   },
   {
@@ -58729,7 +58731,7 @@
     "subnational2Code": "JP-12-29",
     "lat": 35.8013644,
     "lng": 140.2324922,
-    "latestObsDt": "2025-05-18 13:50",
+    "latestObsDt": "2025-05-28 13:50",
     "numSpeciesAllTime": 92
   },
   {
@@ -58914,7 +58916,7 @@
     "subnational2Code": "JP-14-13",
     "lat": 35.4439069,
     "lng": 139.3718186,
-    "latestObsDt": "2025-05-19 17:01",
+    "latestObsDt": "2025-05-28 17:30",
     "numSpeciesAllTime": 104
   },
   {
@@ -59425,7 +59427,7 @@
     "subnational2Code": "JP-11-38",
     "lat": 35.8677651,
     "lng": 139.8520605,
-    "latestObsDt": "2025-05-27 09:38",
+    "latestObsDt": "2025-05-28 09:46",
     "numSpeciesAllTime": 82
   },
   {
@@ -59956,8 +59958,8 @@
     "subnational2Code": "JP-23-01",
     "lat": 35.2120008,
     "lng": 136.8814516,
-    "latestObsDt": "2025-05-15 09:20",
-    "numSpeciesAllTime": 107
+    "latestObsDt": "2025-05-28 09:17",
+    "numSpeciesAllTime": 108
   },
   {
     "locId": "L17387632",
@@ -60198,7 +60200,7 @@
     "subnational2Code": "JP-23-01",
     "lat": 35.1554032,
     "lng": 136.9205636,
-    "latestObsDt": "2025-05-26 07:48",
+    "latestObsDt": "2025-05-27 07:50",
     "numSpeciesAllTime": 78
   },
   {
@@ -60264,8 +60266,8 @@
     "subnational2Code": "JP-47-05",
     "lat": 26.5892275,
     "lng": 127.994298,
-    "latestObsDt": "2025-05-24 07:48",
-    "numSpeciesAllTime": 48
+    "latestObsDt": "2025-05-27 13:41",
+    "numSpeciesAllTime": 49
   },
   {
     "locId": "L3922526",
@@ -61611,7 +61613,7 @@
     "subnational2Code": "JP-47-12",
     "lat": 26.7593301,
     "lng": 128.313613,
-    "latestObsDt": "2025-05-24 17:17",
+    "latestObsDt": "2025-05-27 06:40",
     "numSpeciesAllTime": 41
   },
   {
@@ -61820,8 +61822,8 @@
     "subnational2Code": "JP-47-12",
     "lat": 26.7649596,
     "lng": 128.3128338,
-    "latestObsDt": "2025-05-26 06:40",
-    "numSpeciesAllTime": 20
+    "latestObsDt": "2025-05-27 05:40",
+    "numSpeciesAllTime": 21
   },
   {
     "locId": "L1101816",
@@ -64034,8 +64036,8 @@
     "subnational2Code": "JP-01-160",
     "lat": 42.5320853,
     "lng": 143.4840631,
-    "latestObsDt": "2025-02-16 14:00",
-    "numSpeciesAllTime": 4
+    "latestObsDt": "2025-05-26 11:45",
+    "numSpeciesAllTime": 17
   },
   {
     "locId": "L4751762",
@@ -65330,7 +65332,7 @@
     "subnational2Code": "JP-14-22",
     "lat": 35.3057113,
     "lng": 139.3158245,
-    "latestObsDt": "2025-05-26 09:13",
+    "latestObsDt": "2025-05-28 07:43",
     "numSpeciesAllTime": 87
   },
   {
@@ -65405,8 +65407,8 @@
     "subnational2Code": "JP-01-136",
     "lat": 43.924722,
     "lng": 144.150556,
-    "latestObsDt": "2025-05-25 17:00",
-    "numSpeciesAllTime": 86
+    "latestObsDt": "2025-05-28 11:19",
+    "numSpeciesAllTime": 89
   },
   {
     "locId": "L5659302",
@@ -66976,7 +66978,7 @@
     "subnational2Code": "JP-46-36",
     "lat": 28.4535621,
     "lng": 129.5942974,
-    "latestObsDt": "2025-05-27 16:35",
+    "latestObsDt": "2025-05-28 15:59",
     "numSpeciesAllTime": 96
   },
   {
@@ -70211,7 +70213,7 @@
     "lat": 24.7671581,
     "lng": 125.3476117,
     "latestObsDt": "2023-02-15 09:30",
-    "numSpeciesAllTime": 90
+    "numSpeciesAllTime": 91
   },
   {
     "locId": "L2572724",
@@ -73028,7 +73030,7 @@
     "subnational2Code": "JP-01-03",
     "lat": 43.1641053,
     "lng": 141.2237763,
-    "latestObsDt": "2025-05-15 10:18",
+    "latestObsDt": "2025-05-28 12:52",
     "numSpeciesAllTime": 88
   },
   {
@@ -73198,7 +73200,7 @@
     "subnational2Code": "JP-01-03",
     "lat": 43.213028,
     "lng": 140.977018,
-    "latestObsDt": "2025-05-06 00:30",
+    "latestObsDt": "2025-05-28 10:59",
     "numSpeciesAllTime": 57
   },
   {
@@ -73317,7 +73319,7 @@
     "subnational2Code": "JP-01-126",
     "lat": 43.941562,
     "lng": 144.4137007,
-    "latestObsDt": "2025-05-27 15:59",
+    "latestObsDt": "2025-05-28 10:07",
     "numSpeciesAllTime": 105
   },
   {
@@ -73872,8 +73874,8 @@
     "subnational2Code": "JP-28-03",
     "lat": 34.7483511,
     "lng": 135.3919147,
-    "latestObsDt": "2025-05-27 10:17",
-    "numSpeciesAllTime": 67
+    "latestObsDt": "2025-05-28 06:47",
+    "numSpeciesAllTime": 68
   },
   {
     "locId": "L36374018",
@@ -74901,8 +74903,8 @@
     "subnational2Code": "JP-43-32",
     "lat": 32.6810156,
     "lng": 131.1513754,
-    "latestObsDt": "2025-04-09 14:24",
-    "numSpeciesAllTime": 7
+    "latestObsDt": "2025-05-28 11:50",
+    "numSpeciesAllTime": 12
   },
   {
     "locId": "L21484600",
@@ -75198,8 +75200,8 @@
     "subnational2Code": "JP-21-01",
     "lat": 35.4573516,
     "lng": 136.813283,
-    "latestObsDt": "2024-07-24 15:30",
-    "numSpeciesAllTime": 19
+    "latestObsDt": "2025-05-28 08:30",
+    "numSpeciesAllTime": 20
   },
   {
     "locId": "L11786468",
@@ -80244,7 +80246,7 @@
     "lat": 29.686264,
     "lng": 129.5318337,
     "latestObsDt": "2017-04-25 06:00",
-    "numSpeciesAllTime": 124
+    "numSpeciesAllTime": 125
   },
   {
     "locId": "L6843692",
@@ -81596,7 +81598,7 @@
     "subnational2Code": "JP-13-29",
     "lat": 35.6689342,
     "lng": 139.4776093,
-    "latestObsDt": "2025-05-27 06:45",
+    "latestObsDt": "2025-05-28 06:40",
     "numSpeciesAllTime": 18
   },
   {
@@ -81733,7 +81735,7 @@
     "subnational2Code": "JP-47-30",
     "lat": 26.2332755,
     "lng": 127.3052502,
-    "latestObsDt": "2025-05-05 10:00",
+    "latestObsDt": "2025-05-28 15:47",
     "numSpeciesAllTime": 45
   },
   {
@@ -81855,7 +81857,7 @@
     "lat": 34.2957862,
     "lng": 132.3199333,
     "latestObsDt": "2025-05-21 09:51",
-    "numSpeciesAllTime": 75
+    "numSpeciesAllTime": 76
   },
   {
     "locId": "L10083416",
@@ -82187,7 +82189,7 @@
     "subnational2Code": "JP-02-02",
     "lat": 40.6079274,
     "lng": 140.4636504,
-    "latestObsDt": "2025-05-10 06:23",
+    "latestObsDt": "2025-05-28 09:32",
     "numSpeciesAllTime": 66
   },
   {
@@ -82253,8 +82255,8 @@
     "subnational2Code": "JP-01-173",
     "lat": 43.5557431,
     "lng": 144.3234015,
-    "latestObsDt": "2025-04-08 05:30",
-    "numSpeciesAllTime": 72
+    "latestObsDt": "2025-05-28 17:53",
+    "numSpeciesAllTime": 74
   },
   {
     "locId": "L2385067",
@@ -84049,7 +84051,7 @@
     "subnational2Code": "JP-28-33",
     "lat": 34.7153351,
     "lng": 134.8796928,
-    "latestObsDt": "2025-05-27 06:00",
+    "latestObsDt": "2025-05-28 06:45",
     "numSpeciesAllTime": 69
   },
   {
@@ -84684,7 +84686,7 @@
     "subnational2Code": "JP-13-04",
     "lat": 35.6851675,
     "lng": 139.7098062,
-    "latestObsDt": "2025-05-27 12:54",
+    "latestObsDt": "2025-05-28 11:00",
     "numSpeciesAllTime": 107
   },
   {
@@ -84830,7 +84832,7 @@
     "subnational2Code": "JP-15-01",
     "lat": 38.034842,
     "lng": 138.8252163,
-    "latestObsDt": "2025-05-19 13:20",
+    "latestObsDt": "2025-05-28 13:58",
     "numSpeciesAllTime": 50
   },
   {
@@ -85178,8 +85180,8 @@
     "subnational2Code": "JP-09-06",
     "lat": 36.7443076,
     "lng": 139.5154667,
-    "latestObsDt": "2024-10-01 08:30",
-    "numSpeciesAllTime": 3
+    "latestObsDt": "2025-05-28 09:32",
+    "numSpeciesAllTime": 15
   },
   {
     "locId": "L10116135",
@@ -85319,7 +85321,7 @@
     "subnational2Code": "JP-09-06",
     "lat": 36.824193,
     "lng": 139.433802,
-    "latestObsDt": "2025-05-05 11:13",
+    "latestObsDt": "2025-05-28 08:04",
     "numSpeciesAllTime": 35
   },
   {
@@ -85407,7 +85409,7 @@
     "subnational2Code": "JP-09-06",
     "lat": 36.7772206,
     "lng": 139.4502836,
-    "latestObsDt": "2025-05-17 07:10",
+    "latestObsDt": "2025-05-28 13:07",
     "numSpeciesAllTime": 73
   },
   {
@@ -85429,7 +85431,7 @@
     "subnational2Code": "JP-09-06",
     "lat": 36.7709245,
     "lng": 139.4484155,
-    "latestObsDt": "2025-05-27 09:46",
+    "latestObsDt": "2025-05-28 05:16",
     "numSpeciesAllTime": 104
   },
   {
@@ -85612,8 +85614,8 @@
     "subnational2Code": "JP-09-06",
     "lat": 36.8081143,
     "lng": 139.4247517,
-    "latestObsDt": "2025-05-26 09:45",
-    "numSpeciesAllTime": 83
+    "latestObsDt": "2025-05-28 04:57",
+    "numSpeciesAllTime": 85
   },
   {
     "locId": "L2710232",
@@ -85742,8 +85744,8 @@
     "subnational2Code": "JP-09-06",
     "lat": 36.7427828,
     "lng": 139.3987799,
-    "latestObsDt": "2024-10-26 10:19",
-    "numSpeciesAllTime": 29
+    "latestObsDt": "2025-05-28 08:35",
+    "numSpeciesAllTime": 42
   },
   {
     "locId": "L8090054",
@@ -86865,8 +86867,8 @@
     "subnational2Code": "JP-28-04",
     "lat": 34.6990722,
     "lng": 134.9265504,
-    "latestObsDt": "2025-05-10 14:15",
-    "numSpeciesAllTime": 61
+    "latestObsDt": "2025-05-28 10:50",
+    "numSpeciesAllTime": 62
   },
   {
     "locId": "L5662707",
@@ -87783,8 +87785,8 @@
     "subnational2Code": "JP-01-01",
     "lat": 43.1463989,
     "lng": 141.2572243,
-    "latestObsDt": "2025-05-27 05:59",
-    "numSpeciesAllTime": 35
+    "latestObsDt": "2025-05-28 06:31",
+    "numSpeciesAllTime": 37
   },
   {
     "locId": "L8074757",
@@ -88034,7 +88036,7 @@
     "subnational2Code": "JP-01-01",
     "lat": 43.1290523,
     "lng": 141.3638735,
-    "latestObsDt": "2025-05-21 05:35",
+    "latestObsDt": "2025-05-28 05:31",
     "numSpeciesAllTime": 24
   },
   {
@@ -88089,7 +88091,7 @@
     "subnational2Code": "JP-01-01",
     "lat": 42.9867243,
     "lng": 141.3798702,
-    "latestObsDt": "2025-04-30 06:43",
+    "latestObsDt": "2025-05-28 10:08",
     "numSpeciesAllTime": 88
   },
   {
@@ -88254,7 +88256,7 @@
     "subnational2Code": "JP-13-15",
     "lat": 35.7147231,
     "lng": 139.5912766,
-    "latestObsDt": "2025-04-30 08:44",
+    "latestObsDt": "2025-05-28 10:28",
     "numSpeciesAllTime": 59
   },
   {
@@ -88298,7 +88300,7 @@
     "subnational2Code": "JP-13-15",
     "lat": 35.6931306,
     "lng": 139.629863,
-    "latestObsDt": "2025-01-11 11:05",
+    "latestObsDt": "2025-05-28 14:27",
     "numSpeciesAllTime": 28
   },
   {
@@ -89886,7 +89888,7 @@
     "subnational2Code": "JP-20-02",
     "lat": 36.2306524,
     "lng": 137.9835176,
-    "latestObsDt": "2025-05-25 10:37",
+    "latestObsDt": "2025-05-28 08:40",
     "numSpeciesAllTime": 54
   },
   {
@@ -89919,7 +89921,7 @@
     "subnational2Code": "JP-20-02",
     "lat": 36.2441766,
     "lng": 137.6247239,
-    "latestObsDt": "2025-05-23 15:38",
+    "latestObsDt": "2025-05-28 08:27",
     "numSpeciesAllTime": 61
   },
   {
@@ -89985,7 +89987,7 @@
     "subnational2Code": "JP-20-02",
     "lat": 36.2487858,
     "lng": 137.6377779,
-    "latestObsDt": "2025-05-26 08:06",
+    "latestObsDt": "2025-05-28 17:32",
     "numSpeciesAllTime": 85
   },
   {
@@ -90965,7 +90967,7 @@
     "subnational2Code": "JP-13-19",
     "lat": 35.7972866,
     "lng": 139.678576,
-    "latestObsDt": "2025-05-24 07:27",
+    "latestObsDt": "2025-05-28 07:27",
     "numSpeciesAllTime": 80
   },
   {
@@ -92646,7 +92648,7 @@
     "lat": 43.6677164,
     "lng": 145.1325059,
     "latestObsDt": "2025-03-05 13:21",
-    "numSpeciesAllTime": 74
+    "numSpeciesAllTime": 73
   },
   {
     "locId": "L2385170",
@@ -94157,7 +94159,7 @@
     "subnational2Code": "JP-14-01",
     "lat": 35.5490928,
     "lng": 139.509995,
-    "latestObsDt": "2025-05-27 08:35",
+    "latestObsDt": "2025-05-28 10:51",
     "numSpeciesAllTime": 40
   },
   {
@@ -94278,7 +94280,7 @@
     "subnational2Code": "JP-14-01",
     "lat": 35.3388816,
     "lng": 139.5858479,
-    "latestObsDt": "2025-05-27 09:23",
+    "latestObsDt": "2025-05-28 11:44",
     "numSpeciesAllTime": 82
   },
   {
@@ -95773,7 +95775,7 @@
     "subnational2Code": "JP-13-44",
     "lat": 35.7658931,
     "lng": 139.3797469,
-    "latestObsDt": "2025-05-23 11:12",
+    "latestObsDt": "2025-05-27 14:05",
     "numSpeciesAllTime": 58
   },
   {
@@ -96498,7 +96500,7 @@
     "lat": 35.636738,
     "lng": 139.8632526,
     "latestObsDt": "2025-05-27 06:57",
-    "numSpeciesAllTime": 80
+    "numSpeciesAllTime": 81
   },
   {
     "locId": "L23838625",
@@ -96508,7 +96510,7 @@
     "subnational2Code": "JP-13-23",
     "lat": 35.6381418,
     "lng": 139.8538542,
-    "latestObsDt": "2025-05-27 13:34",
+    "latestObsDt": "2025-05-28 08:49",
     "numSpeciesAllTime": 123
   },
   {
@@ -96519,7 +96521,7 @@
     "subnational2Code": "JP-13-23",
     "lat": 35.6398073,
     "lng": 139.8655486,
-    "latestObsDt": "2025-05-26 11:00",
+    "latestObsDt": "2025-05-28 10:27",
     "numSpeciesAllTime": 219
   },
   {
@@ -96530,8 +96532,8 @@
     "subnational2Code": "JP-13-23",
     "lat": 35.6443848,
     "lng": 139.8616165,
-    "latestObsDt": "2025-05-25 06:21",
-    "numSpeciesAllTime": 90
+    "latestObsDt": "2025-05-28 06:33",
+    "numSpeciesAllTime": 91
   },
   {
     "locId": "L6672654",
@@ -99309,7 +99311,7 @@
     "subnational2Code": "JP-13-13",
     "lat": 35.6713265,
     "lng": 139.6949816,
-    "latestObsDt": "2025-05-27 06:54",
+    "latestObsDt": "2025-05-28 10:55",
     "numSpeciesAllTime": 84
   },
   {
@@ -99320,7 +99322,7 @@
     "subnational2Code": "JP-13-13",
     "lat": 35.6712356,
     "lng": 139.6982697,
-    "latestObsDt": "2025-05-26 15:25",
+    "latestObsDt": "2025-05-28 12:00",
     "numSpeciesAllTime": 67
   },
   {
@@ -99419,7 +99421,7 @@
     "subnational2Code": "JP-13-13",
     "lat": 35.676019,
     "lng": 139.6993375,
-    "latestObsDt": "2025-05-26 11:42",
+    "latestObsDt": "2025-05-28 14:38",
     "numSpeciesAllTime": 114
   },
   {
@@ -99562,8 +99564,8 @@
     "subnational2Code": "JP-13-03",
     "lat": 35.6304073,
     "lng": 139.7761846,
-    "latestObsDt": "2025-04-27 16:24",
-    "numSpeciesAllTime": 63
+    "latestObsDt": "2025-05-28 16:33",
+    "numSpeciesAllTime": 65
   },
   {
     "locId": "L6832417",
@@ -99892,7 +99894,7 @@
     "subnational2Code": "JP-13-03",
     "lat": 35.6387915,
     "lng": 139.7197062,
-    "latestObsDt": "2025-05-23 11:57",
+    "latestObsDt": "2025-05-28 10:58",
     "numSpeciesAllTime": 84
   },
   {
@@ -100515,7 +100517,7 @@
     "subnational2Code": "JP-23-05",
     "lat": 35.190447,
     "lng": 137.122566,
-    "latestObsDt": "2025-05-21 07:47",
+    "latestObsDt": "2025-05-28 13:38",
     "numSpeciesAllTime": 104
   },
   {
@@ -101799,8 +101801,8 @@
     "subnational2Code": "JP-21-08",
     "lat": 35.312126,
     "lng": 137.303653,
-    "latestObsDt": "2025-05-27 14:53",
-    "numSpeciesAllTime": 24
+    "latestObsDt": "2025-05-28 17:44",
+    "numSpeciesAllTime": 25
   },
   {
     "locId": "L22496261",
@@ -102282,7 +102284,7 @@
     "subnational2Code": "JP-05-08",
     "lat": 39.3783056,
     "lng": 140.0434598,
-    "latestObsDt": "2025-05-19 06:14",
+    "latestObsDt": "2025-05-28 08:22",
     "numSpeciesAllTime": 58
   },
   {
@@ -102326,8 +102328,8 @@
     "subnational2Code": "JP-05-08",
     "lat": 39.3834624,
     "lng": 140.0434633,
-    "latestObsDt": "2025-05-14 06:14",
-    "numSpeciesAllTime": 53
+    "latestObsDt": "2025-05-28 06:49",
+    "numSpeciesAllTime": 57
   },
   {
     "locId": "L18457472",
@@ -103484,7 +103486,7 @@
     "subnational2Code": "JP-11-61",
     "lat": 36.0130229,
     "lng": 139.6792902,
-    "latestObsDt": "2025-05-27 09:34",
+    "latestObsDt": "2025-05-28 08:41",
     "numSpeciesAllTime": 43
   },
   {
@@ -103649,7 +103651,7 @@
     "subnational2Code": "JP-01-139",
     "lat": 42.5613043,
     "lng": 141.3859055,
-    "latestObsDt": "2025-05-25 17:35",
+    "latestObsDt": "2025-05-28 12:55",
     "numSpeciesAllTime": 66
   },
   {
@@ -106001,7 +106003,7 @@
     "subnational2Code": "JP-28-01",
     "lat": 34.6940294,
     "lng": 135.1941436,
-    "latestObsDt": "2025-05-24 17:22",
+    "latestObsDt": "2025-05-28 07:38",
     "numSpeciesAllTime": 11
   },
   {
@@ -108353,7 +108355,7 @@
     "subnational2Code": "JP-08-25",
     "lat": 35.9597988,
     "lng": 140.461413,
-    "latestObsDt": "2025-05-24 10:07",
+    "latestObsDt": "2025-05-28 11:35",
     "numSpeciesAllTime": 147
   },
   {
@@ -109606,7 +109608,7 @@
     "subnational2Code": "JP-14-29",
     "lat": 35.196256,
     "lng": 139.0260601,
-    "latestObsDt": "2025-05-20 12:57",
+    "latestObsDt": "2025-05-28 12:27",
     "numSpeciesAllTime": 79
   },
   {
@@ -109617,8 +109619,8 @@
     "subnational2Code": "JP-14-29",
     "lat": 35.2328605,
     "lng": 139.1043082,
-    "latestObsDt": "2025-05-26 17:58",
-    "numSpeciesAllTime": 26
+    "latestObsDt": "2025-05-28 17:25",
+    "numSpeciesAllTime": 31
   },
   {
     "locId": "L5633484",
@@ -109681,7 +109683,7 @@
     "subnational2Code": "JP-14-29",
     "lat": 35.2662249,
     "lng": 139.0177345,
-    "latestObsDt": "2025-03-18 14:47",
+    "latestObsDt": "2025-03-29 16:05",
     "numSpeciesAllTime": 13
   },
   {
@@ -109835,7 +109837,7 @@
     "subnational2Code": "JP-14-29",
     "lat": 35.2373122,
     "lng": 138.9944744,
-    "latestObsDt": "2025-05-25 15:00",
+    "latestObsDt": "2025-05-28 11:20",
     "numSpeciesAllTime": 56
   },
   {
@@ -110538,7 +110540,7 @@
     "subnational2Code": "JP-01-11",
     "lat": 44.0138903,
     "lng": 144.1166568,
-    "latestObsDt": "2025-05-25 15:00",
+    "latestObsDt": "2025-05-28 07:25",
     "numSpeciesAllTime": 106
   },
   {
@@ -110549,7 +110551,7 @@
     "subnational2Code": "JP-01-11",
     "lat": 43.9709577,
     "lng": 144.2151567,
-    "latestObsDt": "2025-05-21 17:40",
+    "latestObsDt": "2025-05-28 09:36",
     "numSpeciesAllTime": 83
   },
   {
@@ -110604,7 +110606,7 @@
     "subnational2Code": "JP-01-126",
     "lat": 43.9233789,
     "lng": 144.4295588,
-    "latestObsDt": "2025-05-04 12:56",
+    "latestObsDt": "2025-05-28 10:40",
     "numSpeciesAllTime": 111
   },
   {
@@ -110615,7 +110617,7 @@
     "subnational2Code": "JP-01-11",
     "lat": 43.9525715,
     "lng": 144.3592787,
-    "latestObsDt": "2025-05-27 16:45",
+    "latestObsDt": "2025-05-28 08:40",
     "numSpeciesAllTime": 143
   },
   {
@@ -110626,7 +110628,7 @@
     "subnational2Code": "JP-01-11",
     "lat": 44.0229206,
     "lng": 144.2647333,
-    "latestObsDt": "2024-09-22 07:00",
+    "latestObsDt": "2025-05-28 07:30",
     "numSpeciesAllTime": 31
   },
   {
@@ -110692,8 +110694,8 @@
     "subnational2Code": "JP-01-11",
     "lat": 44.1131797,
     "lng": 144.243536,
-    "latestObsDt": "2025-05-21 14:29",
-    "numSpeciesAllTime": 102
+    "latestObsDt": "2025-05-28 07:59",
+    "numSpeciesAllTime": 103
   },
   {
     "locId": "L2385164",
@@ -111584,7 +111586,7 @@
     "subnational2Code": "JP-01-109",
     "lat": 44.4175975,
     "lng": 141.5368652,
-    "latestObsDt": "2025-05-23 11:13",
+    "latestObsDt": "2025-05-28 13:43",
     "numSpeciesAllTime": 38
   },
   {
@@ -112017,7 +112019,7 @@
     "subnational2Code": "JP-12-04",
     "lat": 35.6726756,
     "lng": 139.9672543,
-    "latestObsDt": "2025-05-24 07:28",
+    "latestObsDt": "2025-05-28 15:20",
     "numSpeciesAllTime": 178
   },
   {
@@ -112735,7 +112737,7 @@
     "subnational2Code": "JP-14-09",
     "lat": 35.3480575,
     "lng": 139.4097823,
-    "latestObsDt": "2025-05-25 05:00",
+    "latestObsDt": "2025-05-28 06:42",
     "numSpeciesAllTime": 45
   },
   {
@@ -113116,7 +113118,7 @@
     "subnational2Code": "JP-11-18",
     "lat": 35.8152057,
     "lng": 139.7912908,
-    "latestObsDt": "2025-05-27 09:57",
+    "latestObsDt": "2025-05-28 08:15",
     "numSpeciesAllTime": 41
   },
   {
@@ -114412,7 +114414,7 @@
     "lat": 35.3963337,
     "lng": 139.4665715,
     "latestObsDt": "2024-09-26 17:45",
-    "numSpeciesAllTime": 7
+    "numSpeciesAllTime": 8
   },
   {
     "locId": "L7621888",
@@ -116844,7 +116846,7 @@
     "subnational2Code": "JP-28-10",
     "lat": 35.6183157,
     "lng": 134.818055,
-    "latestObsDt": "2025-05-27 11:44",
+    "latestObsDt": "2025-05-28 09:31",
     "numSpeciesAllTime": 73
   },
   {
@@ -117531,8 +117533,8 @@
     "subnational2Code": "JP-01-164",
     "lat": 42.6034266,
     "lng": 143.5427747,
-    "latestObsDt": "2025-05-01 10:55",
-    "numSpeciesAllTime": 98
+    "latestObsDt": "2025-05-26 10:00",
+    "numSpeciesAllTime": 101
   },
   {
     "locId": "L4751805",
@@ -117542,8 +117544,8 @@
     "subnational2Code": "JP-01-164",
     "lat": 42.659622,
     "lng": 143.6112428,
-    "latestObsDt": "2025-05-01 15:00",
-    "numSpeciesAllTime": 64
+    "latestObsDt": "2025-05-21 15:10",
+    "numSpeciesAllTime": 66
   },
   {
     "locId": "L7024681",
@@ -118056,7 +118058,7 @@
     "subnational2Code": "JP-20-26",
     "lat": 36.3095143,
     "lng": 138.5903621,
-    "latestObsDt": "2025-05-23 13:20",
+    "latestObsDt": "2025-05-27 12:21",
     "numSpeciesAllTime": 59
   },
   {
@@ -118100,7 +118102,7 @@
     "subnational2Code": "JP-20-26",
     "lat": 36.3901305,
     "lng": 138.5721432,
-    "latestObsDt": "2025-05-14 15:09",
+    "latestObsDt": "2025-05-27 10:59",
     "numSpeciesAllTime": 77
   },
   {
@@ -118769,7 +118771,7 @@
     "subnational2Code": "JP-16-01",
     "lat": 36.6617708,
     "lng": 137.1816927,
-    "latestObsDt": "2025-03-09 12:26",
+    "latestObsDt": "2025-05-28 14:07",
     "numSpeciesAllTime": 18
   },
   {
@@ -119196,8 +119198,8 @@
     "subnational2Code": "JP-09-11",
     "lat": 36.9901107,
     "lng": 140.0311804,
-    "latestObsDt": "2025-05-03 10:10",
-    "numSpeciesAllTime": 59
+    "latestObsDt": "2025-05-28 07:43",
+    "numSpeciesAllTime": 61
   },
   {
     "locId": "L6976059",
@@ -119251,8 +119253,8 @@
     "subnational2Code": "JP-09-24",
     "lat": 37.1267033,
     "lng": 139.9631542,
-    "latestObsDt": "2025-05-27 11:31",
-    "numSpeciesAllTime": 39
+    "latestObsDt": "2025-05-28 09:23",
+    "numSpeciesAllTime": 41
   },
   {
     "locId": "L34916279",
@@ -120040,7 +120042,7 @@
     "subnational2Code": "JP-17-01",
     "lat": 36.592826,
     "lng": 136.58544,
-    "latestObsDt": "2025-03-30 16:00",
+    "latestObsDt": "2025-05-28 09:21",
     "numSpeciesAllTime": 230
   },
   {
@@ -120117,7 +120119,7 @@
     "subnational2Code": "JP-17-01",
     "lat": 36.5656936,
     "lng": 136.6596973,
-    "latestObsDt": "2025-05-27 16:55",
+    "latestObsDt": "2025-05-28 15:14",
     "numSpeciesAllTime": 81
   },
   {
@@ -121475,7 +121477,7 @@
     "subnational2Code": "JP-23-39",
     "lat": 35.169088,
     "lng": 137.035002,
-    "latestObsDt": "2025-05-23 11:11",
+    "latestObsDt": "2025-05-28 10:19",
     "numSpeciesAllTime": 64
   },
   {
@@ -121486,7 +121488,7 @@
     "subnational2Code": "JP-23-39",
     "lat": 35.1672877,
     "lng": 137.0280612,
-    "latestObsDt": "2025-05-23 11:43",
+    "latestObsDt": "2025-05-28 10:59",
     "numSpeciesAllTime": 63
   },
   {
@@ -121746,7 +121748,7 @@
     "subnational2Code": "JP-42-01",
     "lat": 32.7735163,
     "lng": 129.8631218,
-    "latestObsDt": "2025-04-17 08:29",
+    "latestObsDt": "2025-05-27 23:59",
     "numSpeciesAllTime": 20
   },
   {
@@ -122693,8 +122695,8 @@
     "subnational2Code": "JP-43-12",
     "lat": 32.9873319,
     "lng": 131.1459017,
-    "latestObsDt": "2024-09-03 17:20",
-    "numSpeciesAllTime": 17
+    "latestObsDt": "2025-05-28 17:43",
+    "numSpeciesAllTime": 19
   },
   {
     "locId": "L24003507",
@@ -122704,8 +122706,8 @@
     "subnational2Code": "JP-43-12",
     "lat": 32.8997678,
     "lng": 131.1026859,
-    "latestObsDt": "2025-05-14 16:14",
-    "numSpeciesAllTime": 16
+    "latestObsDt": "2025-05-28 16:54",
+    "numSpeciesAllTime": 18
   },
   {
     "locId": "L23030367",
@@ -122781,7 +122783,7 @@
     "subnational2Code": "JP-43-27",
     "lat": 32.8818938,
     "lng": 131.0532475,
-    "latestObsDt": "2025-05-01 12:44",
+    "latestObsDt": "2025-05-28 15:02",
     "numSpeciesAllTime": 32
   },
   {
@@ -123322,8 +123324,8 @@
     "subnational2Code": "JP-13-28",
     "lat": 35.7769626,
     "lng": 139.2809855,
-    "latestObsDt": "2025-05-13 15:30",
-    "numSpeciesAllTime": 34
+    "latestObsDt": "2025-05-28 12:04",
+    "numSpeciesAllTime": 37
   },
   {
     "locId": "L10416382",
@@ -126126,8 +126128,8 @@
     "subnational2Code": "JP-37-01",
     "lat": 34.344251,
     "lng": 134.1088951,
-    "latestObsDt": "2024-11-03 13:46",
-    "numSpeciesAllTime": 10
+    "latestObsDt": "2025-05-28 10:07",
+    "numSpeciesAllTime": 12
   },
   {
     "locId": "L7026025",
@@ -126181,7 +126183,7 @@
     "subnational2Code": "JP-37-01",
     "lat": 34.3503808,
     "lng": 134.0515709,
-    "latestObsDt": "2025-04-13 07:00",
+    "latestObsDt": "2025-05-28 15:07",
     "numSpeciesAllTime": 34
   },
   {
@@ -126329,8 +126331,8 @@
     "subnational2Code": "JP-27-08",
     "lat": 34.8609298,
     "lng": 135.6362973,
-    "latestObsDt": "2020-02-02 14:30",
-    "numSpeciesAllTime": 8
+    "latestObsDt": "2025-05-28 15:17",
+    "numSpeciesAllTime": 11
   },
   {
     "locId": "L5395859",
