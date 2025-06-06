@@ -3702,6 +3702,14 @@
     "numSpeciesAllTime": 87
   },
   {
+    "locId": "L45785679",
+    "locName": "台中--烏日知高圳步道(Taichung--Wuri Zhigaozun Trail)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TXG",
+    "lat": 24.1185724,
+    "lng": 120.58928
+  },
+  {
     "locId": "L9502637",
     "locName": "台中--環清宮(Taichung--Huanqing Temple)",
     "countryCode": "TW",
@@ -6842,6 +6850,14 @@
     "numSpeciesAllTime": 100
   },
   {
+    "locId": "L35525189",
+    "locName": "台北--土城承天禪寺(Taipei--Tucheng Chengtian Temple)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TPQ",
+    "lat": 24.951055,
+    "lng": 121.4477178
+  },
+  {
     "locId": "L13137821",
     "locName": "台北--土城桐花公園(Taipei--Tucheng Tonghua Park)",
     "countryCode": "TW",
@@ -9730,6 +9746,14 @@
     "lng": 121.4624042,
     "latestObsDt": "2025-05-30 23:52",
     "numSpeciesAllTime": 44
+  },
+  {
+    "locId": "L46183686",
+    "locName": "台北--淡江大學(Taipei--Tamkang University)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-TPQ",
+    "lat": 25.1738163,
+    "lng": 121.4474463
   },
   {
     "locId": "L4902498",
@@ -17358,6 +17382,22 @@
     "lng": 120.4871326,
     "latestObsDt": "2024-12-05 15:42",
     "numSpeciesAllTime": 29
+  },
+  {
+    "locId": "L7966122",
+    "locName": "嘉義--新中橫公路 89.5K觀景台(Chiayi--#18 Prov. Road 89.5K Lookout)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-CYQ",
+    "lat": 23.5009695,
+    "lng": 120.800858
+  },
+  {
+    "locId": "L26079313",
+    "locName": "嘉義--新中橫公路 92K觀景台(Chiayi--#18 Prov. Road 92K Lookout)",
+    "countryCode": "TW",
+    "subnational1Code": "TW-CYQ",
+    "lat": 23.5067377,
+    "lng": 120.8173917
   },
   {
     "locId": "L2888270",
@@ -41834,6 +41874,15 @@
     "numSpeciesAllTime": 4
   },
   {
+    "locId": "L46888533",
+    "locName": "つがる市--田光沼 (Tsugaru--Lake Tappi)",
+    "countryCode": "JP",
+    "subnational1Code": "JP-02",
+    "subnational2Code": "JP-02-09",
+    "lat": 40.9109522,
+    "lng": 140.3658159
+  },
+  {
     "locId": "L45325730",
     "locName": "つくばみらい市--福岡堰--福岡堰さくら公園 (Tsukubamirai--Fukuoka Weir--Fukuoka Weir Sakura Park)",
     "countryCode": "JP",
@@ -49122,6 +49171,15 @@
     "lng": 135.7345761,
     "latestObsDt": "2014-07-13 11:24",
     "numSpeciesAllTime": 5
+  },
+  {
+    "locId": "L46857320",
+    "locName": "京都市--花脊リゾート山村都市交流の森 (Kyoto--Hanase Resort Park)",
+    "countryCode": "JP",
+    "subnational1Code": "JP-26",
+    "subnational2Code": "JP-26-01",
+    "lat": 35.2199596,
+    "lng": 135.7816601
   },
   {
     "locId": "L10097073",
