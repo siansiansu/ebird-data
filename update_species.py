@@ -64,7 +64,7 @@ def update_species_data():
         'pt_BR': 'comNamePtBR',
         'ru': 'comNameRu',
         'zh': 'comNameZh',
-        'zh_CN': 'comNameZhCN'
+        'zh_SIM': 'comNameZhSIM'
     }
 
     total_locales = len(locales)

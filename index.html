@@ -1,60 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>eBird Species Search</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <div class="container">
         <header class="header">
-            <h1>🐦 eBird Species Search</h1>
+            <h1>Bird Name Finder</h1>
             <p>Search for bird species in multiple languages</p>
         </header>
 
         <div class="search-section">
             <div class="search-container">
-                <div class="search-controls">
-                    <input 
-                        type="text" 
-                        id="searchInput" 
-                        class="search-input" 
-                        placeholder="Enter bird name, scientific name, or alternative name..."
-                        autocomplete="off"
-                    >
-                    <div class="language-selector">
-                        <button 
-                            id="languageButton" 
-                            class="language-button" 
-                            type="button" 
-                            aria-expanded="false"
-                            aria-haspopup="listbox"
-                        >
-                            <span id="selectedLanguage">English</span>
-                            <span class="language-arrow">▼</span>
-                        </button>
-                        <div id="languageDropdown" class="language-dropdown" hidden role="listbox">
-                            <button class="language-option" data-lang="comName" role="option" aria-selected="true">English</button>
-                            <button class="language-option" data-lang="comNameDe" role="option">Deutsch</button>
-                            <button class="language-option" data-lang="comNameEsLA" role="option">Español (LA)</button>
-                            <button class="language-option" data-lang="comNameEsES" role="option">Español (ES)</button>
-                            <button class="language-option" data-lang="comNameFr" role="option">Français</button>
-                            <button class="language-option" data-lang="comNameIt" role="option">Italiano</button>
-                            <button class="language-option" data-lang="comNameJp" role="option">日本語</button>
-                            <button class="language-option" data-lang="comNamePtPT" role="option">Português (PT)</button>
-                            <button class="language-option" data-lang="comNamePtBR" role="option">Português (BR)</button>
-                            <button class="language-option" data-lang="comNameRu" role="option">Русский</button>
-                            <button class="language-option" data-lang="comNameZh" role="option">中文(繁)</button>
-                            <button class="language-option" data-lang="comNameZhCN" role="option">中文(简)</button>
-                        </div>
-                    </div>
+                <div class="search-input-container">
+                    <input type="text" id="searchInput" class="search-input"
+                        placeholder="Enter bird name, scientific name, or alternative name..." autocomplete="off">
+                    <div id="suggestionsDropdown" class="suggestions-dropdown"></div>
                 </div>
-                <button id="searchButton" class="search-button">Search</button>
-                <button id="clearButton" class="clear-button">Clear</button>
+                <button id="searchButton" class="search-button">
+                    <i class="fas fa-search"></i>
+                </button>
             </div>
             <div class="stats">
-                <span id="resultCount">Enter a search term to find bird species</span>
+                <span id="resultCount"></span>
                 <span id="loadTime"></span>
             </div>
         </div>
@@ -76,4 +50,5 @@
 
     <script src="script.js"></script>
 </body>
+
 </html>
