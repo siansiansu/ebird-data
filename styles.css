@@ -116,10 +116,10 @@ body {
     overflow-y: auto;
     margin-top: 4px;
     display: none;
-}"
+}
 
 .suggestions-dropdown.show {
-    display: block;
+    display: block !important;
 }
 
 .suggestion-item {
