@@ -4,7 +4,7 @@ on:
   push:
     branches: ["main"]
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 permissions:
@@ -26,7 +26,7 @@ jobs:
         env:
           EBIRD_API_KEY: ${{ secrets.EBIRD_API_KEY }}
         run: |
-          ./update.sh
+          python update_species.py
       - name: Validate JSON files
         run: |
           valid=true
