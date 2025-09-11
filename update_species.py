@@ -54,22 +54,15 @@ def update_species_data():
     species_data = {}
     locales = {
         'en': 'comName',
-        'cs': 'comNameCs',
         'de': 'comNameDe',
         'es_419': 'comNameEsLA',
         'es_ES': 'comNameEsES', 
-        'eu': 'comNameEu',
         'fr': 'comNameFr',
         'it': 'comNameIt',
-        'iw': 'comNameIw',
         'ja': 'comNameJp',
-        'mn': 'comNameMn',
-        'no': 'comNameNo',
         'pt_PT': 'comNamePtPT',
         'pt_BR': 'comNamePtBR',
         'ru': 'comNameRu',
-        'tr': 'comNameTr',
-        'uk': 'comNameUk',
         'zh': 'comNameZh',
         'zh_CN': 'comNameZhCN'
     }
