@@ -139,12 +139,7 @@ body {
 }
 
 .suggestion-item.active {
-    background-color: var(--ds-color-blue-500);
-    color: var(--ds-color-neutral-0);
-}
-
-.suggestion-item.active .scientific-name {
-    color: var(--ds-color-neutral-200);
+    background-color: var(--ds-color-neutral-100);
 }
 
 .suggestion-common-name {
@@ -160,13 +155,6 @@ body {
     color: var(--ds-color-neutral-700);
 }
 
-.suggestion-item.active .suggestion-common-name {
-    color: var(--ds-color-neutral-0);
-}
-
-.suggestion-item.active .suggestion-scientific-name {
-    color: var(--ds-color-neutral-200);
-}
 
 /* Custom scrollbar for suggestions */
 .suggestions-dropdown::-webkit-scrollbar {

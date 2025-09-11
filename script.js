@@ -167,10 +167,10 @@ function updateActiveSuggestion(suggestions) {
             const dropdownScrollTop = dropdown.scrollTop;
             const dropdownHeight = dropdown.offsetHeight;
             if (itemTop < dropdownScrollTop) {
-                dropdown.scrollTop = itemTop;
+                dropdown.scrollTop = Math.max(0, itemTop - 8);
             }
             else if (itemTop + itemHeight > dropdownScrollTop + dropdownHeight) {
-                dropdown.scrollTop = itemTop + itemHeight - dropdownHeight;
+                dropdown.scrollTop = itemTop + itemHeight - dropdownHeight + 8;
             }
         } else {
             item.classList.remove('active');
