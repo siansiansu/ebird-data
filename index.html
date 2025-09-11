@@ -15,13 +15,41 @@
 
         <div class="search-section">
             <div class="search-container">
-                <input 
-                    type="text" 
-                    id="searchInput" 
-                    class="search-input" 
-                    placeholder="Enter bird name, scientific name, or alternative name..."
-                    autocomplete="off"
-                >
+                <div class="search-controls">
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="search-input" 
+                        placeholder="Enter bird name, scientific name, or alternative name..."
+                        autocomplete="off"
+                    >
+                    <div class="language-selector">
+                        <button 
+                            id="languageButton" 
+                            class="language-button" 
+                            type="button" 
+                            aria-expanded="false"
+                            aria-haspopup="listbox"
+                        >
+                            <span id="selectedLanguage">English</span>
+                            <span class="language-arrow">▼</span>
+                        </button>
+                        <div id="languageDropdown" class="language-dropdown" hidden role="listbox">
+                            <button class="language-option" data-lang="comName" role="option" aria-selected="true">English</button>
+                            <button class="language-option" data-lang="comNameDe" role="option">Deutsch</button>
+                            <button class="language-option" data-lang="comNameEsLA" role="option">Español (LA)</button>
+                            <button class="language-option" data-lang="comNameEsES" role="option">Español (ES)</button>
+                            <button class="language-option" data-lang="comNameFr" role="option">Français</button>
+                            <button class="language-option" data-lang="comNameIt" role="option">Italiano</button>
+                            <button class="language-option" data-lang="comNameJp" role="option">日本語</button>
+                            <button class="language-option" data-lang="comNamePtPT" role="option">Português (PT)</button>
+                            <button class="language-option" data-lang="comNamePtBR" role="option">Português (BR)</button>
+                            <button class="language-option" data-lang="comNameRu" role="option">Русский</button>
+                            <button class="language-option" data-lang="comNameZh" role="option">中文(繁)</button>
+                            <button class="language-option" data-lang="comNameZhCN" role="option">中文(简)</button>
+                        </div>
+                    </div>
+                </div>
                 <button id="searchButton" class="search-button">Search</button>
                 <button id="clearButton" class="clear-button">Clear</button>
             </div>
@@ -46,254 +74,6 @@
         </div>
     </div>
 
-    <script>
-        let speciesData = [];
-        let isLoading = false;
-
-        // Language code mappings
-        const languageNames = {
-            'comName': 'English',
-            'comNameDe': 'Deutsch', 
-            'comNameEsLA': 'Español (LA)',
-            'comNameEsES': 'Español (ES)',
-            'comNameFr': 'Français',
-            'comNameIt': 'Italiano',
-            'comNameJp': '日本語',
-            'comNamePtPT': 'Português (PT)',
-            'comNamePtBR': 'Português (BR)',
-            'comNameRu': 'Русский',
-            'comNameZh': '中文(繁)',
-            'comNameZhCN': '中文(简)'
-        };
-
-        // Load species data
-        async function loadSpeciesData() {
-            if (isLoading || speciesData.length > 0) return;
-            
-            isLoading = true;
-            const loadingIndicator = document.getElementById('loadingIndicator');
-            loadingIndicator.style.display = 'block';
-
-            try {
-                const response = await fetch('./species.json');
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                speciesData = await response.json();
-                console.log(`Loaded ${speciesData.length} species`);
-            } catch (error) {
-                console.error('Error loading species data:', error);
-                showError('Failed to load species data. Please try again later.');
-            } finally {
-                isLoading = false;
-                loadingIndicator.style.display = 'none';
-            }
-        }
-
-        // Search function
-        function searchSpecies(query) {
-            if (!query.trim()) {
-                showResults([]);
-                return;
-            }
-
-            const startTime = performance.now();
-            const searchTerm = query.toLowerCase().trim();
-            
-            const results = speciesData.filter(species => {
-                // Search in scientific name
-                if (species.sciName && species.sciName.toLowerCase().includes(searchTerm)) {
-                    return true;
-                }
-
-                // Search in all language names
-                for (const field in languageNames) {
-                    if (species[field] && species[field].toLowerCase().includes(searchTerm)) {
-                        return true;
-                    }
-                }
-
-                // Search in alternative names
-                if (species.comNameList && species.comNameList.length > 0) {
-                    return species.comNameList.some(name => 
-                        name.toLowerCase().includes(searchTerm)
-                    );
-                }
-
-                return false;
-            });
-
-            const endTime = performance.now();
-            const loadTime = Math.round(endTime - startTime);
-            
-            showResults(results, loadTime);
-        }
-
-        // Show results
-        function showResults(results, loadTime = 0) {
-            const resultsContainer = document.getElementById('resultsContainer');
-            const noResults = document.getElementById('noResults');
-            const resultCount = document.getElementById('resultCount');
-            const loadTimeSpan = document.getElementById('loadTime');
-
-            // Update stats
-            if (results.length === 0 && document.getElementById('searchInput').value.trim()) {
-                resultCount.textContent = 'No results found';
-                noResults.style.display = 'block';
-                resultsContainer.style.display = 'none';
-            } else if (results.length === 0) {
-                resultCount.textContent = 'Enter a search term to find bird species';
-                noResults.style.display = 'none';
-                resultsContainer.style.display = 'none';
-            } else {
-                resultCount.textContent = `Found ${results.length} species`;
-                noResults.style.display = 'none';
-                resultsContainer.style.display = 'block';
-            }
-
-            if (loadTime > 0) {
-                loadTimeSpan.textContent = `(${loadTime}ms)`;
-            } else {
-                loadTimeSpan.textContent = '';
-            }
-
-            // Clear previous results
-            resultsContainer.innerHTML = '';
-
-            // Show results
-            results.forEach(species => {
-                const card = createSpeciesCard(species);
-                resultsContainer.appendChild(card);
-            });
-        }
-
-        // Create species card
-        function createSpeciesCard(species) {
-            const card = document.createElement('div');
-            card.className = 'result-card';
-
-            const speciesName = document.createElement('h3');
-            speciesName.className = 'species-name';
-            speciesName.textContent = species.comName || 'Unknown';
-
-            const scientificName = document.createElement('p');
-            scientificName.className = 'scientific-name';
-            scientificName.textContent = species.sciName || '';
-
-            const languagesGrid = document.createElement('div');
-            languagesGrid.className = 'languages-grid';
-
-            // Add all language names
-            Object.entries(languageNames).forEach(([field, langName]) => {
-                if (species[field] && species[field] !== species.comName) {
-                    const languageItem = document.createElement('div');
-                    languageItem.className = 'language-item';
-
-                    const languageCode = document.createElement('span');
-                    languageCode.className = 'language-code';
-                    languageCode.textContent = field.replace('comName', '').toLowerCase() || 'en';
-
-                    const languageName = document.createElement('span');
-                    languageName.className = 'language-name';
-                    languageName.textContent = species[field];
-
-                    languageItem.appendChild(languageCode);
-                    languageItem.appendChild(languageName);
-                    languagesGrid.appendChild(languageItem);
-                }
-            });
-
-            card.appendChild(speciesName);
-            card.appendChild(scientificName);
-            card.appendChild(languagesGrid);
-
-            // Add alternative names if available
-            if (species.comNameList && species.comNameList.length > 0) {
-                const alternativeNames = document.createElement('div');
-                alternativeNames.className = 'alternative-names';
-
-                const label = document.createElement('div');
-                label.className = 'alternative-names-label';
-                label.textContent = 'Alternative names:';
-
-                const namesList = document.createElement('div');
-                namesList.className = 'alternative-names-list';
-
-                species.comNameList.forEach(name => {
-                    const nameSpan = document.createElement('span');
-                    nameSpan.className = 'alternative-name';
-                    nameSpan.textContent = name;
-                    namesList.appendChild(nameSpan);
-                });
-
-                alternativeNames.appendChild(label);
-                alternativeNames.appendChild(namesList);
-                card.appendChild(alternativeNames);
-            }
-
-            return card;
-        }
-
-        // Show error message
-        function showError(message) {
-            const errorMessage = document.getElementById('errorMessage');
-            errorMessage.textContent = message;
-            errorMessage.style.display = 'block';
-            setTimeout(() => {
-                errorMessage.style.display = 'none';
-            }, 5000);
-        }
-
-        // Event listeners
-        document.addEventListener('DOMContentLoaded', () => {
-            const searchInput = document.getElementById('searchInput');
-            const searchButton = document.getElementById('searchButton');
-            const clearButton = document.getElementById('clearButton');
-
-            // Load data when page loads
-            loadSpeciesData();
-
-            // Search on input
-            let searchTimeout;
-            searchInput.addEventListener('input', (e) => {
-                clearTimeout(searchTimeout);
-                searchTimeout = setTimeout(() => {
-                    if (speciesData.length > 0) {
-                        searchSpecies(e.target.value);
-                    }
-                }, 300);
-            });
-
-            // Search on button click
-            searchButton.addEventListener('click', () => {
-                if (speciesData.length > 0) {
-                    searchSpecies(searchInput.value);
-                } else {
-                    loadSpeciesData().then(() => {
-                        searchSpecies(searchInput.value);
-                    });
-                }
-            });
-
-            // Clear search
-            clearButton.addEventListener('click', () => {
-                searchInput.value = '';
-                showResults([]);
-            });
-
-            // Search on Enter
-            searchInput.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter') {
-                    if (speciesData.length > 0) {
-                        searchSpecies(searchInput.value);
-                    } else {
-                        loadSpeciesData().then(() => {
-                            searchSpecies(searchInput.value);
-                        });
-                    }
-                }
-            });
-        });
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>

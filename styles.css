@@ -77,6 +77,103 @@ body {
     margin-bottom: 16px;
 }
 
+.search-controls {
+    display: flex;
+    gap: 12px;
+    flex: 1;
+}
+
+.language-selector {
+    position: relative;
+    min-width: 160px;
+}
+
+.language-button {
+    width: 100%;
+    padding: 12px 16px;
+    background: var(--ds-color-neutral-0);
+    border: 2px solid var(--ds-color-neutral-300);
+    border-radius: var(--ds-border-radius);
+    font-size: 16px;
+    font-family: var(--ds-font-family);
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: border-color 0.15s ease;
+}
+
+.language-button:hover {
+    border-color: var(--ds-color-neutral-400);
+}
+
+.language-button:focus {
+    outline: none;
+    border-color: var(--ds-color-blue-500);
+    box-shadow: 0 0 0 1px var(--ds-color-blue-500);
+}
+
+.language-button[aria-expanded="true"] {
+    border-color: var(--ds-color-blue-500);
+    box-shadow: 0 0 0 1px var(--ds-color-blue-500);
+}
+
+.language-arrow {
+    transition: transform 0.15s ease;
+    font-size: 12px;
+    color: var(--ds-color-neutral-600);
+}
+
+.language-button[aria-expanded="true"] .language-arrow {
+    transform: rotate(180deg);
+}
+
+.language-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--ds-color-neutral-0);
+    border: 2px solid var(--ds-color-blue-500);
+    border-radius: var(--ds-border-radius);
+    box-shadow: var(--ds-shadow-overlay);
+    z-index: 1000;
+    max-height: 300px;
+    overflow-y: auto;
+    margin-top: 4px;
+}
+
+.language-dropdown[hidden] {
+    display: none;
+}
+
+.language-option {
+    padding: 12px 16px;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+    border: none;
+    width: 100%;
+    text-align: left;
+    background: none;
+    font-family: var(--ds-font-family);
+    font-size: 14px;
+}
+
+.language-option:hover {
+    background-color: var(--ds-color-neutral-100);
+}
+
+.language-option:focus {
+    outline: none;
+    background-color: var(--ds-color-blue-500);
+    color: var(--ds-color-neutral-0);
+}
+
+.language-option[aria-selected="true"] {
+    background-color: var(--ds-color-blue-500);
+    color: var(--ds-color-neutral-0);
+}
+
 .search-input {
     flex: 1;
     padding: 12px 16px;
@@ -264,6 +361,14 @@ body {
 
     .search-container {
         flex-direction: column;
+    }
+
+    .search-controls {
+        flex-direction: column;
+    }
+
+    .language-selector {
+        min-width: auto;
     }
 
     .languages-grid {
