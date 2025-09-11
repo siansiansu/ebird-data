@@ -5,7 +5,7 @@ import subprocess
 import os
 import sys
 
-EBIRD_API_KEY = os.environ.get('EBIRD_API_KEY', '694uloho5a0b')
+EBIRD_API_KEY = os.environ.get('EBIRD_API_KEY', 'EBIRD_API_KEY')
 
 def run_curl_command(url, output_file=None):
     cmd = ['curl', '-s', '--location', url, '--header', f'x-ebirdapitoken: {EBIRD_API_KEY}']
@@ -43,7 +43,7 @@ def update_region_data():
     print(f"Saving region data ({len(combined_data)} total locations)...")
     with open('./region.json', 'w', encoding='utf-8') as f:
         json.dump(combined_data, f, ensure_ascii=False, indent=4)
-    
+
     os.makedirs('./json', exist_ok=True)
     with open('./json/region.json', 'w', encoding='utf-8') as f:
         json.dump(combined_data, f, ensure_ascii=False, indent=4)
@@ -56,7 +56,7 @@ def update_species_data():
         'en': 'comName',
         'de': 'comNameDe',
         'es_419': 'comNameEsLA',
-        'es_ES': 'comNameEsES', 
+        'es_ES': 'comNameEsES',
         'fr': 'comNameFr',
         'it': 'comNameIt',
         'ja': 'comNameJp',
@@ -99,25 +99,25 @@ def load_species_mapping():
 
 def generate_common_name_list(com_name_zh, species_mapping):
     com_name_list = []
-    
+
     if '臺灣' in com_name_zh:
         com_name_list.extend([com_name_zh.replace('臺', '台')])
-    
+
     for keyword, alternatives in species_mapping.items():
         if keyword in com_name_zh:
             if keyword == '繡眼' and '畫眉' in com_name_zh:
                 continue
             com_name_list.extend(alternatives)
-    
+
     return list(dict.fromkeys(com_name_list))
 
 def merge_species_data(species_data, locales):
     print("Merging species data...")
     species_mapping = load_species_mapping()
-    
+
     species_en = species_data.get('en', [])
     print(f"  Processing {len(species_en)} species...")
-    
+
     locale_dicts = {}
     for locale in locales.keys():
         if locale != 'en' and locale in species_data:
@@ -126,11 +126,11 @@ def merge_species_data(species_data, locales):
     print("  Merging multilingual names...")
     for en_item in species_en:
         sci_name = en_item.get('sciName')
-        
+
         for locale, field_name in locales.items():
             if locale == 'en':
                 continue
-                
+
             if locale in locale_dicts and sci_name in locale_dicts[locale]:
                 locale_name = locale_dicts[locale][sci_name].get('comName')
                 if locale_name:
@@ -149,7 +149,7 @@ def merge_species_data(species_data, locales):
             filtered_data.append(entry)
 
     print(f"  Generated alternative names for {len(filtered_data)} species")
-    
+
     com_name_dict = {item['sciName']: item['comNameList'] for item in filtered_data}
 
     for species in species_en:
@@ -162,7 +162,7 @@ def merge_species_data(species_data, locales):
     print("Saving species data...")
     with open('./species.json', 'w', encoding='utf-8') as merged_file:
         json.dump(species_en, merged_file, ensure_ascii=False, indent=4)
-    
+
     with open('./json/species.json', 'w', encoding='utf-8') as merged_file:
         json.dump(species_en, merged_file, ensure_ascii=False, indent=4)
     print("✓ Species data saved")
@@ -170,7 +170,7 @@ def merge_species_data(species_data, locales):
 def main():
     print("🐦 eBird Data Update Started")
     print("=" * 40)
-    
+
     update_region_data()
     print()
 
@@ -179,7 +179,7 @@ def main():
 
     merge_species_data(species_data, locales)
     print()
-    
+
     print("=" * 40)
     print("✅ eBird data update completed!")
     print("Output files:")
