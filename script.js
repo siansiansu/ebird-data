@@ -43,7 +43,55 @@ function showSuggestions(query) {
     }
     const startTime = performance.now();
     const searchTerm = query.toLowerCase().trim();
+    
+    const languageAbbreviations = {
+        'zh': 'comNameZh',
+        'zhsim': 'comNameZhCN', 
+        'jp': 'comNameJp',
+        'en': 'comName',
+        'de': 'comNameDe',
+        'fr': 'comNameFr',
+        'it': 'comNameIt',
+        'es': 'comNameEsES',
+        'esla': 'comNameEsLA',
+        'pt': 'comNamePtPT',
+        'ptbr': 'comNamePtBR',
+        'ru': 'comNameRu'
+    };
+    
     const matches = speciesData.filter(species => {
+        const langMatch = searchTerm.match(/^([a-z]+):\s*(.+)$/);
+        const codeMatch = searchTerm.match(/^code:\s*(.+)$/);
+        
+        if (langMatch) {
+            const [, langCode, keyword] = langMatch;
+            const fieldName = languageAbbreviations[langCode];
+            if (fieldName && species[fieldName]) {
+                return species[fieldName].toLowerCase().includes(keyword);
+            }
+            return false;
+        }
+        
+        if (codeMatch) {
+            const keyword = codeMatch[1].toLowerCase();
+            if (species.speciesCode && species.speciesCode.toLowerCase().includes(keyword)) {
+                return true;
+            }
+            if (species.bandingCodes && Array.isArray(species.bandingCodes) && 
+                species.bandingCodes.some(code => code.toLowerCase().includes(keyword))) {
+                return true;
+            }
+            if (species.comNameCodes && Array.isArray(species.comNameCodes) && 
+                species.comNameCodes.some(code => code.toLowerCase().includes(keyword))) {
+                return true;
+            }
+            if (species.sciNameCodes && Array.isArray(species.sciNameCodes) && 
+                species.sciNameCodes.some(code => code.toLowerCase().includes(keyword))) {
+                return true;
+            }
+            return false;
+        }
+        
         if (species.comNameZh && species.comNameZh.toLowerCase().includes(searchTerm)) {
             return true;
         }
