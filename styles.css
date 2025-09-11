@@ -147,6 +147,12 @@ body {
     font-weight: 500;
     color: var(--ds-color-neutral-1000);
     margin-bottom: 2px;
+    transition: color 0.15s ease;
+}
+
+.suggestion-item:hover .suggestion-common-name,
+.suggestion-item.active .suggestion-common-name {
+    color: var(--ds-color-blue-600);
 }
 
 .suggestion-scientific-name {
@@ -229,6 +235,24 @@ body {
     align-items: center;
     font-size: 14px;
     color: var(--ds-color-neutral-700);
+    margin-top: 16px;
+}
+
+.search-syntax-hint {
+    font-size: 13px;
+    color: var(--ds-color-neutral-700);
+    text-align: right;
+    margin-top: -8px; /* Pull it closer to the search bar */
+    margin-bottom: 16px;
+}
+
+.search-syntax-hint code {
+    background: var(--ds-color-neutral-200);
+    color: var(--ds-color-neutral-900);
+    padding: 2px 5px;
+    border-radius: 2px;
+    font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
+    font-size: 12px;
 }
 
 .loading {
@@ -466,55 +490,21 @@ body {
     margin-bottom: 16px;
 }
 
-/* Syntax help styles */
-.syntax-help {
-    background: var(--ds-color-neutral-0);
-    padding: 20px;
-    border-radius: var(--ds-border-radius);
-    box-shadow: var(--ds-shadow-raised);
-    margin-bottom: 24px;
-}
-
-.syntax-help h3 {
-    font-size: 18px;
-    font-weight: 600;
-    color: var(--ds-color-neutral-1000);
-    margin-bottom: 16px;
-}
-
-.syntax-examples {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-}
-
-.syntax-group h4 {
+footer {
+    text-align: center;
+    padding: 24px;
+    margin-top: 32px;
     font-size: 14px;
-    font-weight: 600;
-    color: var(--ds-color-neutral-800);
-    margin-bottom: 8px;
 }
 
-.syntax-list {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-}
-
-.syntax-item {
-    font-size: 14px;
+footer a {
     color: var(--ds-color-neutral-700);
-    line-height: 1.4;
+    text-decoration: none;
+    transition: color 0.15s ease;
 }
 
-.syntax-item code {
-    background: var(--ds-color-neutral-100);
+footer a:hover {
     color: var(--ds-color-blue-600);
-    padding: 2px 6px;
-    border-radius: 2px;
-    font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
-    font-size: 13px;
-    font-weight: 500;
 }
 
 @media (max-width: 768px) {

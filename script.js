@@ -42,41 +42,16 @@ function showSuggestions(query) {
         return;
     }
     const startTime = performance.now();
-    const searchTerm = query.toLowerCase().trim();
+    const searchTerm = query.trim();
     
-    const languageAbbreviations = {
-        'zh': 'comNameZh',
-        'zhsim': 'comNameZhCN', 
-        'jp': 'comNameJp',
-        'en': 'comName',
-        'de': 'comNameDe',
-        'fr': 'comNameFr',
-        'it': 'comNameIt',
-        'es': 'comNameEsES',
-        'esla': 'comNameEsLA',
-        'pt': 'comNamePtPT',
-        'ptbr': 'comNamePtBR',
-        'ru': 'comNameRu'
-    };
-    
+    const languageSelector = document.getElementById('languageSelector');
+    const selectedLangField = languageSelector ? languageSelector.value : 'comNameZh';
+
     const matches = speciesData.filter(species => {
-        const langMatch = searchTerm.match(/^([a-z]+):\s*(.+)$/);
-        const codeMatch = searchTerm.match(/^code:\s*(.+)$/);
-        
-        if (langMatch) {
-            const [, langCode, keyword] = langMatch;
-            const fieldName = languageAbbreviations[langCode];
-            if (fieldName && species[fieldName]) {
-                return species[fieldName].toLowerCase().includes(keyword);
-            }
-            return false;
-        }
+        const codeMatch = searchTerm.match(/^code:\s*(.+)/i);
         
         if (codeMatch) {
             const keyword = codeMatch[1].toLowerCase();
-            if (species.speciesCode && species.speciesCode.toLowerCase().includes(keyword)) {
-                return true;
-            }
             if (species.bandingCodes && Array.isArray(species.bandingCodes) && 
                 species.bandingCodes.some(code => code.toLowerCase().includes(keyword))) {
                 return true;
@@ -91,23 +66,24 @@ function showSuggestions(query) {
             }
             return false;
         }
-        
-        if (species.comNameZh && species.comNameZh.toLowerCase().includes(searchTerm)) {
+
+        // General search: selected language + English + scientific name + alternative names
+        const lowerCaseSearchTerm = searchTerm.toLowerCase();
+        if (species[selectedLangField] && species[selectedLangField].toLowerCase().includes(lowerCaseSearchTerm)) {
             return true;
         }
-        if (species.sciName && species.sciName.toLowerCase().includes(searchTerm)) {
+        if (selectedLangField !== 'comName' && species.comName && species.comName.toLowerCase().includes(lowerCaseSearchTerm)) {
+            return true;
+        }
+        if (species.sciName && species.sciName.toLowerCase().includes(lowerCaseSearchTerm)) {
             return true;
         }
         if (species.comNameList && species.comNameList.length > 0) {
             return species.comNameList.some(name =>
-                name.toLowerCase().includes(searchTerm)
+                name.toLowerCase().includes(lowerCaseSearchTerm)
             );
         }
-        for (const field in languageNames) {
-            if (species[field] && species[field].toLowerCase().includes(searchTerm)) {
-                return true;
-            }
-        }
+        
         return false;
     }).slice(0, 100);
     const endTime = performance.now();
@@ -240,7 +216,8 @@ function handleSearch() {
         if (exactMatch) {
             selectedSpecies = exactMatch;
         } else {
-            showError('Please select a species from the suggestion list');
+            document.getElementById('resultsContainer').style.display = 'none';
+            document.getElementById('noResults').style.display = 'block';
             return;
         }
     }
@@ -297,11 +274,10 @@ function createSpeciesDetailCard(species) {
     });
     titleSection.appendChild(scientificName);
     card.appendChild(titleSection);
-    if (species.speciesCode || species.bandingCodes || species.comNameCodes || species.sciNameCodes) {
+    if (species.bandingCodes || species.comNameCodes || species.sciNameCodes) {
         const metadata = document.createElement('div');
         metadata.className = 'species-metadata';
         const metadataItems = [
-            { label: 'Species Code', value: species.speciesCode },
             { label: 'Banding Codes', value: species.bandingCodes?.join(', ') },
             { label: 'Common Name Codes', value: species.comNameCodes?.join(', ') },
             { label: 'Scientific Name Codes', value: species.sciNameCodes?.join(', ') }
