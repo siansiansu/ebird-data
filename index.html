@@ -12,7 +12,7 @@
 <body>
     <div class="container">
         <header class="header">
-            <h1>Bird Name Finder</h1>
+            <h1>eBird Common Name Finder</h1>
             <p>Search for bird species in multiple languages</p>
         </header>
 
@@ -23,6 +23,20 @@
                         placeholder="Enter bird name, scientific name, or alternative name..." autocomplete="off">
                     <div id="suggestionsDropdown" class="suggestions-dropdown"></div>
                 </div>
+                <select id="languageSelector" class="language-selector">
+                    <option value="comNameZh">繁體中文</option>
+                    <option value="comName">English</option>
+                    <option value="comNameJp">日本語</option>
+                    <option value="comNameDe">Deutsch</option>
+                    <option value="comNameFr">Français</option>
+                    <option value="comNameIt">Italiano</option>
+                    <option value="comNameRu">Русский</option>
+                    <option value="comNameEsES">Español (España)</option>
+                    <option value="comNameEsLA">Español (Latinoamérica)</option>
+                    <option value="comNamePtPT">Português (Portugal)</option>
+                    <option value="comNamePtBR">Português (Brasil)</option>
+                    <option value="comNameZhSIM">简体中文</option>
+                </select>
                 <button id="searchButton" class="search-button">
                     <i class="fas fa-search"></i>
                 </button>
