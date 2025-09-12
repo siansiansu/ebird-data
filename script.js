@@ -264,7 +264,7 @@ function showCopyFeedback() {
     document.body.appendChild(feedback);
     setTimeout(() => {
         document.body.removeChild(feedback);
-    }, 1500);
+    }, 1000);
 }
 function createSpeciesDetailCard(species) {
     const card = document.createElement('div');
@@ -279,7 +279,8 @@ function createSpeciesDetailCard(species) {
         commonNameTitle.className = 'common-name-title clickable';
         commonNameTitle.textContent = commonNameText;
         commonNameTitle.title = 'Click to copy';
-        commonNameTitle.addEventListener('click', () => {
+        commonNameTitle.addEventListener('click', (event) => {
+            event.stopPropagation();
             copyToClipboard(commonNameText);
         });
         titleSection.appendChild(commonNameTitle);
@@ -288,7 +289,8 @@ function createSpeciesDetailCard(species) {
     scientificName.className = 'scientific-name-subtitle clickable';
     scientificName.textContent = species.sciName || '';
     scientificName.title = 'Click to copy';
-    scientificName.addEventListener('click', () => {
+    scientificName.addEventListener('click', (event) => {
+        event.stopPropagation();
         copyToClipboard(species.sciName || '');
     });
     titleSection.appendChild(scientificName);
@@ -312,7 +314,8 @@ function createSpeciesDetailCard(species) {
                 value.className = 'metadata-value clickable';
                 value.textContent = item.value;
                 value.title = 'Click to copy';
-                value.addEventListener('click', () => {
+                value.addEventListener('click', (event) => {
+                    event.stopPropagation();
                     copyToClipboard(item.value);
                 });
                 metadataItem.appendChild(label);
@@ -341,7 +344,8 @@ function createSpeciesDetailCard(species) {
             languageName.className = 'language-name clickable';
             languageName.textContent = species[field];
             languageName.title = 'Click to copy';
-            languageName.addEventListener('click', () => {
+            languageName.addEventListener('click', (event) => {
+                event.stopPropagation();
                 copyToClipboard(species[field]);
             });
             languageItem.appendChild(languageLabel);
