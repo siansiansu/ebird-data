@@ -85,6 +85,13 @@ function showSuggestions(query) {
         }
 
         return false;
+    }).filter(species => {
+        // Filter out species where selected language name equals default English name
+        // This means the species doesn't have a proper name in the selected language
+        if (selectedLangField !== 'comName' && species[selectedLangField] && species.comName) {
+            return species[selectedLangField].toLowerCase() !== species.comName.toLowerCase();
+        }
+        return true;
     }).slice(0, 100);
     const endTime = performance.now();
     const loadTime = Math.round(endTime - startTime);
@@ -208,11 +215,23 @@ function handleSearch() {
     if (!selectedSpecies) {
         const query = document.getElementById('searchInput').value.trim();
         if (!query) return;
-        const exactMatch = speciesData.find(species =>
-            (species.comNameZh && species.comNameZh.toLowerCase() === query.toLowerCase()) ||
-            (species.sciName && species.sciName.toLowerCase() === query.toLowerCase()) ||
-            (species.comName && species.comName.toLowerCase() === query.toLowerCase())
-        );
+        const languageSelector = document.getElementById('languageSelector');
+        const selectedLangField = languageSelector ? languageSelector.value : 'comNameZh';
+        
+        const exactMatch = speciesData.find(species => {
+            const matches = (species.comNameZh && species.comNameZh.toLowerCase() === query.toLowerCase()) ||
+                (species.sciName && species.sciName.toLowerCase() === query.toLowerCase()) ||
+                (species.comName && species.comName.toLowerCase() === query.toLowerCase());
+            
+            if (!matches) return false;
+            
+            // Apply language filtering: exclude species where selected language equals English name
+            if (selectedLangField !== 'comName' && species[selectedLangField] && species.comName) {
+                return species[selectedLangField].toLowerCase() !== species.comName.toLowerCase();
+            }
+            return true;
+        });
+        
         if (exactMatch) {
             selectedSpecies = exactMatch;
         } else {
@@ -307,6 +326,12 @@ function createSpeciesDetailCard(species) {
     languagesList.className = 'languages-list';
     Object.entries(languageNames).forEach(([field, langName]) => {
         if (species[field]) {
+            // Filter out languages where the name equals the English name
+            // This means the species doesn't have a proper name in that language
+            if (field !== 'comName' && species.comName && species[field].toLowerCase() === species.comName.toLowerCase()) {
+                return; // Skip this language
+            }
+            
             const languageItem = document.createElement('div');
             languageItem.className = 'language-item';
             const languageLabel = document.createElement('span');
