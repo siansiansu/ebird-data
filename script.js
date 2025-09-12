@@ -6,17 +6,17 @@ let selectedLanguage = 'comNameZh';
 let originalInputValue = '';
 const languageNames = {
     'comNameZh': '繁體中文',
-    'comNameZhCN': '简体中文',
     'comNameJp': '日本語',
     'comName': 'English',
-    'comNameDe': 'Deutsch',
-    'comNameFr': 'Français',
-    'comNameIt': 'Italiano',
-    'comNameEsES': 'Español (España)',
-    'comNameEsLA': 'Español (Latinoamérica)',
-    'comNamePtPT': 'Português (Portugal)',
-    'comNamePtBR': 'Português (Brasil)',
-    'comNameRu': 'Русский'
+    'comNameDe': 'Deutsch', // 德語
+    'comNameFr': 'Français', // 法語
+    'comNameIt': 'Italiano', // 義大利文
+    'comNameEsES': 'Español (España)', // 西班牙文（歐洲用語，Castellano）
+    'comNameEsLA': 'Español (Latinoamérica)', // 拉美西班牙文（Latin America and Caribbean region，419 代表「拉美地區」的代碼）
+    'comNameMn': 'Монгол', // 蒙古語
+    'comNamePtPT': 'Português (Portugal)', // 葡萄牙文（葡萄牙用語）
+    'comNamePtBR': 'Português (Brasil)', // 葡萄牙文（巴西用語，拼字、用詞有差異）
+    'comNameRu': 'Русский' // 俄文（俄羅斯標準）
 };
 async function loadSpeciesData() {
     if (isLoading || speciesData.length > 0) return;
@@ -43,24 +43,24 @@ function showSuggestions(query) {
     }
     const startTime = performance.now();
     const searchTerm = query.trim();
-    
+
     const languageSelector = document.getElementById('languageSelector');
     const selectedLangField = languageSelector ? languageSelector.value : 'comNameZh';
 
     const matches = speciesData.filter(species => {
         const codeMatch = searchTerm.match(/^code:\s*(.+)/i);
-        
+
         if (codeMatch) {
             const keyword = codeMatch[1].toLowerCase();
-            if (species.bandingCodes && Array.isArray(species.bandingCodes) && 
+            if (species.bandingCodes && Array.isArray(species.bandingCodes) &&
                 species.bandingCodes.some(code => code.toLowerCase().includes(keyword))) {
                 return true;
             }
-            if (species.comNameCodes && Array.isArray(species.comNameCodes) && 
+            if (species.comNameCodes && Array.isArray(species.comNameCodes) &&
                 species.comNameCodes.some(code => code.toLowerCase().includes(keyword))) {
                 return true;
             }
-            if (species.sciNameCodes && Array.isArray(species.sciNameCodes) && 
+            if (species.sciNameCodes && Array.isArray(species.sciNameCodes) &&
                 species.sciNameCodes.some(code => code.toLowerCase().includes(keyword))) {
                 return true;
             }
@@ -83,7 +83,7 @@ function showSuggestions(query) {
                 name.toLowerCase().includes(lowerCaseSearchTerm)
             );
         }
-        
+
         return false;
     }).slice(0, 100);
     const endTime = performance.now();

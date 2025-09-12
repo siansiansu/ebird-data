@@ -5,7 +5,7 @@ import subprocess
 import os
 import sys
 
-EBIRD_API_KEY = os.environ.get('EBIRD_API_KEY', 'EBIRD_API_KEY')
+EBIRD_API_KEY = os.environ.get('EBIRD_API_KEY', '694uloho5a0b')
 
 def run_curl_command(url, output_file=None):
     cmd = ['curl', '-s', '--location', url, '--header', f'x-ebirdapitoken: {EBIRD_API_KEY}']
@@ -60,11 +60,11 @@ def update_species_data():
         'fr': 'comNameFr',
         'it': 'comNameIt',
         'ja': 'comNameJp',
+        'mn-MN': 'comNameMn',
         'pt_PT': 'comNamePtPT',
         'pt_BR': 'comNamePtBR',
         'ru': 'comNameRu',
-        'zh': 'comNameZh',
-        'zh_SIM': 'comNameZhSIM'
+        'zh': 'comNameZh'
     }
 
     total_locales = len(locales)
