@@ -5,7 +5,7 @@ import subprocess
 import os
 import sys
 
-EBIRD_API_KEY = os.environ.get('EBIRD_API_KEY', '694uloho5a0b')
+EBIRD_API_KEY = os.environ.get('EBIRD_API_KEY', 'EBIRD_API_KEY')
 
 def run_curl_command(url, output_file=None):
     cmd = ['curl', '-s', '--location', url, '--header', f'x-ebirdapitoken: {EBIRD_API_KEY}']
