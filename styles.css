@@ -262,7 +262,8 @@ body {
     font-size: 13px;
     color: var(--ds-color-neutral-700);
     text-align: right;
-    margin-top: -8px; /* Pull it closer to the search bar */
+    margin-top: -8px;
+    /* Pull it closer to the search bar */
     margin-bottom: 16px;
 }
 
@@ -294,8 +295,13 @@ body {
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 .results-container {
@@ -451,8 +457,15 @@ body {
 }
 
 @keyframes fadeInOut {
-    0%, 100% { opacity: 0; }
-    50% { opacity: 1; }
+
+    0%,
+    100% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
 }
 
 /* Species metadata styles - matching language list */
@@ -578,16 +591,18 @@ footer a:hover {
     /* Mobile ad adjustments */
     .main-content {
         flex-direction: column;
+        gap: 12px;
     }
-    
+
     .ad-sidebar {
         width: 100%;
         position: static;
         order: 2;
     }
-    
+
     .results-container {
         order: 1;
+        width: 100%;
     }
 
     .search-container {
