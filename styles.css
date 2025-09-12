@@ -60,6 +60,26 @@ body {
     margin-bottom: 8px;
 }
 
+.site-title {
+    cursor: pointer;
+    transition: color 0.15s ease, transform 0.15s ease;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    justify-content: center;
+}
+
+.site-title:hover {
+    color: var(--ds-color-blue-600);
+    transform: scale(1.02);
+}
+
+.feather-icon {
+    width: 32px;
+    height: 32px;
+    stroke: currentColor;
+}
+
 .header p {
     color: var(--ds-color-neutral-800);
     font-size: 16px;
@@ -490,6 +510,49 @@ body {
     margin-bottom: 16px;
 }
 
+/* Ad Styles */
+.ad-banner-top,
+.ad-banner-bottom {
+    margin: 16px 0;
+    padding: 8px;
+    text-align: center;
+    border: 1px solid var(--ds-color-neutral-200);
+    border-radius: var(--ds-border-radius);
+    background-color: var(--ds-color-neutral-0);
+    max-width: 100%;
+}
+
+.ad-banner-top {
+    margin-bottom: 24px;
+}
+
+.ad-banner-bottom {
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
+.main-content {
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+}
+
+.ad-sidebar {
+    flex-shrink: 0;
+    width: 300px;
+    padding: 12px;
+    border: 1px solid var(--ds-color-neutral-200);
+    border-radius: var(--ds-border-radius);
+    background-color: var(--ds-color-neutral-0);
+    position: sticky;
+    top: 24px;
+}
+
+.results-container {
+    flex: 1;
+    min-width: 0;
+}
+
 footer {
     text-align: center;
     padding: 24px;
@@ -510,6 +573,21 @@ footer a:hover {
 @media (max-width: 768px) {
     .container {
         padding: 16px;
+    }
+
+    /* Mobile ad adjustments */
+    .main-content {
+        flex-direction: column;
+    }
+    
+    .ad-sidebar {
+        width: 100%;
+        position: static;
+        order: 2;
+    }
+    
+    .results-container {
+        order: 1;
     }
 
     .search-container {

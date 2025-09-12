@@ -4,17 +4,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>eBird Species Search</title>
+    <title>Bird Name Finder</title>
+
+    <!-- Favicon -->
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z'/><line x1='16' y1='8' x2='2' y2='22'/><line x1='17.5' y1='15' x2='9' y2='15'/></svg>"
+        type="image/svg+xml">
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
+
+    <!-- Google AdSense -->
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3939949103878273"
+        crossorigin="anonymous"></script> -->
 </head>
 
 <body>
     <div class="container">
         <header class="header">
-            <h1>Bird Name Finder</h1>
+            <h1 class="site-title" onclick="location.reload()">
+                <svg class="feather-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z" />
+                    <line x1="16" y1="8" x2="2" y2="22" />
+                    <line x1="17.5" y1="15" x2="9" y2="15" />
+                </svg>
+                Bird Name Finder
+            </h1>
             <p>Search Bird Species in Multiple Languages</p>
         </header>
+
+        <!-- Top Banner Ad -->
+        <!-- <div class="ad-banner-top">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3939949103878273"
+                data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div> -->
 
         <div class="search-section">
             <div class="search-container">
@@ -54,7 +81,18 @@
 
         <div id="errorMessage" class="error" style="display: none;"></div>
 
-        <div id="resultsContainer" class="results-container" style="display: none;">
+        <div class="main-content">
+            <!-- Side Ad -->
+            <!-- <div class="ad-sidebar">
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3939949103878273"
+                    data-ad-slot="0987654321" data-ad-format="rectangle"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div> -->
+
+            <div id="resultsContainer" class="results-container" style="display: none;">
+            </div>
         </div>
 
         <div id="noResults" class="no-results" style="display: none;">
@@ -64,6 +102,16 @@
     </div>
 
     <script src="script.js"></script>
+
+    <!-- Bottom Ad -->
+    <!-- <div class="ad-banner-bottom">
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3939949103878273"
+            data-ad-slot="1122334455" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div> -->
+
     <footer>
         © 2025 Bîn-hiân · ❤️ <a href="https://portaly.cc/siansiansu/support" target="_blank"
             rel="noopener noreferrer">Support Us</a>
