@@ -21,36 +21,26 @@ def run_curl_command(url, output_file=None):
         sys.exit(1)
 
 def update_region_data():
-
-    print("Updating region data...")
     region_list = ["TW", "JP"]
     combined_data = []
 
     for region in region_list:
-        print(f"  Fetching {region} region data...")
         url = f"https://api.ebird.org/v2/ref/hotspot/{region}?fmt=json"
         data = run_curl_command(url)
         try:
             region_data = json.loads(data)
             combined_data.extend(region_data)
-            print(f"  ✓ {region}: {len(region_data)} locations")
         except json.JSONDecodeError:
-            print(f"  ✗ {region}: Failed to parse JSON")
+            print(f"Failed to parse {region} region data")
             continue
 
     combined_data = [item for item in combined_data if item is not None]
 
-    print(f"Saving region data ({len(combined_data)} total locations)...")
     with open('./region.json', 'w', encoding='utf-8') as f:
         json.dump(combined_data, f, ensure_ascii=False, indent=4)
-
-    os.makedirs('./json', exist_ok=True)
-    with open('./json/region.json', 'w', encoding='utf-8') as f:
-        json.dump(combined_data, f, ensure_ascii=False, indent=4)
-    print("✓ Region data saved")
+    print(f"Region data saved: {len(combined_data)} locations")
 
 def update_species_data():
-    print("Updating species data...")
     species_data = {}
     locales = {
         'en': 'comName',
@@ -67,19 +57,15 @@ def update_species_data():
         'zh': 'comNameZh'
     }
 
-    total_locales = len(locales)
-    for i, locale in enumerate(locales.keys(), 1):
-        print(f"  Fetching {locale} species data ({i}/{total_locales})...")
+    for locale in locales.keys():
         url = f'https://api.ebird.org/v2/ref/taxonomy/ebird?fmt=json&locale={locale}'
         data = run_curl_command(url)
         try:
             species_data[locale] = json.loads(data)
-            print(f"  ✓ {locale}: {len(species_data[locale])} species")
         except json.JSONDecodeError:
-            print(f"  ✗ {locale}: Failed to parse JSON")
+            print(f"Failed to parse {locale} species data")
             continue
 
-    print("✓ Species data fetched")
     return species_data, locales
 
 def contains_traditional_chinese(text):
@@ -105,25 +91,19 @@ def generate_common_name_list(com_name_zh, species_mapping):
 
     for keyword, alternatives in species_mapping.items():
         if keyword in com_name_zh:
-            if keyword == '繡眼' and '畫眉' in com_name_zh:
-                continue
             com_name_list.extend(alternatives)
 
     return list(dict.fromkeys(com_name_list))
 
 def merge_species_data(species_data, locales):
-    print("Merging species data...")
     species_mapping = load_species_mapping()
-
     species_en = species_data.get('en', [])
-    print(f"  Processing {len(species_en)} species...")
 
     locale_dicts = {}
     for locale in locales.keys():
         if locale != 'en' and locale in species_data:
             locale_dicts[locale] = {item['sciName']: item for item in species_data[locale]}
 
-    print("  Merging multilingual names...")
     for en_item in species_en:
         sci_name = en_item.get('sciName')
 
@@ -140,15 +120,12 @@ def merge_species_data(species_data, locales):
             else:
                 en_item[field_name] = en_item.get('comName', '')
 
-    print("  Processing Chinese species names...")
     filtered_data = []
     for entry in species_en:
         if 'comNameZh' in entry and contains_traditional_chinese(entry['comNameZh']):
             comNameList = generate_common_name_list(entry['comNameZh'], species_mapping)
             entry['comNameList'] = comNameList
             filtered_data.append(entry)
-
-    print(f"  Generated alternative names for {len(filtered_data)} species")
 
     com_name_dict = {item['sciName']: item['comNameList'] for item in filtered_data}
 
@@ -159,34 +136,18 @@ def merge_species_data(species_data, locales):
         else:
             species['comNameList'] = []
 
-    print("Saving species data...")
     with open('./species.json', 'w', encoding='utf-8') as merged_file:
         json.dump(species_en, merged_file, ensure_ascii=False, indent=4)
-
-    with open('./json/species.json', 'w', encoding='utf-8') as merged_file:
-        json.dump(species_en, merged_file, ensure_ascii=False, indent=4)
-    print("✓ Species data saved")
+    print(f"Species data saved: {len(species_en)} species")
 
 def main():
-    print("🐦 eBird Data Update Started")
-    print("=" * 40)
+    print("eBird data update started")
 
     update_region_data()
-    print()
-
     species_data, locales = update_species_data()
-    print()
-
     merge_species_data(species_data, locales)
-    print()
 
-    print("=" * 40)
-    print("✅ eBird data update completed!")
-    print("Output files:")
-    print("  📄 ./region.json")
-    print("  📄 ./species.json")
-    print("  📁 ./json/region.json")
-    print("  📁 ./json/species.json")
+    print("Data update completed")
 
 
 if __name__ == "__main__":
