@@ -1,3 +1,27 @@
+// Language detection and title management
+function detectAndSetLanguage() {
+    const browserLang = navigator.language || navigator.userLanguage;
+    const isTraditionalChinese = browserLang === 'zh-TW' || browserLang === 'zh-Hant' ||
+                                browserLang === 'zh-HK' || browserLang === 'zh-MO';
+
+    const pageTitle = document.getElementById('pageTitle');
+    const siteTitle = document.getElementById('siteTitle');
+    const siteSubtitle = document.getElementById('siteSubtitle');
+
+    if (isTraditionalChinese) {
+        pageTitle.textContent = '鳥類俗名查詢器';
+        siteTitle.textContent = '鳥類俗名查詢器';
+        siteSubtitle.textContent = '搜尋各種語言的鳥類名稱';
+    } else {
+        pageTitle.textContent = 'Bird Name Finder';
+        siteTitle.textContent = 'Bird Name Finder';
+        siteSubtitle.textContent = 'Search Bird Names in Multiple Languages';
+    }
+}
+
+// Initialize language detection when DOM is loaded
+document.addEventListener('DOMContentLoaded', detectAndSetLanguage);
+
 let speciesData = [];
 let isLoading = false;
 let selectedSpecies = null;
@@ -217,21 +241,21 @@ function handleSearch() {
         if (!query) return;
         const languageSelector = document.getElementById('languageSelector');
         const selectedLangField = languageSelector ? languageSelector.value : 'comNameZh';
-        
+
         const exactMatch = speciesData.find(species => {
             const matches = (species.comNameZh && species.comNameZh.toLowerCase() === query.toLowerCase()) ||
                 (species.sciName && species.sciName.toLowerCase() === query.toLowerCase()) ||
                 (species.comName && species.comName.toLowerCase() === query.toLowerCase());
-            
+
             if (!matches) return false;
-            
+
             // Apply language filtering: exclude species where selected language equals English name
             if (selectedLangField !== 'comName' && species[selectedLangField] && species.comName) {
                 return species[selectedLangField].toLowerCase() !== species.comName.toLowerCase();
             }
             return true;
         });
-        
+
         if (exactMatch) {
             selectedSpecies = exactMatch;
         } else {
@@ -334,7 +358,7 @@ function createSpeciesDetailCard(species) {
             if (field !== 'comName' && species.comName && species[field].toLowerCase() === species.comName.toLowerCase()) {
                 return; // Skip this language
             }
-            
+
             const languageItem = document.createElement('div');
             languageItem.className = 'language-item';
             const languageLabel = document.createElement('span');
